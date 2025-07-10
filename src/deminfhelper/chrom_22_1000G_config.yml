@@ -1,0 +1,56 @@
+out_dir: ./test_chrom22/
+## DATA
+vcf: ./data/ALL.chr22.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz
+#ref_genome: None
+## L: effective sequence length genotyped
+L: 2000000
+## Population(s)
+name_pop: cerevisiae
+npop: 1
+# POP 1
+# by default, using all the samples
+#cerevisiae: p1_ind0, p1_ind1...
+# PARAM
+# 4 days equivalent in years
+gen_time: 0.0109
+mut_rate: 1e-8
+## COMPUTE SFS
+out_dir_sfs: ./test_chrom22/
+folded: True
+length_cutoff: 10000
+## SFS if previously computed
+path_to_sfs: ./test_chrom22/SFS_cerevisiae.fs
+out_dir_stairwayplot2: ./test_chrom22/output_stairwayplot2/
+summary_file_stw: ./test_chrom22/output_stairwayplot2/s_cerevisiae/cerevisiae.final.summary
+out_dir_dadi: ./test_chrom22/output_dadi/
+optimizations: 100
+out_dir_msmc2: ./test_chrom22/output_msmc2/
+## SMC++
+out_dir_smcpp: ./test_chrom22/output_smcpp/
+## PSMC
+out_dir_psmc: ./test_chrom22/output_psmc/
+plot_file_smcpp: ./test_chrom22/output_smcpp/cerevisiae_inference.csv
+psmc_kwargs: -N25 -t15 -r5 -p "4+25*2+4+6"
+plot_psmc_kwargs: -x 10**4
+## GQ distribution
+out_dir_gq_distrib: ./test_chrom22/output_stats/
+## FINAL INFERENCES
+final_out_dir: ./test_chrom22/inferences/
+## Stats
+out_dir_stats: ./test_chrom22/output_stats/
+## PCA K-means clustering
+n_clust_kmeans: 1
+## CONFIGURATION FILE FOR DemInfHelper
+# STAIRWAYPLOT
+path_to_stairwayplot2: ../deminfhelper/bin/stairway_plot_es/
+blueprint_template: ../deminfhelper/bin/template.blueprint
+## DADI
+lower_bound: 1, 1, 0.05, 0.01
+p0: 0.01, 0.001, 0.01, 0.01
+upper_bound: 10, 4, 0.1, 10
+# Filtering
+contig_filter: .*
+# .* # to omit filtering
+# MSMC2
+msmc2_kwargs: -i 25 -p 1*2+25*1+1*2+1*3
+L_computed: 435207083

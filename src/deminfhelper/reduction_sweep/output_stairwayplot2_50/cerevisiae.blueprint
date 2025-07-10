@@ -1,0 +1,25 @@
+#blueprint
+#input setting
+popid: cerevisiae
+nseq: 200
+L: 2000000
+whether_folded: True
+sfs: 5446 3591 2077 1523 1352 1314 1087 932 759 768 678 607 610 556 566 479 495 439 398 385 418 350 367 290 302 293 306 301 252 317 223 276 220 209 260 231 229 221 206 238 207 247 208 198 198 173 213 163 200 184 161 194 156 177 170 175 186 166 152 146 177 156 179 182 157 137 159 124 146 152 145 170 175 167 157 139 159 131 150 121 128 156 122 142 155 153 153 151 164 158 137 163 169 138 151 157 139 151 134 66
+#smallest_size_of_SFS_bin_used_for_estimation: 1
+#largest_size_of_SFS_bin_used_for_estimation: nseq/2 ou nseq-1
+pct_training: 0.99
+nrand: 49 99 148 198
+project_dir: ./reduction_sweep/output_stairwayplot2_50/cerevisiae
+stairway_plot_dir: ./bin/stairway_plot_es/
+ninput: 200
+#random_seed: 6
+#output setting
+mu: 1e-7
+year_per_generation: 0.0027
+#plot setting
+plot_title: cerevisiae
+xrange: 0,0
+yrange: 0,0
+xspacing: 2
+yspacing: 2
+fontsize: 12

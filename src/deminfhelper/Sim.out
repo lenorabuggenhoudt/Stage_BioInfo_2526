@@ -1,0 +1,10 @@
+Enter the main
+Parsing ../slimulations/results/neutral/reduction/vcf/ts_1_1.vcf.gz to get samples list.
+Parsing ../slimulations/results/neutral/reduction/vcf/ts_1_1.vcf.gz to get contigs sizes.
+Finished getting contig sizes.
+Contigs={'1': 1000000, '2': 1000000}
+First parsing the VCF to determine the distribution of distances between variants.
+SFS parsing: Done. Filtering variants keeping only variants with a distance that is lower than : 965.0 (90' percentile)
+Finished building SFS.
+Adding L_computed= 208090 to reduction_neutral_1_config.yml
+Parsing ../slimulations/results/neutral/reduction/vcf/ts_1_1.vcf.gz to get samples list.

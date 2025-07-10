@@ -1,0 +1,57 @@
+out_dir: ./reduction_neutral/
+## DATA
+vcf: ../slimulations/results/neutral/reduction/vcf/ts_1_50.vcf.gz
+GR: 50
+#ref_genome: None
+## L: effective sequence length genotyped
+L: 2000000
+## Population(s)
+name_pop: cerevisiae
+npop: 1
+# POP 1
+# by default, using all the samples
+#cerevisiae: p1_ind0, p1_ind1...
+# PARAM
+# 4 days equivalent in years
+gen_time: 0.0027
+mut_rate: 1e-7
+## COMPUTE SFS
+out_dir_sfs: ./reduction_neutral/
+folded: True
+length_cutoff: 10000
+## SFS if previously computed
+path_to_sfs: ./reduction_neutral/SFS_cerevisiae_50.fs
+out_dir_stairwayplot2: ./reduction_neutral/output_stairwayplot2_50/
+summary_file_stw: ./reduction_neutral/output_stairwayplot2_50/s_cerevisiae/cerevisiae_50.final.summary
+out_dir_dadi: ./reduction_neutral/output_dadi/
+optimizations: 100
+out_dir_msmc2: ./reduction_neutral/output_msmc2/
+## SMC++
+out_dir_smcpp: ./reduction_neutral/output_smcpp/
+## PSMC
+out_dir_psmc: ./reduction_neutral/output_psmc/
+plot_file_smcpp: ./reduction_neutral/output_smcpp/cerevisiae_inference.csv
+psmc_kwargs: -N25 -t15 -r5 -p "4+25*2+4+6"
+plot_psmc_kwargs: -x 10**4
+## GQ distribution
+out_dir_gq_distrib: ./reduction_neutral/output_stats/
+## FINAL INFERENCES
+final_out_dir: ./reduction_neutral/inferences/
+## Stats
+out_dir_stats: ./reduction_neutral/output_stats/
+## PCA K-means clustering
+n_clust_kmeans: 1
+## CONFIGURATION FILE FOR DemInfHelper
+# STAIRWAYPLOT
+path_to_stairwayplot2: ./bin/stairway_plot_es/
+blueprint_template: ./bin/own.blueprint
+## DADI
+lower_bound: 0.001, 0.001
+p0: 0.5, 0.5
+upper_bound: 1, 1
+# Filtering
+contig_filter: .*
+# .* # to omit filtering
+# MSMC2
+msmc2_kwargs: -i 25 -p 1*2+25*1+1*2+1*3
+L_computed: 205227
