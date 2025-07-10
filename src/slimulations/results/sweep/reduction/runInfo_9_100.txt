@@ -1,0 +1,4031 @@
+// Initial random seed:
+42623142565088
+
+// RunInitializeCallbacks():
+initializeTreeSeq();
+initializeMutationRate(c(0, 1e-07, 0), c(499999, 500000, 1999999));
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(2, 0.5, "f", 0.05);
+initializeGenomicElementType(1, m1, 1);
+initializeRecombinationRate(c(1e-05, 0.5, 1e-05), c(999999, 1000000, 1999999));
+initializeGenomicElement(g1, 0, 1999999);
+
+// Starting run at tick <start>:
+1 
+
+Late 8000 
+Generation : 8000
+In progress
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+42623142565088: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+In progress
+Generation : 8027
+In progress
+Generation : 8028
+In progress
+Generation : 8029
+In progress
+Generation : 8030
+In progress
+Generation : 8031
+In progress
+Generation : 8032
+In progress
+Generation : 8033
+In progress
+Generation : 8034
+In progress
+Generation : 8035
+In progress
+Generation : 8036
+In progress
+Generation : 8037
+In progress
+Generation : 8038
+In progress
+Generation : 8039
+In progress
+Generation : 8040
+In progress
+Generation : 8041
+In progress
+Generation : 8042
+In progress
+Generation : 8043
+In progress
+Generation : 8044
+In progress
+Generation : 8045
+In progress
+Generation : 8046
+In progress
+Generation : 8047
+In progress
+Generation : 8048
+In progress
+Generation : 8049
+In progress
+Generation : 8050
+In progress
+Generation : 8051
+In progress
+Generation : 8052
+In progress
+Generation : 8053
+In progress
+Generation : 8054
+In progress
+Generation : 8055
+In progress
+Generation : 8056
+In progress
+Generation : 8057
+In progress
+Generation : 8058
+In progress
+Generation : 8059
+In progress
+Generation : 8060
+In progress
+Generation : 8061
+In progress
+Generation : 8062
+In progress
+Generation : 8063
+In progress
+Generation : 8064
+In progress
+Generation : 8065
+In progress
+Generation : 8066
+In progress
+Generation : 8067
+In progress
+Generation : 8068
+In progress
+Generation : 8069
+In progress
+Generation : 8070
+In progress
+Generation : 8071
+In progress
+Generation : 8072
+In progress
+Generation : 8073
+In progress
+Generation : 8074
+In progress
+Generation : 8075
+In progress
+Generation : 8076
+In progress
+Generation : 8077
+In progress
+Generation : 8078
+In progress
+Generation : 8079
+In progress
+Generation : 8080
+In progress
+Generation : 8081
+In progress
+Generation : 8082
+In progress
+Generation : 8083
+In progress
+Generation : 8084
+In progress
+Generation : 8085
+In progress
+Generation : 8086
+In progress
+Generation : 8087
+In progress
+Generation : 8088
+In progress
+Generation : 8089
+In progress
+Generation : 8090
+In progress
+Generation : 8091
+In progress
+Generation : 8092
+In progress
+Generation : 8093
+In progress
+Generation : 8094
+In progress
+Generation : 8095
+In progress
+Generation : 8096
+In progress
+Generation : 8097
+In progress
+Generation : 8098
+In progress
+Generation : 8099
+In progress
+Generation : 8100
+In progress
+Generation : 8101
+In progress
+Generation : 8102
+In progress
+Generation : 8103
+In progress
+Generation : 8104
+In progress
+Generation : 8105
+In progress
+Generation : 8106
+In progress
+Generation : 8107
+In progress
+Generation : 8108
+In progress
+Generation : 8109
+In progress
+Generation : 8110
+In progress
+Generation : 8111
+In progress
+Generation : 8112
+In progress
+Generation : 8113
+In progress
+Generation : 8114
+In progress
+Generation : 8115
+In progress
+Generation : 8116
+In progress
+Generation : 8117
+In progress
+Generation : 8118
+In progress
+Generation : 8119
+In progress
+Generation : 8120
+In progress
+Generation : 8121
+In progress
+Generation : 8122
+In progress
+Generation : 8123
+In progress
+Generation : 8124
+In progress
+Generation : 8125
+In progress
+Generation : 8126
+In progress
+Generation : 8127
+In progress
+Generation : 8128
+In progress
+Generation : 8129
+In progress
+Generation : 8130
+In progress
+Generation : 8131
+In progress
+Generation : 8132
+In progress
+Generation : 8133
+In progress
+Generation : 8134
+In progress
+Generation : 8135
+In progress
+Generation : 8136
+In progress
+Generation : 8137
+In progress
+Generation : 8138
+In progress
+Generation : 8139
+In progress
+Generation : 8140
+In progress
+Generation : 8141
+In progress
+Generation : 8142
+In progress
+Generation : 8143
+In progress
+Generation : 8144
+In progress
+Generation : 8145
+In progress
+Generation : 8146
+In progress
+Generation : 8147
+In progress
+Generation : 8148
+In progress
+Generation : 8149
+In progress
+Generation : 8150
+In progress
+Generation : 8151
+In progress
+Generation : 8152
+In progress
+Generation : 8153
+In progress
+Generation : 8154
+In progress
+Generation : 8155
+In progress
+Generation : 8156
+In progress
+Generation : 8157
+In progress
+Generation : 8158
+In progress
+Generation : 8159
+In progress
+Generation : 8160
+In progress
+Generation : 8161
+In progress
+Generation : 8162
+In progress
+Generation : 8163
+In progress
+Generation : 8164
+In progress
+Generation : 8165
+In progress
+Generation : 8166
+In progress
+Generation : 8167
+In progress
+Generation : 8168
+In progress
+Generation : 8169
+In progress
+Generation : 8170
+In progress
+Generation : 8171
+In progress
+Generation : 8172
+In progress
+Generation : 8173
+In progress
+Generation : 8174
+In progress
+Generation : 8175
+In progress
+Generation : 8176
+In progress
+Generation : 8177
+In progress
+Generation : 8178
+In progress
+Generation : 8179
+In progress
+Generation : 8180
+In progress
+Generation : 8181
+In progress
+Generation : 8182
+In progress
+Generation : 8183
+In progress
+Generation : 8184
+In progress
+Generation : 8185
+In progress
+Generation : 8186
+In progress
+Generation : 8187
+In progress
+Generation : 8188
+In progress
+Generation : 8189
+In progress
+Generation : 8190
+In progress
+Generation : 8191
+In progress
+Generation : 8192
+In progress
+Generation : 8193
+In progress
+Generation : 8194
+In progress
+Generation : 8195
+In progress
+Generation : 8196
+In progress
+Generation : 8197
+In progress
+Generation : 8198
+In progress
+Generation : 8199
+In progress
+Generation : 8200
+In progress
+Generation : 8201
+In progress
+Generation : 8202
+In progress
+Generation : 8203
+In progress
+Generation : 8204
+In progress
+Generation : 8205
+In progress
+Generation : 8206
+In progress
+Generation : 8207
+In progress
+Generation : 8208
+In progress
+Generation : 8209
+In progress
+Generation : 8210
+In progress
+Generation : 8211
+In progress
+Generation : 8212
+In progress
+Generation : 8213
+In progress
+Generation : 8214
+In progress
+Generation : 8215
+In progress
+Generation : 8216
+In progress
+Generation : 8217
+In progress
+Generation : 8218
+In progress
+Generation : 8219
+In progress
+Generation : 8220
+In progress
+Generation : 8221
+In progress
+Generation : 8222
+In progress
+Generation : 8223
+In progress
+Generation : 8224
+In progress
+Generation : 8225
+In progress
+Generation : 8226
+In progress
+Generation : 8227
+In progress
+Generation : 8228
+In progress
+Generation : 8229
+In progress
+Generation : 8230
+In progress
+Generation : 8231
+In progress
+Generation : 8232
+In progress
+Generation : 8233
+In progress
+Generation : 8234
+In progress
+Generation : 8235
+In progress
+Generation : 8236
+In progress
+Generation : 8237
+In progress
+Generation : 8238
+In progress
+Generation : 8239
+In progress
+Generation : 8240
+In progress
+Generation : 8241
+In progress
+Generation : 8242
+In progress
+Generation : 8243
+In progress
+Generation : 8244
+In progress
+Generation : 8245
+In progress
+Generation : 8246
+In progress
+Generation : 8247
+In progress
+Generation : 8248
+42623142565088: FIXED
+Generation : 8249
+42623142565088: FIXED
+Generation : 8250
+42623142565088: FIXED
+Generation : 8251
+42623142565088: FIXED
+Generation : 8252
+42623142565088: FIXED
+Generation : 8253
+42623142565088: FIXED
+Generation : 8254
+42623142565088: FIXED
+Generation : 8255
+42623142565088: FIXED
+Generation : 8256
+42623142565088: FIXED
+Generation : 8257
+42623142565088: FIXED
+Generation : 8258
+42623142565088: FIXED
+Generation : 8259
+42623142565088: FIXED
+Generation : 8260
+42623142565088: FIXED
+Generation : 8261
+42623142565088: FIXED
+Generation : 8262
+42623142565088: FIXED
+Generation : 8263
+42623142565088: FIXED
+Generation : 8264
+42623142565088: FIXED
+Generation : 8265
+42623142565088: FIXED
+Generation : 8266
+42623142565088: FIXED
+Generation : 8267
+42623142565088: FIXED
+Generation : 8268
+42623142565088: FIXED
+Generation : 8269
+42623142565088: FIXED
+Generation : 8270
+42623142565088: FIXED
+Generation : 8271
+42623142565088: FIXED
+Generation : 8272
+42623142565088: FIXED
+Generation : 8273
+42623142565088: FIXED
+Generation : 8274
+42623142565088: FIXED
+Generation : 8275
+42623142565088: FIXED
+Generation : 8276
+42623142565088: FIXED
+Generation : 8277
+42623142565088: FIXED
+Generation : 8278
+42623142565088: FIXED
+Generation : 8279
+42623142565088: FIXED
+Generation : 8280
+42623142565088: FIXED
+Generation : 8281
+42623142565088: FIXED
+Generation : 8282
+42623142565088: FIXED
+Generation : 8283
+42623142565088: FIXED
+Generation : 8284
+42623142565088: FIXED
+Generation : 8285
+42623142565088: FIXED
+Generation : 8286
+42623142565088: FIXED
+Generation : 8287
+42623142565088: FIXED
+Generation : 8288
+42623142565088: FIXED
+Generation : 8289
+42623142565088: FIXED
+Generation : 8290
+42623142565088: FIXED
+Generation : 8291
+42623142565088: FIXED
+Generation : 8292
+42623142565088: FIXED
+Generation : 8293
+42623142565088: FIXED
+Generation : 8294
+42623142565088: FIXED
+Generation : 8295
+42623142565088: FIXED
+Generation : 8296
+42623142565088: FIXED
+Generation : 8297
+42623142565088: FIXED
+Generation : 8298
+42623142565088: FIXED
+Generation : 8299
+42623142565088: FIXED
+Generation : 8300
+42623142565088: FIXED
+Generation : 8301
+42623142565088: FIXED
+Generation : 8302
+42623142565088: FIXED
+Generation : 8303
+42623142565088: FIXED
+Generation : 8304
+42623142565088: FIXED
+Generation : 8305
+42623142565088: FIXED
+Generation : 8306
+42623142565088: FIXED
+Generation : 8307
+42623142565088: FIXED
+Generation : 8308
+42623142565088: FIXED
+Generation : 8309
+42623142565088: FIXED
+Generation : 8310
+42623142565088: FIXED
+Generation : 8311
+42623142565088: FIXED
+Generation : 8312
+42623142565088: FIXED
+Generation : 8313
+42623142565088: FIXED
+Generation : 8314
+42623142565088: FIXED
+Generation : 8315
+42623142565088: FIXED
+Generation : 8316
+42623142565088: FIXED
+Generation : 8317
+42623142565088: FIXED
+Generation : 8318
+42623142565088: FIXED
+Generation : 8319
+42623142565088: FIXED
+Generation : 8320
+42623142565088: FIXED
+Generation : 8321
+42623142565088: FIXED
+Generation : 8322
+42623142565088: FIXED
+Generation : 8323
+42623142565088: FIXED
+Generation : 8324
+42623142565088: FIXED
+Generation : 8325
+42623142565088: FIXED
+Generation : 8326
+42623142565088: FIXED
+Generation : 8327
+42623142565088: FIXED
+Generation : 8328
+42623142565088: FIXED
+Generation : 8329
+42623142565088: FIXED
+Generation : 8330
+42623142565088: FIXED
+Generation : 8331
+42623142565088: FIXED
+Generation : 8332
+42623142565088: FIXED
+Generation : 8333
+42623142565088: FIXED
+Generation : 8334
+42623142565088: FIXED
+Generation : 8335
+42623142565088: FIXED
+Generation : 8336
+42623142565088: FIXED
+Generation : 8337
+42623142565088: FIXED
+Generation : 8338
+42623142565088: FIXED
+Generation : 8339
+42623142565088: FIXED
+Generation : 8340
+42623142565088: FIXED
+Generation : 8341
+42623142565088: FIXED
+Generation : 8342
+42623142565088: FIXED
+Generation : 8343
+42623142565088: FIXED
+Generation : 8344
+42623142565088: FIXED
+Generation : 8345
+42623142565088: FIXED
+Generation : 8346
+42623142565088: FIXED
+Generation : 8347
+42623142565088: FIXED
+Generation : 8348
+42623142565088: FIXED
+Generation : 8349
+42623142565088: FIXED
+Generation : 8350
+42623142565088: FIXED
+Generation : 8351
+42623142565088: FIXED
+Generation : 8352
+42623142565088: FIXED
+Generation : 8353
+42623142565088: FIXED
+Generation : 8354
+42623142565088: FIXED
+Generation : 8355
+42623142565088: FIXED
+Generation : 8356
+42623142565088: FIXED
+Generation : 8357
+42623142565088: FIXED
+Generation : 8358
+42623142565088: FIXED
+Generation : 8359
+42623142565088: FIXED
+Generation : 8360
+42623142565088: FIXED
+Generation : 8361
+42623142565088: FIXED
+Generation : 8362
+42623142565088: FIXED
+Generation : 8363
+42623142565088: FIXED
+Generation : 8364
+42623142565088: FIXED
+Generation : 8365
+42623142565088: FIXED
+Generation : 8366
+42623142565088: FIXED
+Generation : 8367
+42623142565088: FIXED
+Generation : 8368
+42623142565088: FIXED
+Generation : 8369
+42623142565088: FIXED
+Generation : 8370
+42623142565088: FIXED
+Generation : 8371
+42623142565088: FIXED
+Generation : 8372
+42623142565088: FIXED
+Generation : 8373
+42623142565088: FIXED
+Generation : 8374
+42623142565088: FIXED
+Generation : 8375
+42623142565088: FIXED
+Generation : 8376
+42623142565088: FIXED
+Generation : 8377
+42623142565088: FIXED
+Generation : 8378
+42623142565088: FIXED
+Generation : 8379
+42623142565088: FIXED
+Generation : 8380
+42623142565088: FIXED
+Generation : 8381
+42623142565088: FIXED
+Generation : 8382
+42623142565088: FIXED
+Generation : 8383
+42623142565088: FIXED
+Generation : 8384
+42623142565088: FIXED
+Generation : 8385
+42623142565088: FIXED
+Generation : 8386
+42623142565088: FIXED
+Generation : 8387
+42623142565088: FIXED
+Generation : 8388
+42623142565088: FIXED
+Generation : 8389
+42623142565088: FIXED
+Generation : 8390
+42623142565088: FIXED
+Generation : 8391
+42623142565088: FIXED
+Generation : 8392
+42623142565088: FIXED
+Generation : 8393
+42623142565088: FIXED
+Generation : 8394
+42623142565088: FIXED
+Generation : 8395
+42623142565088: FIXED
+Generation : 8396
+42623142565088: FIXED
+Generation : 8397
+42623142565088: FIXED
+Generation : 8398
+42623142565088: FIXED
+Generation : 8399
+42623142565088: FIXED
+Generation : 8400
+42623142565088: FIXED
+Generation : 8401
+42623142565088: FIXED
+Generation : 8402
+42623142565088: FIXED
+Generation : 8403
+42623142565088: FIXED
+Generation : 8404
+42623142565088: FIXED
+Generation : 8405
+42623142565088: FIXED
+Generation : 8406
+42623142565088: FIXED
+Generation : 8407
+42623142565088: FIXED
+Generation : 8408
+42623142565088: FIXED
+Generation : 8409
+42623142565088: FIXED
+Generation : 8410
+42623142565088: FIXED
+Generation : 8411
+42623142565088: FIXED
+Generation : 8412
+42623142565088: FIXED
+Generation : 8413
+42623142565088: FIXED
+Generation : 8414
+42623142565088: FIXED
+Generation : 8415
+42623142565088: FIXED
+Generation : 8416
+42623142565088: FIXED
+Generation : 8417
+42623142565088: FIXED
+Generation : 8418
+42623142565088: FIXED
+Generation : 8419
+42623142565088: FIXED
+Generation : 8420
+42623142565088: FIXED
+Generation : 8421
+42623142565088: FIXED
+Generation : 8422
+42623142565088: FIXED
+Generation : 8423
+42623142565088: FIXED
+Generation : 8424
+42623142565088: FIXED
+Generation : 8425
+42623142565088: FIXED
+Generation : 8426
+42623142565088: FIXED
+Generation : 8427
+42623142565088: FIXED
+Generation : 8428
+42623142565088: FIXED
+Generation : 8429
+42623142565088: FIXED
+Generation : 8430
+42623142565088: FIXED
+Generation : 8431
+42623142565088: FIXED
+Generation : 8432
+42623142565088: FIXED
+Generation : 8433
+42623142565088: FIXED
+Generation : 8434
+42623142565088: FIXED
+Generation : 8435
+42623142565088: FIXED
+Generation : 8436
+42623142565088: FIXED
+Generation : 8437
+42623142565088: FIXED
+Generation : 8438
+42623142565088: FIXED
+Generation : 8439
+42623142565088: FIXED
+Generation : 8440
+42623142565088: FIXED
+Generation : 8441
+42623142565088: FIXED
+Generation : 8442
+42623142565088: FIXED
+Generation : 8443
+42623142565088: FIXED
+Generation : 8444
+42623142565088: FIXED
+Generation : 8445
+42623142565088: FIXED
+Generation : 8446
+42623142565088: FIXED
+Generation : 8447
+42623142565088: FIXED
+Generation : 8448
+42623142565088: FIXED
+Generation : 8449
+42623142565088: FIXED
+Generation : 8450
+42623142565088: FIXED
+Generation : 8451
+42623142565088: FIXED
+Generation : 8452
+42623142565088: FIXED
+Generation : 8453
+42623142565088: FIXED
+Generation : 8454
+42623142565088: FIXED
+Generation : 8455
+42623142565088: FIXED
+Generation : 8456
+42623142565088: FIXED
+Generation : 8457
+42623142565088: FIXED
+Generation : 8458
+42623142565088: FIXED
+Generation : 8459
+42623142565088: FIXED
+Generation : 8460
+42623142565088: FIXED
+Generation : 8461
+42623142565088: FIXED
+Generation : 8462
+42623142565088: FIXED
+Generation : 8463
+42623142565088: FIXED
+Generation : 8464
+42623142565088: FIXED
+Generation : 8465
+42623142565088: FIXED
+Generation : 8466
+42623142565088: FIXED
+Generation : 8467
+42623142565088: FIXED
+Generation : 8468
+42623142565088: FIXED
+Generation : 8469
+42623142565088: FIXED
+Generation : 8470
+42623142565088: FIXED
+Generation : 8471
+42623142565088: FIXED
+Generation : 8472
+42623142565088: FIXED
+Generation : 8473
+42623142565088: FIXED
+Generation : 8474
+42623142565088: FIXED
+Generation : 8475
+42623142565088: FIXED
+Generation : 8476
+42623142565088: FIXED
+Generation : 8477
+42623142565088: FIXED
+Generation : 8478
+42623142565088: FIXED
+Generation : 8479
+42623142565088: FIXED
+Generation : 8480
+42623142565088: FIXED
+Generation : 8481
+42623142565088: FIXED
+Generation : 8482
+42623142565088: FIXED
+Generation : 8483
+42623142565088: FIXED
+Generation : 8484
+42623142565088: FIXED
+Generation : 8485
+42623142565088: FIXED
+Generation : 8486
+42623142565088: FIXED
+Generation : 8487
+42623142565088: FIXED
+Generation : 8488
+42623142565088: FIXED
+Generation : 8489
+42623142565088: FIXED
+Generation : 8490
+42623142565088: FIXED
+Generation : 8491
+42623142565088: FIXED
+Generation : 8492
+42623142565088: FIXED
+Generation : 8493
+42623142565088: FIXED
+Generation : 8494
+42623142565088: FIXED
+Generation : 8495
+42623142565088: FIXED
+Generation : 8496
+42623142565088: FIXED
+Generation : 8497
+42623142565088: FIXED
+Generation : 8498
+42623142565088: FIXED
+Generation : 8499
+42623142565088: FIXED
+Generation : 8500
+42623142565088: FIXED
+Generation : 8501
+42623142565088: FIXED
+Generation : 8502
+42623142565088: FIXED
+Generation : 8503
+42623142565088: FIXED
+Generation : 8504
+42623142565088: FIXED
+Generation : 8505
+42623142565088: FIXED
+Generation : 8506
+42623142565088: FIXED
+Generation : 8507
+42623142565088: FIXED
+Generation : 8508
+42623142565088: FIXED
+Generation : 8509
+42623142565088: FIXED
+Generation : 8510
+42623142565088: FIXED
+Generation : 8511
+42623142565088: FIXED
+Generation : 8512
+42623142565088: FIXED
+Generation : 8513
+42623142565088: FIXED
+Generation : 8514
+42623142565088: FIXED
+Generation : 8515
+42623142565088: FIXED
+Generation : 8516
+42623142565088: FIXED
+Generation : 8517
+42623142565088: FIXED
+Generation : 8518
+42623142565088: FIXED
+Generation : 8519
+42623142565088: FIXED
+Generation : 8520
+42623142565088: FIXED
+Generation : 8521
+42623142565088: FIXED
+Generation : 8522
+42623142565088: FIXED
+Generation : 8523
+42623142565088: FIXED
+Generation : 8524
+42623142565088: FIXED
+Generation : 8525
+42623142565088: FIXED
+Generation : 8526
+42623142565088: FIXED
+Generation : 8527
+42623142565088: FIXED
+Generation : 8528
+42623142565088: FIXED
+Generation : 8529
+42623142565088: FIXED
+Generation : 8530
+42623142565088: FIXED
+Generation : 8531
+42623142565088: FIXED
+Generation : 8532
+42623142565088: FIXED
+Generation : 8533
+42623142565088: FIXED
+Generation : 8534
+42623142565088: FIXED
+Generation : 8535
+42623142565088: FIXED
+Generation : 8536
+42623142565088: FIXED
+Generation : 8537
+42623142565088: FIXED
+Generation : 8538
+42623142565088: FIXED
+Generation : 8539
+42623142565088: FIXED
+Generation : 8540
+42623142565088: FIXED
+Generation : 8541
+42623142565088: FIXED
+Generation : 8542
+42623142565088: FIXED
+Generation : 8543
+42623142565088: FIXED
+Generation : 8544
+42623142565088: FIXED
+Generation : 8545
+42623142565088: FIXED
+Generation : 8546
+42623142565088: FIXED
+Generation : 8547
+42623142565088: FIXED
+Generation : 8548
+42623142565088: FIXED
+Generation : 8549
+42623142565088: FIXED
+Generation : 8550
+42623142565088: FIXED
+Generation : 8551
+42623142565088: FIXED
+Generation : 8552
+42623142565088: FIXED
+Generation : 8553
+42623142565088: FIXED
+Generation : 8554
+42623142565088: FIXED
+Generation : 8555
+42623142565088: FIXED
+Generation : 8556
+42623142565088: FIXED
+Generation : 8557
+42623142565088: FIXED
+Generation : 8558
+42623142565088: FIXED
+Generation : 8559
+42623142565088: FIXED
+Generation : 8560
+42623142565088: FIXED
+Generation : 8561
+42623142565088: FIXED
+Generation : 8562
+42623142565088: FIXED
+Generation : 8563
+42623142565088: FIXED
+Generation : 8564
+42623142565088: FIXED
+Generation : 8565
+42623142565088: FIXED
+Generation : 8566
+42623142565088: FIXED
+Generation : 8567
+42623142565088: FIXED
+Generation : 8568
+42623142565088: FIXED
+Generation : 8569
+42623142565088: FIXED
+Generation : 8570
+42623142565088: FIXED
+Generation : 8571
+42623142565088: FIXED
+Generation : 8572
+42623142565088: FIXED
+Generation : 8573
+42623142565088: FIXED
+Generation : 8574
+42623142565088: FIXED
+Generation : 8575
+42623142565088: FIXED
+Generation : 8576
+42623142565088: FIXED
+Generation : 8577
+42623142565088: FIXED
+Generation : 8578
+42623142565088: FIXED
+Generation : 8579
+42623142565088: FIXED
+Generation : 8580
+42623142565088: FIXED
+Generation : 8581
+42623142565088: FIXED
+Generation : 8582
+42623142565088: FIXED
+Generation : 8583
+42623142565088: FIXED
+Generation : 8584
+42623142565088: FIXED
+Generation : 8585
+42623142565088: FIXED
+Generation : 8586
+42623142565088: FIXED
+Generation : 8587
+42623142565088: FIXED
+Generation : 8588
+42623142565088: FIXED
+Generation : 8589
+42623142565088: FIXED
+Generation : 8590
+42623142565088: FIXED
+Generation : 8591
+42623142565088: FIXED
+Generation : 8592
+42623142565088: FIXED
+Generation : 8593
+42623142565088: FIXED
+Generation : 8594
+42623142565088: FIXED
+Generation : 8595
+42623142565088: FIXED
+Generation : 8596
+42623142565088: FIXED
+Generation : 8597
+42623142565088: FIXED
+Generation : 8598
+42623142565088: FIXED
+Generation : 8599
+42623142565088: FIXED
+Generation : 8600
+42623142565088: FIXED
+Generation : 8601
+42623142565088: FIXED
+Generation : 8602
+42623142565088: FIXED
+Generation : 8603
+42623142565088: FIXED
+Generation : 8604
+42623142565088: FIXED
+Generation : 8605
+42623142565088: FIXED
+Generation : 8606
+42623142565088: FIXED
+Generation : 8607
+42623142565088: FIXED
+Generation : 8608
+42623142565088: FIXED
+Generation : 8609
+42623142565088: FIXED
+Generation : 8610
+42623142565088: FIXED
+Generation : 8611
+42623142565088: FIXED
+Generation : 8612
+42623142565088: FIXED
+Generation : 8613
+42623142565088: FIXED
+Generation : 8614
+42623142565088: FIXED
+Generation : 8615
+42623142565088: FIXED
+Generation : 8616
+42623142565088: FIXED
+Generation : 8617
+42623142565088: FIXED
+Generation : 8618
+42623142565088: FIXED
+Generation : 8619
+42623142565088: FIXED
+Generation : 8620
+42623142565088: FIXED
+Generation : 8621
+42623142565088: FIXED
+Generation : 8622
+42623142565088: FIXED
+Generation : 8623
+42623142565088: FIXED
+Generation : 8624
+42623142565088: FIXED
+Generation : 8625
+42623142565088: FIXED
+Generation : 8626
+42623142565088: FIXED
+Generation : 8627
+42623142565088: FIXED
+Generation : 8628
+42623142565088: FIXED
+Generation : 8629
+42623142565088: FIXED
+Generation : 8630
+42623142565088: FIXED
+Generation : 8631
+42623142565088: FIXED
+Generation : 8632
+42623142565088: FIXED
+Generation : 8633
+42623142565088: FIXED
+Generation : 8634
+42623142565088: FIXED
+Generation : 8635
+42623142565088: FIXED
+Generation : 8636
+42623142565088: FIXED
+Generation : 8637
+42623142565088: FIXED
+Generation : 8638
+42623142565088: FIXED
+Generation : 8639
+42623142565088: FIXED
+Generation : 8640
+42623142565088: FIXED
+Generation : 8641
+42623142565088: FIXED
+Generation : 8642
+42623142565088: FIXED
+Generation : 8643
+42623142565088: FIXED
+Generation : 8644
+42623142565088: FIXED
+Generation : 8645
+42623142565088: FIXED
+Generation : 8646
+42623142565088: FIXED
+Generation : 8647
+42623142565088: FIXED
+Generation : 8648
+42623142565088: FIXED
+Generation : 8649
+42623142565088: FIXED
+Generation : 8650
+42623142565088: FIXED
+Generation : 8651
+42623142565088: FIXED
+Generation : 8652
+42623142565088: FIXED
+Generation : 8653
+42623142565088: FIXED
+Generation : 8654
+42623142565088: FIXED
+Generation : 8655
+42623142565088: FIXED
+Generation : 8656
+42623142565088: FIXED
+Generation : 8657
+42623142565088: FIXED
+Generation : 8658
+42623142565088: FIXED
+Generation : 8659
+42623142565088: FIXED
+Generation : 8660
+42623142565088: FIXED
+Generation : 8661
+42623142565088: FIXED
+Generation : 8662
+42623142565088: FIXED
+Generation : 8663
+42623142565088: FIXED
+Generation : 8664
+42623142565088: FIXED
+Generation : 8665
+42623142565088: FIXED
+Generation : 8666
+42623142565088: FIXED
+Generation : 8667
+42623142565088: FIXED
+Generation : 8668
+42623142565088: FIXED
+Generation : 8669
+42623142565088: FIXED
+Generation : 8670
+42623142565088: FIXED
+Generation : 8671
+42623142565088: FIXED
+Generation : 8672
+42623142565088: FIXED
+Generation : 8673
+42623142565088: FIXED
+Generation : 8674
+42623142565088: FIXED
+Generation : 8675
+42623142565088: FIXED
+Generation : 8676
+42623142565088: FIXED
+Generation : 8677
+42623142565088: FIXED
+Generation : 8678
+42623142565088: FIXED
+Generation : 8679
+42623142565088: FIXED
+Generation : 8680
+42623142565088: FIXED
+Generation : 8681
+42623142565088: FIXED
+Generation : 8682
+42623142565088: FIXED
+Generation : 8683
+42623142565088: FIXED
+Generation : 8684
+42623142565088: FIXED
+Generation : 8685
+42623142565088: FIXED
+Generation : 8686
+42623142565088: FIXED
+Generation : 8687
+42623142565088: FIXED
+Generation : 8688
+42623142565088: FIXED
+Generation : 8689
+42623142565088: FIXED
+Generation : 8690
+42623142565088: FIXED
+Generation : 8691
+42623142565088: FIXED
+Generation : 8692
+42623142565088: FIXED
+Generation : 8693
+42623142565088: FIXED
+Generation : 8694
+42623142565088: FIXED
+Generation : 8695
+42623142565088: FIXED
+Generation : 8696
+42623142565088: FIXED
+Generation : 8697
+42623142565088: FIXED
+Generation : 8698
+42623142565088: FIXED
+Generation : 8699
+42623142565088: FIXED
+Generation : 8700
+42623142565088: FIXED
+Generation : 8701
+42623142565088: FIXED
+Generation : 8702
+42623142565088: FIXED
+Generation : 8703
+42623142565088: FIXED
+Generation : 8704
+42623142565088: FIXED
+Generation : 8705
+42623142565088: FIXED
+Generation : 8706
+42623142565088: FIXED
+Generation : 8707
+42623142565088: FIXED
+Generation : 8708
+42623142565088: FIXED
+Generation : 8709
+42623142565088: FIXED
+Generation : 8710
+42623142565088: FIXED
+Generation : 8711
+42623142565088: FIXED
+Generation : 8712
+42623142565088: FIXED
+Generation : 8713
+42623142565088: FIXED
+Generation : 8714
+42623142565088: FIXED
+Generation : 8715
+42623142565088: FIXED
+Generation : 8716
+42623142565088: FIXED
+Generation : 8717
+42623142565088: FIXED
+Generation : 8718
+42623142565088: FIXED
+Generation : 8719
+42623142565088: FIXED
+Generation : 8720
+42623142565088: FIXED
+Generation : 8721
+42623142565088: FIXED
+Generation : 8722
+42623142565088: FIXED
+Generation : 8723
+42623142565088: FIXED
+Generation : 8724
+42623142565088: FIXED
+Generation : 8725
+42623142565088: FIXED
+Generation : 8726
+42623142565088: FIXED
+Generation : 8727
+42623142565088: FIXED
+Generation : 8728
+42623142565088: FIXED
+Generation : 8729
+42623142565088: FIXED
+Generation : 8730
+42623142565088: FIXED
+Generation : 8731
+42623142565088: FIXED
+Generation : 8732
+42623142565088: FIXED
+Generation : 8733
+42623142565088: FIXED
+Generation : 8734
+42623142565088: FIXED
+Generation : 8735
+42623142565088: FIXED
+Generation : 8736
+42623142565088: FIXED
+Generation : 8737
+42623142565088: FIXED
+Generation : 8738
+42623142565088: FIXED
+Generation : 8739
+42623142565088: FIXED
+Generation : 8740
+42623142565088: FIXED
+Generation : 8741
+42623142565088: FIXED
+Generation : 8742
+42623142565088: FIXED
+Generation : 8743
+42623142565088: FIXED
+Generation : 8744
+42623142565088: FIXED
+Generation : 8745
+42623142565088: FIXED
+Generation : 8746
+42623142565088: FIXED
+Generation : 8747
+42623142565088: FIXED
+Generation : 8748
+42623142565088: FIXED
+Generation : 8749
+42623142565088: FIXED
+Generation : 8750
+42623142565088: FIXED
+Generation : 8751
+42623142565088: FIXED
+Generation : 8752
+42623142565088: FIXED
+Generation : 8753
+42623142565088: FIXED
+Generation : 8754
+42623142565088: FIXED
+Generation : 8755
+42623142565088: FIXED
+Generation : 8756
+42623142565088: FIXED
+Generation : 8757
+42623142565088: FIXED
+Generation : 8758
+42623142565088: FIXED
+Generation : 8759
+42623142565088: FIXED
+Generation : 8760
+42623142565088: FIXED
+Generation : 8761
+42623142565088: FIXED
+Generation : 8762
+42623142565088: FIXED
+Generation : 8763
+42623142565088: FIXED
+Generation : 8764
+42623142565088: FIXED
+Generation : 8765
+42623142565088: FIXED
+Generation : 8766
+42623142565088: FIXED
+Generation : 8767
+42623142565088: FIXED
+Generation : 8768
+42623142565088: FIXED
+Generation : 8769
+42623142565088: FIXED
+Generation : 8770
+42623142565088: FIXED
+Generation : 8771
+42623142565088: FIXED
+Generation : 8772
+42623142565088: FIXED
+Generation : 8773
+42623142565088: FIXED
+Generation : 8774
+42623142565088: FIXED
+Generation : 8775
+42623142565088: FIXED
+Generation : 8776
+42623142565088: FIXED
+Generation : 8777
+42623142565088: FIXED
+Generation : 8778
+42623142565088: FIXED
+Generation : 8779
+42623142565088: FIXED
+Generation : 8780
+42623142565088: FIXED
+Generation : 8781
+42623142565088: FIXED
+Generation : 8782
+42623142565088: FIXED
+Generation : 8783
+42623142565088: FIXED
+Generation : 8784
+42623142565088: FIXED
+Generation : 8785
+42623142565088: FIXED
+Generation : 8786
+42623142565088: FIXED
+Generation : 8787
+42623142565088: FIXED
+Generation : 8788
+42623142565088: FIXED
+Generation : 8789
+42623142565088: FIXED
+Generation : 8790
+42623142565088: FIXED
+Generation : 8791
+42623142565088: FIXED
+Generation : 8792
+42623142565088: FIXED
+Generation : 8793
+42623142565088: FIXED
+Generation : 8794
+42623142565088: FIXED
+Generation : 8795
+42623142565088: FIXED
+Generation : 8796
+42623142565088: FIXED
+Generation : 8797
+42623142565088: FIXED
+Generation : 8798
+42623142565088: FIXED
+Generation : 8799
+42623142565088: FIXED
+Generation : 8800
+42623142565088: FIXED
+Generation : 8801
+42623142565088: FIXED
+Generation : 8802
+42623142565088: FIXED
+Generation : 8803
+42623142565088: FIXED
+Generation : 8804
+42623142565088: FIXED
+Generation : 8805
+42623142565088: FIXED
+Generation : 8806
+42623142565088: FIXED
+Generation : 8807
+42623142565088: FIXED
+Generation : 8808
+42623142565088: FIXED
+Generation : 8809
+42623142565088: FIXED
+Generation : 8810
+42623142565088: FIXED
+Generation : 8811
+42623142565088: FIXED
+Generation : 8812
+42623142565088: FIXED
+Generation : 8813
+42623142565088: FIXED
+Generation : 8814
+42623142565088: FIXED
+Generation : 8815
+42623142565088: FIXED
+Generation : 8816
+42623142565088: FIXED
+Generation : 8817
+42623142565088: FIXED
+Generation : 8818
+42623142565088: FIXED
+Generation : 8819
+42623142565088: FIXED
+Generation : 8820
+42623142565088: FIXED
+Generation : 8821
+42623142565088: FIXED
+Generation : 8822
+42623142565088: FIXED
+Generation : 8823
+42623142565088: FIXED
+Generation : 8824
+42623142565088: FIXED
+Generation : 8825
+42623142565088: FIXED
+Generation : 8826
+42623142565088: FIXED
+Generation : 8827
+42623142565088: FIXED
+Generation : 8828
+42623142565088: FIXED
+Generation : 8829
+42623142565088: FIXED
+Generation : 8830
+42623142565088: FIXED
+Generation : 8831
+42623142565088: FIXED
+Generation : 8832
+42623142565088: FIXED
+Generation : 8833
+42623142565088: FIXED
+Generation : 8834
+42623142565088: FIXED
+Generation : 8835
+42623142565088: FIXED
+Generation : 8836
+42623142565088: FIXED
+Generation : 8837
+42623142565088: FIXED
+Generation : 8838
+42623142565088: FIXED
+Generation : 8839
+42623142565088: FIXED
+Generation : 8840
+42623142565088: FIXED
+Generation : 8841
+42623142565088: FIXED
+Generation : 8842
+42623142565088: FIXED
+Generation : 8843
+42623142565088: FIXED
+Generation : 8844
+42623142565088: FIXED
+Generation : 8845
+42623142565088: FIXED
+Generation : 8846
+42623142565088: FIXED
+Generation : 8847
+42623142565088: FIXED
+Generation : 8848
+42623142565088: FIXED
+Generation : 8849
+42623142565088: FIXED
+Generation : 8850
+42623142565088: FIXED
+Generation : 8851
+42623142565088: FIXED
+Generation : 8852
+42623142565088: FIXED
+Generation : 8853
+42623142565088: FIXED
+Generation : 8854
+42623142565088: FIXED
+Generation : 8855
+42623142565088: FIXED
+Generation : 8856
+42623142565088: FIXED
+Generation : 8857
+42623142565088: FIXED
+Generation : 8858
+42623142565088: FIXED
+Generation : 8859
+42623142565088: FIXED
+Generation : 8860
+42623142565088: FIXED
+Generation : 8861
+42623142565088: FIXED
+Generation : 8862
+42623142565088: FIXED
+Generation : 8863
+42623142565088: FIXED
+Generation : 8864
+42623142565088: FIXED
+Generation : 8865
+42623142565088: FIXED
+Generation : 8866
+42623142565088: FIXED
+Generation : 8867
+42623142565088: FIXED
+Generation : 8868
+42623142565088: FIXED
+Generation : 8869
+42623142565088: FIXED
+Generation : 8870
+42623142565088: FIXED
+Generation : 8871
+42623142565088: FIXED
+Generation : 8872
+42623142565088: FIXED
+Generation : 8873
+42623142565088: FIXED
+Generation : 8874
+42623142565088: FIXED
+Generation : 8875
+42623142565088: FIXED
+Generation : 8876
+42623142565088: FIXED
+Generation : 8877
+42623142565088: FIXED
+Generation : 8878
+42623142565088: FIXED
+Generation : 8879
+42623142565088: FIXED
+Generation : 8880
+42623142565088: FIXED
+Generation : 8881
+42623142565088: FIXED
+Generation : 8882
+42623142565088: FIXED
+Generation : 8883
+42623142565088: FIXED
+Generation : 8884
+42623142565088: FIXED
+Generation : 8885
+42623142565088: FIXED
+Generation : 8886
+42623142565088: FIXED
+Generation : 8887
+42623142565088: FIXED
+Generation : 8888
+42623142565088: FIXED
+Generation : 8889
+42623142565088: FIXED
+Generation : 8890
+42623142565088: FIXED
+Generation : 8891
+42623142565088: FIXED
+Generation : 8892
+42623142565088: FIXED
+Generation : 8893
+42623142565088: FIXED
+Generation : 8894
+42623142565088: FIXED
+Generation : 8895
+42623142565088: FIXED
+Generation : 8896
+42623142565088: FIXED
+Generation : 8897
+42623142565088: FIXED
+Generation : 8898
+42623142565088: FIXED
+Generation : 8899
+42623142565088: FIXED
+Generation : 8900
+42623142565088: FIXED
+Generation : 8901
+42623142565088: FIXED
+Generation : 8902
+42623142565088: FIXED
+Generation : 8903
+42623142565088: FIXED
+Generation : 8904
+42623142565088: FIXED
+Generation : 8905
+42623142565088: FIXED
+Generation : 8906
+42623142565088: FIXED
+Generation : 8907
+42623142565088: FIXED
+Generation : 8908
+42623142565088: FIXED
+Generation : 8909
+42623142565088: FIXED
+Generation : 8910
+42623142565088: FIXED
+Generation : 8911
+42623142565088: FIXED
+Generation : 8912
+42623142565088: FIXED
+Generation : 8913
+42623142565088: FIXED
+Generation : 8914
+42623142565088: FIXED
+Generation : 8915
+42623142565088: FIXED
+Generation : 8916
+42623142565088: FIXED
+Generation : 8917
+42623142565088: FIXED
+Generation : 8918
+42623142565088: FIXED
+Generation : 8919
+42623142565088: FIXED
+Generation : 8920
+42623142565088: FIXED
+Generation : 8921
+42623142565088: FIXED
+Generation : 8922
+42623142565088: FIXED
+Generation : 8923
+42623142565088: FIXED
+Generation : 8924
+42623142565088: FIXED
+Generation : 8925
+42623142565088: FIXED
+Generation : 8926
+42623142565088: FIXED
+Generation : 8927
+42623142565088: FIXED
+Generation : 8928
+42623142565088: FIXED
+Generation : 8929
+42623142565088: FIXED
+Generation : 8930
+42623142565088: FIXED
+Generation : 8931
+42623142565088: FIXED
+Generation : 8932
+42623142565088: FIXED
+Generation : 8933
+42623142565088: FIXED
+Generation : 8934
+42623142565088: FIXED
+Generation : 8935
+42623142565088: FIXED
+Generation : 8936
+42623142565088: FIXED
+Generation : 8937
+42623142565088: FIXED
+Generation : 8938
+42623142565088: FIXED
+Generation : 8939
+42623142565088: FIXED
+Generation : 8940
+42623142565088: FIXED
+Generation : 8941
+42623142565088: FIXED
+Generation : 8942
+42623142565088: FIXED
+Generation : 8943
+42623142565088: FIXED
+Generation : 8944
+42623142565088: FIXED
+Generation : 8945
+42623142565088: FIXED
+Generation : 8946
+42623142565088: FIXED
+Generation : 8947
+42623142565088: FIXED
+Generation : 8948
+42623142565088: FIXED
+Generation : 8949
+42623142565088: FIXED
+Generation : 8950
+42623142565088: FIXED
+Generation : 8951
+42623142565088: FIXED
+Generation : 8952
+42623142565088: FIXED
+Generation : 8953
+42623142565088: FIXED
+Generation : 8954
+42623142565088: FIXED
+Generation : 8955
+42623142565088: FIXED
+Generation : 8956
+42623142565088: FIXED
+Generation : 8957
+42623142565088: FIXED
+Generation : 8958
+42623142565088: FIXED
+Generation : 8959
+42623142565088: FIXED
+Generation : 8960
+42623142565088: FIXED
+Generation : 8961
+42623142565088: FIXED
+Generation : 8962
+42623142565088: FIXED
+Generation : 8963
+42623142565088: FIXED
+Generation : 8964
+42623142565088: FIXED
+Generation : 8965
+42623142565088: FIXED
+Generation : 8966
+42623142565088: FIXED
+Generation : 8967
+42623142565088: FIXED
+Generation : 8968
+42623142565088: FIXED
+Generation : 8969
+42623142565088: FIXED
+Generation : 8970
+42623142565088: FIXED
+Generation : 8971
+42623142565088: FIXED
+Generation : 8972
+42623142565088: FIXED
+Generation : 8973
+42623142565088: FIXED
+Generation : 8974
+42623142565088: FIXED
+Generation : 8975
+42623142565088: FIXED
+Generation : 8976
+42623142565088: FIXED
+Generation : 8977
+42623142565088: FIXED
+Generation : 8978
+42623142565088: FIXED
+Generation : 8979
+42623142565088: FIXED
+Generation : 8980
+42623142565088: FIXED
+Generation : 8981
+42623142565088: FIXED
+Generation : 8982
+42623142565088: FIXED
+Generation : 8983
+42623142565088: FIXED
+Generation : 8984
+42623142565088: FIXED
+Generation : 8985
+42623142565088: FIXED
+Generation : 8986
+42623142565088: FIXED
+Generation : 8987
+42623142565088: FIXED
+Generation : 8988
+42623142565088: FIXED
+Generation : 8989
+42623142565088: FIXED
+Generation : 8990
+42623142565088: FIXED
+Generation : 8991
+42623142565088: FIXED
+Generation : 8992
+42623142565088: FIXED
+Generation : 8993
+42623142565088: FIXED
+Generation : 8994
+42623142565088: FIXED
+Generation : 8995
+42623142565088: FIXED
+Generation : 8996
+42623142565088: FIXED
+Generation : 8997
+42623142565088: FIXED
+Generation : 8998
+42623142565088: FIXED
+Generation : 8999
+42623142565088: FIXED
+Generation : 9000
+42623142565088: FIXED
+Generation : 9001
+42623142565088: FIXED
+Generation : 9002
+42623142565088: FIXED
+Generation : 9003
+42623142565088: FIXED
+Generation : 9004
+42623142565088: FIXED
+Generation : 9005
+42623142565088: FIXED
+Generation : 9006
+42623142565088: FIXED
+Generation : 9007
+42623142565088: FIXED
+Generation : 9008
+42623142565088: FIXED
+Generation : 9009
+42623142565088: FIXED
+Generation : 9010
+42623142565088: FIXED
+Generation : 9011
+42623142565088: FIXED
+Generation : 9012
+42623142565088: FIXED
+Generation : 9013
+42623142565088: FIXED
+Generation : 9014
+42623142565088: FIXED
+Generation : 9015
+42623142565088: FIXED
+Generation : 9016
+42623142565088: FIXED
+Generation : 9017
+42623142565088: FIXED
+Generation : 9018
+42623142565088: FIXED
+Generation : 9019
+42623142565088: FIXED
+Generation : 9020
+42623142565088: FIXED
+Generation : 9021
+42623142565088: FIXED
+Generation : 9022
+42623142565088: FIXED
+Generation : 9023
+42623142565088: FIXED
+Generation : 9024
+42623142565088: FIXED
+Generation : 9025
+42623142565088: FIXED
+Generation : 9026
+42623142565088: FIXED
+Generation : 9027
+42623142565088: FIXED
+Generation : 9028
+42623142565088: FIXED
+Generation : 9029
+42623142565088: FIXED
+Generation : 9030
+42623142565088: FIXED
+Generation : 9031
+42623142565088: FIXED
+Generation : 9032
+42623142565088: FIXED
+Generation : 9033
+42623142565088: FIXED
+Generation : 9034
+42623142565088: FIXED
+Generation : 9035
+42623142565088: FIXED
+Generation : 9036
+42623142565088: FIXED
+Generation : 9037
+42623142565088: FIXED
+Generation : 9038
+42623142565088: FIXED
+Generation : 9039
+42623142565088: FIXED
+Generation : 9040
+42623142565088: FIXED
+Generation : 9041
+42623142565088: FIXED
+Generation : 9042
+42623142565088: FIXED
+Generation : 9043
+42623142565088: FIXED
+Generation : 9044
+42623142565088: FIXED
+Generation : 9045
+42623142565088: FIXED
+Generation : 9046
+42623142565088: FIXED
+Generation : 9047
+42623142565088: FIXED
+Generation : 9048
+42623142565088: FIXED
+Generation : 9049
+42623142565088: FIXED
+Generation : 9050
+42623142565088: FIXED
+Generation : 9051
+42623142565088: FIXED
+Generation : 9052
+42623142565088: FIXED
+Generation : 9053
+42623142565088: FIXED
+Generation : 9054
+42623142565088: FIXED
+Generation : 9055
+42623142565088: FIXED
+Generation : 9056
+42623142565088: FIXED
+Generation : 9057
+42623142565088: FIXED
+Generation : 9058
+42623142565088: FIXED
+Generation : 9059
+42623142565088: FIXED
+Generation : 9060
+42623142565088: FIXED
+Generation : 9061
+42623142565088: FIXED
+Generation : 9062
+42623142565088: FIXED
+Generation : 9063
+42623142565088: FIXED
+Generation : 9064
+42623142565088: FIXED
+Generation : 9065
+42623142565088: FIXED
+Generation : 9066
+42623142565088: FIXED
+Generation : 9067
+42623142565088: FIXED
+Generation : 9068
+42623142565088: FIXED
+Generation : 9069
+42623142565088: FIXED
+Generation : 9070
+42623142565088: FIXED
+Generation : 9071
+42623142565088: FIXED
+Generation : 9072
+42623142565088: FIXED
+Generation : 9073
+42623142565088: FIXED
+Generation : 9074
+42623142565088: FIXED
+Generation : 9075
+42623142565088: FIXED
+Generation : 9076
+42623142565088: FIXED
+Generation : 9077
+42623142565088: FIXED
+Generation : 9078
+42623142565088: FIXED
+Generation : 9079
+42623142565088: FIXED
+Generation : 9080
+42623142565088: FIXED
+Generation : 9081
+42623142565088: FIXED
+Generation : 9082
+42623142565088: FIXED
+Generation : 9083
+42623142565088: FIXED
+Generation : 9084
+42623142565088: FIXED
+Generation : 9085
+42623142565088: FIXED
+Generation : 9086
+42623142565088: FIXED
+Generation : 9087
+42623142565088: FIXED
+Generation : 9088
+42623142565088: FIXED
+Generation : 9089
+42623142565088: FIXED
+Generation : 9090
+42623142565088: FIXED
+Generation : 9091
+42623142565088: FIXED
+Generation : 9092
+42623142565088: FIXED
+Generation : 9093
+42623142565088: FIXED
+Generation : 9094
+42623142565088: FIXED
+Generation : 9095
+42623142565088: FIXED
+Generation : 9096
+42623142565088: FIXED
+Generation : 9097
+42623142565088: FIXED
+Generation : 9098
+42623142565088: FIXED
+Generation : 9099
+42623142565088: FIXED
+Generation : 9100
+42623142565088: FIXED
+Generation : 9101
+42623142565088: FIXED
+Generation : 9102
+42623142565088: FIXED
+Generation : 9103
+42623142565088: FIXED
+Generation : 9104
+42623142565088: FIXED
+Generation : 9105
+42623142565088: FIXED
+Generation : 9106
+42623142565088: FIXED
+Generation : 9107
+42623142565088: FIXED
+Generation : 9108
+42623142565088: FIXED
+Generation : 9109
+42623142565088: FIXED
+Generation : 9110
+42623142565088: FIXED
+Generation : 9111
+42623142565088: FIXED
+Generation : 9112
+42623142565088: FIXED
+Generation : 9113
+42623142565088: FIXED
+Generation : 9114
+42623142565088: FIXED
+Generation : 9115
+42623142565088: FIXED
+Generation : 9116
+42623142565088: FIXED
+Generation : 9117
+42623142565088: FIXED
+Generation : 9118
+42623142565088: FIXED
+Generation : 9119
+42623142565088: FIXED
+Generation : 9120
+42623142565088: FIXED
+Generation : 9121
+42623142565088: FIXED
+Generation : 9122
+42623142565088: FIXED
+Generation : 9123
+42623142565088: FIXED
+Generation : 9124
+42623142565088: FIXED
+Generation : 9125
+42623142565088: FIXED
+Generation : 9126
+42623142565088: FIXED
+Generation : 9127
+42623142565088: FIXED
+Generation : 9128
+42623142565088: FIXED
+Generation : 9129
+42623142565088: FIXED
+Generation : 9130
+42623142565088: FIXED
+Generation : 9131
+42623142565088: FIXED
+Generation : 9132
+42623142565088: FIXED
+Generation : 9133
+42623142565088: FIXED
+Generation : 9134
+42623142565088: FIXED
+Generation : 9135
+42623142565088: FIXED
+Generation : 9136
+42623142565088: FIXED
+Generation : 9137
+42623142565088: FIXED
+Generation : 9138
+42623142565088: FIXED
+Generation : 9139
+42623142565088: FIXED
+Generation : 9140
+42623142565088: FIXED
+Generation : 9141
+42623142565088: FIXED
+Generation : 9142
+42623142565088: FIXED
+Generation : 9143
+42623142565088: FIXED
+Generation : 9144
+42623142565088: FIXED
+Generation : 9145
+42623142565088: FIXED
+Generation : 9146
+42623142565088: FIXED
+Generation : 9147
+42623142565088: FIXED
+Generation : 9148
+42623142565088: FIXED
+Generation : 9149
+42623142565088: FIXED
+Generation : 9150
+42623142565088: FIXED
+Generation : 9151
+42623142565088: FIXED
+Generation : 9152
+42623142565088: FIXED
+Generation : 9153
+42623142565088: FIXED
+Generation : 9154
+42623142565088: FIXED
+Generation : 9155
+42623142565088: FIXED
+Generation : 9156
+42623142565088: FIXED
+Generation : 9157
+42623142565088: FIXED
+Generation : 9158
+42623142565088: FIXED
+Generation : 9159
+42623142565088: FIXED
+Generation : 9160
+42623142565088: FIXED
+Generation : 9161
+42623142565088: FIXED
+Generation : 9162
+42623142565088: FIXED
+Generation : 9163
+42623142565088: FIXED
+Generation : 9164
+42623142565088: FIXED
+Generation : 9165
+42623142565088: FIXED
+Generation : 9166
+42623142565088: FIXED
+Generation : 9167
+42623142565088: FIXED
+Generation : 9168
+42623142565088: FIXED
+Generation : 9169
+42623142565088: FIXED
+Generation : 9170
+42623142565088: FIXED
+Generation : 9171
+42623142565088: FIXED
+Generation : 9172
+42623142565088: FIXED
+Generation : 9173
+42623142565088: FIXED
+Generation : 9174
+42623142565088: FIXED
+Generation : 9175
+42623142565088: FIXED
+Generation : 9176
+42623142565088: FIXED
+Generation : 9177
+42623142565088: FIXED
+Generation : 9178
+42623142565088: FIXED
+Generation : 9179
+42623142565088: FIXED
+Generation : 9180
+42623142565088: FIXED
+Generation : 9181
+42623142565088: FIXED
+Generation : 9182
+42623142565088: FIXED
+Generation : 9183
+42623142565088: FIXED
+Generation : 9184
+42623142565088: FIXED
+Generation : 9185
+42623142565088: FIXED
+Generation : 9186
+42623142565088: FIXED
+Generation : 9187
+42623142565088: FIXED
+Generation : 9188
+42623142565088: FIXED
+Generation : 9189
+42623142565088: FIXED
+Generation : 9190
+42623142565088: FIXED
+Generation : 9191
+42623142565088: FIXED
+Generation : 9192
+42623142565088: FIXED
+Generation : 9193
+42623142565088: FIXED
+Generation : 9194
+42623142565088: FIXED
+Generation : 9195
+42623142565088: FIXED
+Generation : 9196
+42623142565088: FIXED
+Generation : 9197
+42623142565088: FIXED
+Generation : 9198
+42623142565088: FIXED
+Generation : 9199
+42623142565088: FIXED
+Generation : 9200
+42623142565088: FIXED
+Generation : 9201
+42623142565088: FIXED
+Generation : 9202
+42623142565088: FIXED
+Generation : 9203
+42623142565088: FIXED
+Generation : 9204
+42623142565088: FIXED
+Generation : 9205
+42623142565088: FIXED
+Generation : 9206
+42623142565088: FIXED
+Generation : 9207
+42623142565088: FIXED
+Generation : 9208
+42623142565088: FIXED
+Generation : 9209
+42623142565088: FIXED
+Generation : 9210
+42623142565088: FIXED
+Generation : 9211
+42623142565088: FIXED
+Generation : 9212
+42623142565088: FIXED
+Generation : 9213
+42623142565088: FIXED
+Generation : 9214
+42623142565088: FIXED
+Generation : 9215
+42623142565088: FIXED
+Generation : 9216
+42623142565088: FIXED
+Generation : 9217
+42623142565088: FIXED
+Generation : 9218
+42623142565088: FIXED
+Generation : 9219
+42623142565088: FIXED
+Generation : 9220
+42623142565088: FIXED
+Generation : 9221
+42623142565088: FIXED
+Generation : 9222
+42623142565088: FIXED
+Generation : 9223
+42623142565088: FIXED
+Generation : 9224
+42623142565088: FIXED
+Generation : 9225
+42623142565088: FIXED
+Generation : 9226
+42623142565088: FIXED
+Generation : 9227
+42623142565088: FIXED
+Generation : 9228
+42623142565088: FIXED
+Generation : 9229
+42623142565088: FIXED
+Generation : 9230
+42623142565088: FIXED
+Generation : 9231
+42623142565088: FIXED
+Generation : 9232
+42623142565088: FIXED
+Generation : 9233
+42623142565088: FIXED
+Generation : 9234
+42623142565088: FIXED
+Generation : 9235
+42623142565088: FIXED
+Generation : 9236
+42623142565088: FIXED
+Generation : 9237
+42623142565088: FIXED
+Generation : 9238
+42623142565088: FIXED
+Generation : 9239
+42623142565088: FIXED
+Generation : 9240
+42623142565088: FIXED
+Generation : 9241
+42623142565088: FIXED
+Generation : 9242
+42623142565088: FIXED
+Generation : 9243
+42623142565088: FIXED
+Generation : 9244
+42623142565088: FIXED
+Generation : 9245
+42623142565088: FIXED
+Generation : 9246
+42623142565088: FIXED
+Generation : 9247
+42623142565088: FIXED
+Generation : 9248
+42623142565088: FIXED
+Generation : 9249
+42623142565088: FIXED
+Generation : 9250
+42623142565088: FIXED
+Generation : 9251
+42623142565088: FIXED
+Generation : 9252
+42623142565088: FIXED
+Generation : 9253
+42623142565088: FIXED
+Generation : 9254
+42623142565088: FIXED
+Generation : 9255
+42623142565088: FIXED
+Generation : 9256
+42623142565088: FIXED
+Generation : 9257
+42623142565088: FIXED
+Generation : 9258
+42623142565088: FIXED
+Generation : 9259
+42623142565088: FIXED
+Generation : 9260
+42623142565088: FIXED
+Generation : 9261
+42623142565088: FIXED
+Generation : 9262
+42623142565088: FIXED
+Generation : 9263
+42623142565088: FIXED
+Generation : 9264
+42623142565088: FIXED
+Generation : 9265
+42623142565088: FIXED
+Generation : 9266
+42623142565088: FIXED
+Generation : 9267
+42623142565088: FIXED
+Generation : 9268
+42623142565088: FIXED
+Generation : 9269
+42623142565088: FIXED
+Generation : 9270
+42623142565088: FIXED
+Generation : 9271
+42623142565088: FIXED
+Generation : 9272
+42623142565088: FIXED
+Generation : 9273
+42623142565088: FIXED
+Generation : 9274
+42623142565088: FIXED
+Generation : 9275
+42623142565088: FIXED
+Generation : 9276
+42623142565088: FIXED
+Generation : 9277
+42623142565088: FIXED
+Generation : 9278
+42623142565088: FIXED
+Generation : 9279
+42623142565088: FIXED
+Generation : 9280
+42623142565088: FIXED
+Generation : 9281
+42623142565088: FIXED
+Generation : 9282
+42623142565088: FIXED
+Generation : 9283
+42623142565088: FIXED
+Generation : 9284
+42623142565088: FIXED
+Generation : 9285
+42623142565088: FIXED
+Generation : 9286
+42623142565088: FIXED
+Generation : 9287
+42623142565088: FIXED
+Generation : 9288
+42623142565088: FIXED
+Generation : 9289
+42623142565088: FIXED
+Generation : 9290
+42623142565088: FIXED
+Generation : 9291
+42623142565088: FIXED
+Generation : 9292
+42623142565088: FIXED
+Generation : 9293
+42623142565088: FIXED
+Generation : 9294
+42623142565088: FIXED
+Generation : 9295
+42623142565088: FIXED
+Generation : 9296
+42623142565088: FIXED
+Generation : 9297
+42623142565088: FIXED
+Generation : 9298
+42623142565088: FIXED
+Generation : 9299
+42623142565088: FIXED
+Generation : 9300
+42623142565088: FIXED
+Generation : 9301
+42623142565088: FIXED
+Generation : 9302
+42623142565088: FIXED
+Generation : 9303
+42623142565088: FIXED
+Generation : 9304
+42623142565088: FIXED
+Generation : 9305
+42623142565088: FIXED
+Generation : 9306
+42623142565088: FIXED
+Generation : 9307
+42623142565088: FIXED
+Generation : 9308
+42623142565088: FIXED
+Generation : 9309
+42623142565088: FIXED
+Generation : 9310
+42623142565088: FIXED
+Generation : 9311
+42623142565088: FIXED
+Generation : 9312
+42623142565088: FIXED
+Generation : 9313
+42623142565088: FIXED
+Generation : 9314
+42623142565088: FIXED
+Generation : 9315
+42623142565088: FIXED
+Generation : 9316
+42623142565088: FIXED
+Generation : 9317
+42623142565088: FIXED
+Generation : 9318
+42623142565088: FIXED
+Generation : 9319
+42623142565088: FIXED
+Generation : 9320
+42623142565088: FIXED
+Generation : 9321
+42623142565088: FIXED
+Generation : 9322
+42623142565088: FIXED
+Generation : 9323
+42623142565088: FIXED
+Generation : 9324
+42623142565088: FIXED
+Generation : 9325
+42623142565088: FIXED
+Generation : 9326
+42623142565088: FIXED
+Generation : 9327
+42623142565088: FIXED
+Generation : 9328
+42623142565088: FIXED
+Generation : 9329
+42623142565088: FIXED
+Generation : 9330
+42623142565088: FIXED
+Generation : 9331
+42623142565088: FIXED
+Generation : 9332
+42623142565088: FIXED
+Generation : 9333
+42623142565088: FIXED
+Generation : 9334
+42623142565088: FIXED
+Generation : 9335
+42623142565088: FIXED
+Generation : 9336
+42623142565088: FIXED
+Generation : 9337
+42623142565088: FIXED
+Generation : 9338
+42623142565088: FIXED
+Generation : 9339
+42623142565088: FIXED
+Generation : 9340
+42623142565088: FIXED
+Generation : 9341
+42623142565088: FIXED
+Generation : 9342
+42623142565088: FIXED
+Generation : 9343
+42623142565088: FIXED
+Generation : 9344
+42623142565088: FIXED
+Generation : 9345
+42623142565088: FIXED
+Generation : 9346
+42623142565088: FIXED
+Generation : 9347
+42623142565088: FIXED
+Generation : 9348
+42623142565088: FIXED
+Generation : 9349
+42623142565088: FIXED
+Generation : 9350
+42623142565088: FIXED
+Generation : 9351
+42623142565088: FIXED
+Generation : 9352
+42623142565088: FIXED
+Generation : 9353
+42623142565088: FIXED
+Generation : 9354
+42623142565088: FIXED
+Generation : 9355
+42623142565088: FIXED
+Generation : 9356
+42623142565088: FIXED
+Generation : 9357
+42623142565088: FIXED
+Generation : 9358
+42623142565088: FIXED
+Generation : 9359
+42623142565088: FIXED
+Generation : 9360
+42623142565088: FIXED
+Generation : 9361
+42623142565088: FIXED
+Generation : 9362
+42623142565088: FIXED
+Generation : 9363
+42623142565088: FIXED
+Generation : 9364
+42623142565088: FIXED
+Generation : 9365
+42623142565088: FIXED
+Generation : 9366
+42623142565088: FIXED
+Generation : 9367
+42623142565088: FIXED
+Generation : 9368
+42623142565088: FIXED
+Generation : 9369
+42623142565088: FIXED
+Generation : 9370
+42623142565088: FIXED
+Generation : 9371
+42623142565088: FIXED
+Generation : 9372
+42623142565088: FIXED
+Generation : 9373
+42623142565088: FIXED
+Generation : 9374
+42623142565088: FIXED
+Generation : 9375
+42623142565088: FIXED
+Generation : 9376
+42623142565088: FIXED
+Generation : 9377
+42623142565088: FIXED
+Generation : 9378
+42623142565088: FIXED
+Generation : 9379
+42623142565088: FIXED
+Generation : 9380
+42623142565088: FIXED
+Generation : 9381
+42623142565088: FIXED
+Generation : 9382
+42623142565088: FIXED
+Generation : 9383
+42623142565088: FIXED
+Generation : 9384
+42623142565088: FIXED
+Generation : 9385
+42623142565088: FIXED
+Generation : 9386
+42623142565088: FIXED
+Generation : 9387
+42623142565088: FIXED
+Generation : 9388
+42623142565088: FIXED
+Generation : 9389
+42623142565088: FIXED
+Generation : 9390
+42623142565088: FIXED
+Generation : 9391
+42623142565088: FIXED
+Generation : 9392
+42623142565088: FIXED
+Generation : 9393
+42623142565088: FIXED
+Generation : 9394
+42623142565088: FIXED
+Generation : 9395
+42623142565088: FIXED
+Generation : 9396
+42623142565088: FIXED
+Generation : 9397
+42623142565088: FIXED
+Generation : 9398
+42623142565088: FIXED
+Generation : 9399
+42623142565088: FIXED
+Generation : 9400
+42623142565088: FIXED
+Generation : 9401
+42623142565088: FIXED
+Generation : 9402
+42623142565088: FIXED
+Generation : 9403
+42623142565088: FIXED
+Generation : 9404
+42623142565088: FIXED
+Generation : 9405
+42623142565088: FIXED
+Generation : 9406
+42623142565088: FIXED
+Generation : 9407
+42623142565088: FIXED
+Generation : 9408
+42623142565088: FIXED
+Generation : 9409
+42623142565088: FIXED
+Generation : 9410
+42623142565088: FIXED
+Generation : 9411
+42623142565088: FIXED
+Generation : 9412
+42623142565088: FIXED
+Generation : 9413
+42623142565088: FIXED
+Generation : 9414
+42623142565088: FIXED
+Generation : 9415
+42623142565088: FIXED
+Generation : 9416
+42623142565088: FIXED
+Generation : 9417
+42623142565088: FIXED
+Generation : 9418
+42623142565088: FIXED
+Generation : 9419
+42623142565088: FIXED
+Generation : 9420
+42623142565088: FIXED
+Generation : 9421
+42623142565088: FIXED
+Generation : 9422
+42623142565088: FIXED
+Generation : 9423
+42623142565088: FIXED
+Generation : 9424
+42623142565088: FIXED
+Generation : 9425
+42623142565088: FIXED
+Generation : 9426
+42623142565088: FIXED
+Generation : 9427
+42623142565088: FIXED
+Generation : 9428
+42623142565088: FIXED
+Generation : 9429
+42623142565088: FIXED
+Generation : 9430
+42623142565088: FIXED
+Generation : 9431
+42623142565088: FIXED
+Generation : 9432
+42623142565088: FIXED
+Generation : 9433
+42623142565088: FIXED
+Generation : 9434
+42623142565088: FIXED
+Generation : 9435
+42623142565088: FIXED
+Generation : 9436
+42623142565088: FIXED
+Generation : 9437
+42623142565088: FIXED
+Generation : 9438
+42623142565088: FIXED
+Generation : 9439
+42623142565088: FIXED
+Generation : 9440
+42623142565088: FIXED
+Generation : 9441
+42623142565088: FIXED
+Generation : 9442
+42623142565088: FIXED
+Generation : 9443
+42623142565088: FIXED
+Generation : 9444
+42623142565088: FIXED
+Generation : 9445
+42623142565088: FIXED
+Generation : 9446
+42623142565088: FIXED
+Generation : 9447
+42623142565088: FIXED
+Generation : 9448
+42623142565088: FIXED
+Generation : 9449
+42623142565088: FIXED
+Generation : 9450
+42623142565088: FIXED
+Generation : 9451
+42623142565088: FIXED
+Generation : 9452
+42623142565088: FIXED
+Generation : 9453
+42623142565088: FIXED
+Generation : 9454
+42623142565088: FIXED
+Generation : 9455
+42623142565088: FIXED
+Generation : 9456
+42623142565088: FIXED
+Generation : 9457
+42623142565088: FIXED
+Generation : 9458
+42623142565088: FIXED
+Generation : 9459
+42623142565088: FIXED
+Generation : 9460
+42623142565088: FIXED
+Generation : 9461
+42623142565088: FIXED
+Generation : 9462
+42623142565088: FIXED
+Generation : 9463
+42623142565088: FIXED
+Generation : 9464
+42623142565088: FIXED
+Generation : 9465
+42623142565088: FIXED
+Generation : 9466
+42623142565088: FIXED
+Generation : 9467
+42623142565088: FIXED
+Generation : 9468
+42623142565088: FIXED
+Generation : 9469
+42623142565088: FIXED
+Generation : 9470
+42623142565088: FIXED
+Generation : 9471
+42623142565088: FIXED
+Generation : 9472
+42623142565088: FIXED
+Generation : 9473
+42623142565088: FIXED
+Generation : 9474
+42623142565088: FIXED
+Generation : 9475
+42623142565088: FIXED
+Generation : 9476
+42623142565088: FIXED
+Generation : 9477
+42623142565088: FIXED
+Generation : 9478
+42623142565088: FIXED
+Generation : 9479
+42623142565088: FIXED
+Generation : 9480
+42623142565088: FIXED
+Generation : 9481
+42623142565088: FIXED
+Generation : 9482
+42623142565088: FIXED
+Generation : 9483
+42623142565088: FIXED
+Generation : 9484
+42623142565088: FIXED
+Generation : 9485
+42623142565088: FIXED
+Generation : 9486
+42623142565088: FIXED
+Generation : 9487
+42623142565088: FIXED
+Generation : 9488
+42623142565088: FIXED
+Generation : 9489
+42623142565088: FIXED
+Generation : 9490
+42623142565088: FIXED
+Generation : 9491
+42623142565088: FIXED
+Generation : 9492
+42623142565088: FIXED
+Generation : 9493
+42623142565088: FIXED
+Generation : 9494
+42623142565088: FIXED
+Generation : 9495
+42623142565088: FIXED
+Generation : 9496
+42623142565088: FIXED
+Generation : 9497
+42623142565088: FIXED
+Generation : 9498
+42623142565088: FIXED
+Generation : 9499
+42623142565088: FIXED
+Generation : 9500
+42623142565088: FIXED
+Generation : 9501
+42623142565088: FIXED
+Generation : 9502
+42623142565088: FIXED
+Generation : 9503
+42623142565088: FIXED
+Generation : 9504
+42623142565088: FIXED
+Generation : 9505
+42623142565088: FIXED
+Generation : 9506
+42623142565088: FIXED
+Generation : 9507
+42623142565088: FIXED
+Generation : 9508
+42623142565088: FIXED
+Generation : 9509
+42623142565088: FIXED
+Generation : 9510
+42623142565088: FIXED
+Generation : 9511
+42623142565088: FIXED
+Generation : 9512
+42623142565088: FIXED
+Generation : 9513
+42623142565088: FIXED
+Generation : 9514
+42623142565088: FIXED
+Generation : 9515
+42623142565088: FIXED
+Generation : 9516
+42623142565088: FIXED
+Generation : 9517
+42623142565088: FIXED
+Generation : 9518
+42623142565088: FIXED
+Generation : 9519
+42623142565088: FIXED
+Generation : 9520
+42623142565088: FIXED
+Generation : 9521
+42623142565088: FIXED
+Generation : 9522
+42623142565088: FIXED
+Generation : 9523
+42623142565088: FIXED
+Generation : 9524
+42623142565088: FIXED
+Generation : 9525
+42623142565088: FIXED
+Generation : 9526
+42623142565088: FIXED
+Generation : 9527
+42623142565088: FIXED
+Generation : 9528
+42623142565088: FIXED
+Generation : 9529
+42623142565088: FIXED
+Generation : 9530
+42623142565088: FIXED
+Generation : 9531
+42623142565088: FIXED
+Generation : 9532
+42623142565088: FIXED
+Generation : 9533
+42623142565088: FIXED
+Generation : 9534
+42623142565088: FIXED
+Generation : 9535
+42623142565088: FIXED
+Generation : 9536
+42623142565088: FIXED
+Generation : 9537
+42623142565088: FIXED
+Generation : 9538
+42623142565088: FIXED
+Generation : 9539
+42623142565088: FIXED
+Generation : 9540
+42623142565088: FIXED
+Generation : 9541
+42623142565088: FIXED
+Generation : 9542
+42623142565088: FIXED
+Generation : 9543
+42623142565088: FIXED
+Generation : 9544
+42623142565088: FIXED
+Generation : 9545
+42623142565088: FIXED
+Generation : 9546
+42623142565088: FIXED
+Generation : 9547
+42623142565088: FIXED
+Generation : 9548
+42623142565088: FIXED
+Generation : 9549
+42623142565088: FIXED
+Generation : 9550
+42623142565088: FIXED
+Generation : 9551
+42623142565088: FIXED
+Generation : 9552
+42623142565088: FIXED
+Generation : 9553
+42623142565088: FIXED
+Generation : 9554
+42623142565088: FIXED
+Generation : 9555
+42623142565088: FIXED
+Generation : 9556
+42623142565088: FIXED
+Generation : 9557
+42623142565088: FIXED
+Generation : 9558
+42623142565088: FIXED
+Generation : 9559
+42623142565088: FIXED
+Generation : 9560
+42623142565088: FIXED
+Generation : 9561
+42623142565088: FIXED
+Generation : 9562
+42623142565088: FIXED
+Generation : 9563
+42623142565088: FIXED
+Generation : 9564
+42623142565088: FIXED
+Generation : 9565
+42623142565088: FIXED
+Generation : 9566
+42623142565088: FIXED
+Generation : 9567
+42623142565088: FIXED
+Generation : 9568
+42623142565088: FIXED
+Generation : 9569
+42623142565088: FIXED
+Generation : 9570
+42623142565088: FIXED
+Generation : 9571
+42623142565088: FIXED
+Generation : 9572
+42623142565088: FIXED
+Generation : 9573
+42623142565088: FIXED
+Generation : 9574
+42623142565088: FIXED
+Generation : 9575
+42623142565088: FIXED
+Generation : 9576
+42623142565088: FIXED
+Generation : 9577
+42623142565088: FIXED
+Generation : 9578
+42623142565088: FIXED
+Generation : 9579
+42623142565088: FIXED
+Generation : 9580
+42623142565088: FIXED
+Generation : 9581
+42623142565088: FIXED
+Generation : 9582
+42623142565088: FIXED
+Generation : 9583
+42623142565088: FIXED
+Generation : 9584
+42623142565088: FIXED
+Generation : 9585
+42623142565088: FIXED
+Generation : 9586
+42623142565088: FIXED
+Generation : 9587
+42623142565088: FIXED
+Generation : 9588
+42623142565088: FIXED
+Generation : 9589
+42623142565088: FIXED
+Generation : 9590
+42623142565088: FIXED
+Generation : 9591
+42623142565088: FIXED
+Generation : 9592
+42623142565088: FIXED
+Generation : 9593
+42623142565088: FIXED
+Generation : 9594
+42623142565088: FIXED
+Generation : 9595
+42623142565088: FIXED
+Generation : 9596
+42623142565088: FIXED
+Generation : 9597
+42623142565088: FIXED
+Generation : 9598
+42623142565088: FIXED
+Generation : 9599
+42623142565088: FIXED
+Generation : 9600
+42623142565088: FIXED
+Generation : 9601
+42623142565088: FIXED
+Generation : 9602
+42623142565088: FIXED
+Generation : 9603
+42623142565088: FIXED
+Generation : 9604
+42623142565088: FIXED
+Generation : 9605
+42623142565088: FIXED
+Generation : 9606
+42623142565088: FIXED
+Generation : 9607
+42623142565088: FIXED
+Generation : 9608
+42623142565088: FIXED
+Generation : 9609
+42623142565088: FIXED
+Generation : 9610
+42623142565088: FIXED
+Generation : 9611
+42623142565088: FIXED
+Generation : 9612
+42623142565088: FIXED
+Generation : 9613
+42623142565088: FIXED
+Generation : 9614
+42623142565088: FIXED
+Generation : 9615
+42623142565088: FIXED
+Generation : 9616
+42623142565088: FIXED
+Generation : 9617
+42623142565088: FIXED
+Generation : 9618
+42623142565088: FIXED
+Generation : 9619
+42623142565088: FIXED
+Generation : 9620
+42623142565088: FIXED
+Generation : 9621
+42623142565088: FIXED
+Generation : 9622
+42623142565088: FIXED
+Generation : 9623
+42623142565088: FIXED
+Generation : 9624
+42623142565088: FIXED
+Generation : 9625
+42623142565088: FIXED
+Generation : 9626
+42623142565088: FIXED
+Generation : 9627
+42623142565088: FIXED
+Generation : 9628
+42623142565088: FIXED
+Generation : 9629
+42623142565088: FIXED
+Generation : 9630
+42623142565088: FIXED
+Generation : 9631
+42623142565088: FIXED
+Generation : 9632
+42623142565088: FIXED
+Generation : 9633
+42623142565088: FIXED
+Generation : 9634
+42623142565088: FIXED
+Generation : 9635
+42623142565088: FIXED
+Generation : 9636
+42623142565088: FIXED
+Generation : 9637
+42623142565088: FIXED
+Generation : 9638
+42623142565088: FIXED
+Generation : 9639
+42623142565088: FIXED
+Generation : 9640
+42623142565088: FIXED
+Generation : 9641
+42623142565088: FIXED
+Generation : 9642
+42623142565088: FIXED
+Generation : 9643
+42623142565088: FIXED
+Generation : 9644
+42623142565088: FIXED
+Generation : 9645
+42623142565088: FIXED
+Generation : 9646
+42623142565088: FIXED
+Generation : 9647
+42623142565088: FIXED
+Generation : 9648
+42623142565088: FIXED
+Generation : 9649
+42623142565088: FIXED
+Generation : 9650
+42623142565088: FIXED
+Generation : 9651
+42623142565088: FIXED
+Generation : 9652
+42623142565088: FIXED
+Generation : 9653
+42623142565088: FIXED
+Generation : 9654
+42623142565088: FIXED
+Generation : 9655
+42623142565088: FIXED
+Generation : 9656
+42623142565088: FIXED
+Generation : 9657
+42623142565088: FIXED
+Generation : 9658
+42623142565088: FIXED
+Generation : 9659
+42623142565088: FIXED
+Generation : 9660
+42623142565088: FIXED
+Generation : 9661
+42623142565088: FIXED
+Generation : 9662
+42623142565088: FIXED
+Generation : 9663
+42623142565088: FIXED
+Generation : 9664
+42623142565088: FIXED
+Generation : 9665
+42623142565088: FIXED
+Generation : 9666
+42623142565088: FIXED
+Generation : 9667
+42623142565088: FIXED
+Generation : 9668
+42623142565088: FIXED
+Generation : 9669
+42623142565088: FIXED
+Generation : 9670
+42623142565088: FIXED
+Generation : 9671
+42623142565088: FIXED
+Generation : 9672
+42623142565088: FIXED
+Generation : 9673
+42623142565088: FIXED
+Generation : 9674
+42623142565088: FIXED
+Generation : 9675
+42623142565088: FIXED
+Generation : 9676
+42623142565088: FIXED
+Generation : 9677
+42623142565088: FIXED
+Generation : 9678
+42623142565088: FIXED
+Generation : 9679
+42623142565088: FIXED
+Generation : 9680
+42623142565088: FIXED
+Generation : 9681
+42623142565088: FIXED
+Generation : 9682
+42623142565088: FIXED
+Generation : 9683
+42623142565088: FIXED
+Generation : 9684
+42623142565088: FIXED
+Generation : 9685
+42623142565088: FIXED
+Generation : 9686
+42623142565088: FIXED
+Generation : 9687
+42623142565088: FIXED
+Generation : 9688
+42623142565088: FIXED
+Generation : 9689
+42623142565088: FIXED
+Generation : 9690
+42623142565088: FIXED
+Generation : 9691
+42623142565088: FIXED
+Generation : 9692
+42623142565088: FIXED
+Generation : 9693
+42623142565088: FIXED
+Generation : 9694
+42623142565088: FIXED
+Generation : 9695
+42623142565088: FIXED
+Generation : 9696
+42623142565088: FIXED
+Generation : 9697
+42623142565088: FIXED
+Generation : 9698
+42623142565088: FIXED
+Generation : 9699
+42623142565088: FIXED
+Generation : 9700
+42623142565088: FIXED
+Generation : 9701
+42623142565088: FIXED
+Generation : 9702
+42623142565088: FIXED
+Generation : 9703
+42623142565088: FIXED
+Generation : 9704
+42623142565088: FIXED
+Generation : 9705
+42623142565088: FIXED
+Generation : 9706
+42623142565088: FIXED
+Generation : 9707
+42623142565088: FIXED
+Generation : 9708
+42623142565088: FIXED
+Generation : 9709
+42623142565088: FIXED
+Generation : 9710
+42623142565088: FIXED
+Generation : 9711
+42623142565088: FIXED
+Generation : 9712
+42623142565088: FIXED
+Generation : 9713
+42623142565088: FIXED
+Generation : 9714
+42623142565088: FIXED
+Generation : 9715
+42623142565088: FIXED
+Generation : 9716
+42623142565088: FIXED
+Generation : 9717
+42623142565088: FIXED
+Generation : 9718
+42623142565088: FIXED
+Generation : 9719
+42623142565088: FIXED
+Generation : 9720
+42623142565088: FIXED
+Generation : 9721
+42623142565088: FIXED
+Generation : 9722
+42623142565088: FIXED
+Generation : 9723
+42623142565088: FIXED
+Generation : 9724
+42623142565088: FIXED
+Generation : 9725
+42623142565088: FIXED
+Generation : 9726
+42623142565088: FIXED
+Generation : 9727
+42623142565088: FIXED
+Generation : 9728
+42623142565088: FIXED
+Generation : 9729
+42623142565088: FIXED
+Generation : 9730
+42623142565088: FIXED
+Generation : 9731
+42623142565088: FIXED
+Generation : 9732
+42623142565088: FIXED
+Generation : 9733
+42623142565088: FIXED
+Generation : 9734
+42623142565088: FIXED
+Generation : 9735
+42623142565088: FIXED
+Generation : 9736
+42623142565088: FIXED
+Generation : 9737
+42623142565088: FIXED
+Generation : 9738
+42623142565088: FIXED
+Generation : 9739
+42623142565088: FIXED
+Generation : 9740
+42623142565088: FIXED
+Generation : 9741
+42623142565088: FIXED
+Generation : 9742
+42623142565088: FIXED
+Generation : 9743
+42623142565088: FIXED
+Generation : 9744
+42623142565088: FIXED
+Generation : 9745
+42623142565088: FIXED
+Generation : 9746
+42623142565088: FIXED
+Generation : 9747
+42623142565088: FIXED
+Generation : 9748
+42623142565088: FIXED
+Generation : 9749
+42623142565088: FIXED
+Generation : 9750
+42623142565088: FIXED
+Generation : 9751
+42623142565088: FIXED
+Generation : 9752
+42623142565088: FIXED
+Generation : 9753
+42623142565088: FIXED
+Generation : 9754
+42623142565088: FIXED
+Generation : 9755
+42623142565088: FIXED
+Generation : 9756
+42623142565088: FIXED
+Generation : 9757
+42623142565088: FIXED
+Generation : 9758
+42623142565088: FIXED
+Generation : 9759
+42623142565088: FIXED
+Generation : 9760
+42623142565088: FIXED
+Generation : 9761
+42623142565088: FIXED
+Generation : 9762
+42623142565088: FIXED
+Generation : 9763
+42623142565088: FIXED
+Generation : 9764
+42623142565088: FIXED
+Generation : 9765
+42623142565088: FIXED
+Generation : 9766
+42623142565088: FIXED
+Generation : 9767
+42623142565088: FIXED
+Generation : 9768
+42623142565088: FIXED
+Generation : 9769
+42623142565088: FIXED
+Generation : 9770
+42623142565088: FIXED
+Generation : 9771
+42623142565088: FIXED
+Generation : 9772
+42623142565088: FIXED
+Generation : 9773
+42623142565088: FIXED
+Generation : 9774
+42623142565088: FIXED
+Generation : 9775
+42623142565088: FIXED
+Generation : 9776
+42623142565088: FIXED
+Generation : 9777
+42623142565088: FIXED
+Generation : 9778
+42623142565088: FIXED
+Generation : 9779
+42623142565088: FIXED
+Generation : 9780
+42623142565088: FIXED
+Generation : 9781
+42623142565088: FIXED
+Generation : 9782
+42623142565088: FIXED
+Generation : 9783
+42623142565088: FIXED
+Generation : 9784
+42623142565088: FIXED
+Generation : 9785
+42623142565088: FIXED
+Generation : 9786
+42623142565088: FIXED
+Generation : 9787
+42623142565088: FIXED
+Generation : 9788
+42623142565088: FIXED
+Generation : 9789
+42623142565088: FIXED
+Generation : 9790
+42623142565088: FIXED
+Generation : 9791
+42623142565088: FIXED
+Generation : 9792
+42623142565088: FIXED
+Generation : 9793
+42623142565088: FIXED
+Generation : 9794
+42623142565088: FIXED
+Generation : 9795
+42623142565088: FIXED
+Generation : 9796
+42623142565088: FIXED
+Generation : 9797
+42623142565088: FIXED
+Generation : 9798
+42623142565088: FIXED
+Generation : 9799
+42623142565088: FIXED
+Generation : 9800
+42623142565088: FIXED
+Generation : 9801
+42623142565088: FIXED
+Generation : 9802
+42623142565088: FIXED
+Generation : 9803
+42623142565088: FIXED
+Generation : 9804
+42623142565088: FIXED
+Generation : 9805
+42623142565088: FIXED
+Generation : 9806
+42623142565088: FIXED
+Generation : 9807
+42623142565088: FIXED
+Generation : 9808
+42623142565088: FIXED
+Generation : 9809
+42623142565088: FIXED
+Generation : 9810
+42623142565088: FIXED
+Generation : 9811
+42623142565088: FIXED
+Generation : 9812
+42623142565088: FIXED
+Generation : 9813
+42623142565088: FIXED
+Generation : 9814
+42623142565088: FIXED
+Generation : 9815
+42623142565088: FIXED
+Generation : 9816
+42623142565088: FIXED
+Generation : 9817
+42623142565088: FIXED
+Generation : 9818
+42623142565088: FIXED
+Generation : 9819
+42623142565088: FIXED
+Generation : 9820
+42623142565088: FIXED
+Generation : 9821
+42623142565088: FIXED
+Generation : 9822
+42623142565088: FIXED
+Generation : 9823
+42623142565088: FIXED
+Generation : 9824
+42623142565088: FIXED
+Generation : 9825
+42623142565088: FIXED
+Generation : 9826
+42623142565088: FIXED
+Generation : 9827
+42623142565088: FIXED
+Generation : 9828
+42623142565088: FIXED
+Generation : 9829
+42623142565088: FIXED
+Generation : 9830
+42623142565088: FIXED
+Generation : 9831
+42623142565088: FIXED
+Generation : 9832
+42623142565088: FIXED
+Generation : 9833
+42623142565088: FIXED
+Generation : 9834
+42623142565088: FIXED
+Generation : 9835
+42623142565088: FIXED
+Generation : 9836
+42623142565088: FIXED
+Generation : 9837
+42623142565088: FIXED
+Generation : 9838
+42623142565088: FIXED
+Generation : 9839
+42623142565088: FIXED
+Generation : 9840
+42623142565088: FIXED
+Generation : 9841
+42623142565088: FIXED
+Generation : 9842
+42623142565088: FIXED
+Generation : 9843
+42623142565088: FIXED
+Generation : 9844
+42623142565088: FIXED
+Generation : 9845
+42623142565088: FIXED
+Generation : 9846
+42623142565088: FIXED
+Generation : 9847
+42623142565088: FIXED
+Generation : 9848
+42623142565088: FIXED
+Generation : 9849
+42623142565088: FIXED
+Generation : 9850
+42623142565088: FIXED
+Generation : 9851
+42623142565088: FIXED
+Generation : 9852
+42623142565088: FIXED
+Generation : 9853
+42623142565088: FIXED
+Generation : 9854
+42623142565088: FIXED
+Generation : 9855
+42623142565088: FIXED
+Generation : 9856
+42623142565088: FIXED
+Generation : 9857
+42623142565088: FIXED
+Generation : 9858
+42623142565088: FIXED
+Generation : 9859
+42623142565088: FIXED
+Generation : 9860
+42623142565088: FIXED
+Generation : 9861
+42623142565088: FIXED
+Generation : 9862
+42623142565088: FIXED
+Generation : 9863
+42623142565088: FIXED
+Generation : 9864
+42623142565088: FIXED
+Generation : 9865
+42623142565088: FIXED
+Generation : 9866
+42623142565088: FIXED
+Generation : 9867
+42623142565088: FIXED
+Generation : 9868
+42623142565088: FIXED
+Generation : 9869
+42623142565088: FIXED
+Generation : 9870
+42623142565088: FIXED
+Generation : 9871
+42623142565088: FIXED
+Generation : 9872
+42623142565088: FIXED
+Generation : 9873
+42623142565088: FIXED
+Generation : 9874
+42623142565088: FIXED
+Generation : 9875
+42623142565088: FIXED
+Generation : 9876
+42623142565088: FIXED
+Generation : 9877
+42623142565088: FIXED
+Generation : 9878
+42623142565088: FIXED
+Generation : 9879
+42623142565088: FIXED
+Generation : 9880
+42623142565088: FIXED
+Generation : 9881
+42623142565088: FIXED
+Generation : 9882
+42623142565088: FIXED
+Generation : 9883
+42623142565088: FIXED
+Generation : 9884
+42623142565088: FIXED
+Generation : 9885
+42623142565088: FIXED
+Generation : 9886
+42623142565088: FIXED
+Generation : 9887
+42623142565088: FIXED
+Generation : 9888
+42623142565088: FIXED
+Generation : 9889
+42623142565088: FIXED
+Generation : 9890
+42623142565088: FIXED
+Generation : 9891
+42623142565088: FIXED
+Generation : 9892
+42623142565088: FIXED
+Generation : 9893
+42623142565088: FIXED
+Generation : 9894
+42623142565088: FIXED
+Generation : 9895
+42623142565088: FIXED
+Generation : 9896
+42623142565088: FIXED
+Generation : 9897
+42623142565088: FIXED
+Generation : 9898
+42623142565088: FIXED
+Generation : 9899
+42623142565088: FIXED
+Generation : 9900
+42623142565088: FIXED
+Generation : 9901
+42623142565088: FIXED
+Generation : 9902
+42623142565088: FIXED
+Generation : 9903
+42623142565088: FIXED
+Generation : 9904
+42623142565088: FIXED
+Generation : 9905
+42623142565088: FIXED
+Generation : 9906
+42623142565088: FIXED
+Generation : 9907
+42623142565088: FIXED
+Generation : 9908
+42623142565088: FIXED
+Generation : 9909
+42623142565088: FIXED
+Generation : 9910
+42623142565088: FIXED
+Generation : 9911
+42623142565088: FIXED
+Generation : 9912
+42623142565088: FIXED
+Generation : 9913
+42623142565088: FIXED
+Generation : 9914
+42623142565088: FIXED
+Generation : 9915
+42623142565088: FIXED
+Generation : 9916
+42623142565088: FIXED
+Generation : 9917
+42623142565088: FIXED
+Generation : 9918
+42623142565088: FIXED
+Generation : 9919
+42623142565088: FIXED
+Generation : 9920
+42623142565088: FIXED
+Generation : 9921
+42623142565088: FIXED
+Generation : 9922
+42623142565088: FIXED
+Generation : 9923
+42623142565088: FIXED
+Generation : 9924
+42623142565088: FIXED
+Generation : 9925
+42623142565088: FIXED
+Generation : 9926
+42623142565088: FIXED
+Generation : 9927
+42623142565088: FIXED
+Generation : 9928
+42623142565088: FIXED
+Generation : 9929
+42623142565088: FIXED
+Generation : 9930
+42623142565088: FIXED
+Generation : 9931
+42623142565088: FIXED
+Generation : 9932
+42623142565088: FIXED
+Generation : 9933
+42623142565088: FIXED
+Generation : 9934
+42623142565088: FIXED
+Generation : 9935
+42623142565088: FIXED
+Generation : 9936
+42623142565088: FIXED
+Generation : 9937
+42623142565088: FIXED
+Generation : 9938
+42623142565088: FIXED
+Generation : 9939
+42623142565088: FIXED
+Generation : 9940
+42623142565088: FIXED
+Generation : 9941
+42623142565088: FIXED
+Generation : 9942
+42623142565088: FIXED
+Generation : 9943
+42623142565088: FIXED
+Generation : 9944
+42623142565088: FIXED
+Generation : 9945
+42623142565088: FIXED
+Generation : 9946
+42623142565088: FIXED
+Generation : 9947
+42623142565088: FIXED
+Generation : 9948
+42623142565088: FIXED
+Generation : 9949
+42623142565088: FIXED
+Generation : 9950
+42623142565088: FIXED
+Generation : 9951
+42623142565088: FIXED
+Generation : 9952
+42623142565088: FIXED
+Generation : 9953
+42623142565088: FIXED
+Generation : 9954
+42623142565088: FIXED
+Generation : 9955
+42623142565088: FIXED
+Generation : 9956
+42623142565088: FIXED
+Generation : 9957
+42623142565088: FIXED
+Generation : 9958
+42623142565088: FIXED
+Generation : 9959
+42623142565088: FIXED
+Generation : 9960
+42623142565088: FIXED
+Generation : 9961
+42623142565088: FIXED
+Generation : 9962
+42623142565088: FIXED
+Generation : 9963
+42623142565088: FIXED
+Generation : 9964
+42623142565088: FIXED
+Generation : 9965
+42623142565088: FIXED
+Generation : 9966
+42623142565088: FIXED
+Generation : 9967
+42623142565088: FIXED
+Generation : 9968
+42623142565088: FIXED
+Generation : 9969
+42623142565088: FIXED
+Generation : 9970
+42623142565088: FIXED
+Generation : 9971
+42623142565088: FIXED
+Generation : 9972
+42623142565088: FIXED
+Generation : 9973
+42623142565088: FIXED
+Generation : 9974
+42623142565088: FIXED
+Generation : 9975
+42623142565088: FIXED
+Generation : 9976
+42623142565088: FIXED
+Generation : 9977
+42623142565088: FIXED
+Generation : 9978
+42623142565088: FIXED
+Generation : 9979
+42623142565088: FIXED
+Generation : 9980
+42623142565088: FIXED
+Generation : 9981
+42623142565088: FIXED
+Generation : 9982
+42623142565088: FIXED
+Generation : 9983
+42623142565088: FIXED
+Generation : 9984
+42623142565088: FIXED
+Generation : 9985
+42623142565088: FIXED
+Generation : 9986
+42623142565088: FIXED
+Generation : 9987
+42623142565088: FIXED
+Generation : 9988
+42623142565088: FIXED
+Generation : 9989
+42623142565088: FIXED
+Generation : 9990
+42623142565088: FIXED
+Generation : 9991
+42623142565088: FIXED
+Generation : 9992
+42623142565088: FIXED
+Generation : 9993
+42623142565088: FIXED
+Generation : 9994
+42623142565088: FIXED
+Generation : 9995
+42623142565088: FIXED
+Generation : 9996
+42623142565088: FIXED
+Generation : 9997
+42623142565088: FIXED
+Generation : 9998
+42623142565088: FIXED
+Generation : 9999
+42623142565088: FIXED
+Generation : 10000
+42623142565088: FIXED
+#OUT: 10000 10000 F
+Mutations:
+0 2 m2 500000 0.05 0.5 p1 8000 8248

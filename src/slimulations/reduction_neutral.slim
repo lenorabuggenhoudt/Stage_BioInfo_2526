@@ -1,0 +1,66 @@
+// Université Paris-Saclay
+// Lab : LISN ~ UMR9015 ~ BIOINFO team 
+
+initialize() {
+	initializeTreeSeq();
+	defineConstant("pop_size", popsize);	// K = Pop size (Ne)
+	defineConstant("generationsmitoses", generationmitoses); // 1/alpha (GR)
+	defineConstant("recombination_rate", recombinationrate); // recombination rate (rho)
+	defineConstant("reduction_ratio", reductionratio); // size population after reduction = size population before reduction * reduction_ratio
+	defineConstant("rep", replicatenumber);
+
+	
+	initializeMutationRate(0, 1999999); // Overlay for neutral part of the genome so mu = 0 in the simulations
+	// no sweep so no mutation rate here. only in tree_sumstats.py
+	
+	initializeMutationType("m1", 0.5, "f", 0.0);
+	m1.mutationStackPolicy = "l";
+	initializeGenomicElementType("g1", m1, 1.0);
+	
+	initializeRecombinationRate(c(recombination_rate*generationsmitoses, 0.5, recombination_rate*generationsmitoses), c(999999,1000000,1999999)); // Two independant chromosomes 
+
+	initializeGenomicElement(g1, 0, 1999999);
+	
+	// Variable to store the generation for the next sexual event to happen
+	// FANNY changed to a poisson distribution
+	//defineGlobal("gen_recomb", asInteger(rnorm(1,generationsmitoses,asInteger(generationsmitoses/10))));
+	defineGlobal("gen_recomb", asInteger(rpois(1, generationsmitoses)));
+}
+
+1 early(){ sim.addSubpop("p1", pop_size);}
+
+
+8000 early() { p1.setSubpopulationSize(asInteger(round(pop_size/reduction_ratio))); } // Enters the reduction, divide the number of individuals by the reduction_ratio
+
+
+early() {
+
+	// If facultative sex (alpha < 1): do cloning then sex at the "gen_recomb" generation (also define the next gen_recom)
+	// If not (alpha = 1) : do sex by default
+
+	if(generationsmitoses!=1){ // <=> if alpha < 1
+		if (sim.cycle != gen_recomb){
+			p1.setCloningRate(1.0);
+		}
+		else {
+			p1.setCloningRate(0.0);
+			// Normal law (used before)
+			//defineGlobal("gen_recomb", gen_recomb + asInteger(rnorm(1,generationsmitoses,asInteger(generationsmitoses/10))));
+
+			// Poisson law
+			defineGlobal("gen_recomb", gen_recomb + asInteger(rpois(1, generationsmitoses)) );
+			
+		}
+	}
+}
+
+
+
+
+10000 late() { 
+
+	sim.treeSeqOutput(paste("./results/neutral/reduction/ts_",rep,"_",generationsmitoses,".trees",sep=""));
+	sim.outputFixedMutations();
+	sim.simulationFinished();
+	
+}

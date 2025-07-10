@@ -1,0 +1,4371 @@
+// Initial random seed:
+42348131848295
+
+// RunInitializeCallbacks():
+initializeTreeSeq();
+initializeMutationRate(c(0, 1e-07, 0), c(499999, 500000, 1999999));
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(2, 0.5, "f", 0.05);
+initializeGenomicElementType(1, m1, 1);
+initializeRecombinationRate(c(5e-06, 0.5, 5e-06), c(999999, 1000000, 1999999));
+initializeGenomicElement(g1, 0, 1999999);
+
+// Starting run at tick <start>:
+1 
+
+Late 8000 
+Generation : 8000
+In progress
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+42348131848295: LOST – RESTARTING
+Generation : 8001
+42348131848295: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+In progress
+Generation : 8027
+In progress
+Generation : 8028
+In progress
+Generation : 8029
+In progress
+Generation : 8030
+In progress
+Generation : 8031
+In progress
+Generation : 8032
+In progress
+Generation : 8033
+In progress
+Generation : 8034
+In progress
+Generation : 8035
+In progress
+Generation : 8036
+In progress
+Generation : 8037
+In progress
+Generation : 8038
+In progress
+Generation : 8039
+In progress
+Generation : 8040
+In progress
+Generation : 8041
+In progress
+Generation : 8042
+In progress
+Generation : 8043
+In progress
+Generation : 8044
+In progress
+Generation : 8045
+In progress
+Generation : 8046
+In progress
+Generation : 8047
+In progress
+Generation : 8048
+In progress
+Generation : 8049
+In progress
+Generation : 8050
+In progress
+Generation : 8051
+In progress
+Generation : 8052
+In progress
+Generation : 8053
+In progress
+Generation : 8054
+In progress
+Generation : 8055
+In progress
+Generation : 8056
+In progress
+Generation : 8057
+In progress
+Generation : 8058
+In progress
+Generation : 8059
+In progress
+Generation : 8060
+In progress
+Generation : 8061
+In progress
+Generation : 8062
+In progress
+Generation : 8063
+In progress
+Generation : 8064
+In progress
+Generation : 8065
+In progress
+Generation : 8066
+In progress
+Generation : 8067
+In progress
+Generation : 8068
+In progress
+Generation : 8069
+In progress
+Generation : 8070
+In progress
+Generation : 8071
+In progress
+Generation : 8072
+In progress
+Generation : 8073
+In progress
+Generation : 8074
+In progress
+Generation : 8075
+In progress
+Generation : 8076
+In progress
+Generation : 8077
+In progress
+Generation : 8078
+In progress
+Generation : 8079
+In progress
+Generation : 8080
+In progress
+Generation : 8081
+In progress
+Generation : 8082
+In progress
+Generation : 8083
+In progress
+Generation : 8084
+In progress
+Generation : 8085
+In progress
+Generation : 8086
+In progress
+Generation : 8087
+In progress
+Generation : 8088
+In progress
+Generation : 8089
+In progress
+Generation : 8090
+In progress
+Generation : 8091
+In progress
+Generation : 8092
+In progress
+Generation : 8093
+In progress
+Generation : 8094
+In progress
+Generation : 8095
+In progress
+Generation : 8096
+In progress
+Generation : 8097
+In progress
+Generation : 8098
+In progress
+Generation : 8099
+In progress
+Generation : 8100
+In progress
+Generation : 8101
+In progress
+Generation : 8102
+In progress
+Generation : 8103
+In progress
+Generation : 8104
+In progress
+Generation : 8105
+42348131848295: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+42348131848295: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+In progress
+Generation : 8027
+In progress
+Generation : 8028
+In progress
+Generation : 8029
+In progress
+Generation : 8030
+In progress
+Generation : 8031
+In progress
+Generation : 8032
+In progress
+Generation : 8033
+In progress
+Generation : 8034
+In progress
+Generation : 8035
+In progress
+Generation : 8036
+In progress
+Generation : 8037
+In progress
+Generation : 8038
+In progress
+Generation : 8039
+In progress
+Generation : 8040
+In progress
+Generation : 8041
+In progress
+Generation : 8042
+In progress
+Generation : 8043
+In progress
+Generation : 8044
+In progress
+Generation : 8045
+In progress
+Generation : 8046
+In progress
+Generation : 8047
+42348131848295: LOST – RESTARTING
+Generation : 8001
+42348131848295: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+42348131848295: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+In progress
+Generation : 8027
+In progress
+Generation : 8028
+In progress
+Generation : 8029
+In progress
+Generation : 8030
+In progress
+Generation : 8031
+In progress
+Generation : 8032
+In progress
+Generation : 8033
+In progress
+Generation : 8034
+In progress
+Generation : 8035
+In progress
+Generation : 8036
+In progress
+Generation : 8037
+In progress
+Generation : 8038
+In progress
+Generation : 8039
+In progress
+Generation : 8040
+In progress
+Generation : 8041
+In progress
+Generation : 8042
+In progress
+Generation : 8043
+In progress
+Generation : 8044
+In progress
+Generation : 8045
+In progress
+Generation : 8046
+In progress
+Generation : 8047
+In progress
+Generation : 8048
+In progress
+Generation : 8049
+In progress
+Generation : 8050
+In progress
+Generation : 8051
+In progress
+Generation : 8052
+In progress
+Generation : 8053
+In progress
+Generation : 8054
+In progress
+Generation : 8055
+In progress
+Generation : 8056
+In progress
+Generation : 8057
+In progress
+Generation : 8058
+In progress
+Generation : 8059
+In progress
+Generation : 8060
+In progress
+Generation : 8061
+In progress
+Generation : 8062
+In progress
+Generation : 8063
+In progress
+Generation : 8064
+In progress
+Generation : 8065
+In progress
+Generation : 8066
+In progress
+Generation : 8067
+In progress
+Generation : 8068
+In progress
+Generation : 8069
+In progress
+Generation : 8070
+In progress
+Generation : 8071
+In progress
+Generation : 8072
+In progress
+Generation : 8073
+In progress
+Generation : 8074
+In progress
+Generation : 8075
+In progress
+Generation : 8076
+In progress
+Generation : 8077
+In progress
+Generation : 8078
+In progress
+Generation : 8079
+In progress
+Generation : 8080
+In progress
+Generation : 8081
+In progress
+Generation : 8082
+In progress
+Generation : 8083
+In progress
+Generation : 8084
+In progress
+Generation : 8085
+In progress
+Generation : 8086
+In progress
+Generation : 8087
+In progress
+Generation : 8088
+In progress
+Generation : 8089
+In progress
+Generation : 8090
+In progress
+Generation : 8091
+In progress
+Generation : 8092
+In progress
+Generation : 8093
+In progress
+Generation : 8094
+In progress
+Generation : 8095
+In progress
+Generation : 8096
+In progress
+Generation : 8097
+In progress
+Generation : 8098
+In progress
+Generation : 8099
+In progress
+Generation : 8100
+In progress
+Generation : 8101
+In progress
+Generation : 8102
+In progress
+Generation : 8103
+In progress
+Generation : 8104
+In progress
+Generation : 8105
+In progress
+Generation : 8106
+In progress
+Generation : 8107
+In progress
+Generation : 8108
+In progress
+Generation : 8109
+In progress
+Generation : 8110
+In progress
+Generation : 8111
+In progress
+Generation : 8112
+In progress
+Generation : 8113
+In progress
+Generation : 8114
+In progress
+Generation : 8115
+In progress
+Generation : 8116
+In progress
+Generation : 8117
+In progress
+Generation : 8118
+In progress
+Generation : 8119
+In progress
+Generation : 8120
+In progress
+Generation : 8121
+In progress
+Generation : 8122
+In progress
+Generation : 8123
+In progress
+Generation : 8124
+In progress
+Generation : 8125
+In progress
+Generation : 8126
+In progress
+Generation : 8127
+In progress
+Generation : 8128
+In progress
+Generation : 8129
+In progress
+Generation : 8130
+In progress
+Generation : 8131
+In progress
+Generation : 8132
+In progress
+Generation : 8133
+In progress
+Generation : 8134
+In progress
+Generation : 8135
+In progress
+Generation : 8136
+In progress
+Generation : 8137
+In progress
+Generation : 8138
+In progress
+Generation : 8139
+In progress
+Generation : 8140
+In progress
+Generation : 8141
+In progress
+Generation : 8142
+In progress
+Generation : 8143
+In progress
+Generation : 8144
+In progress
+Generation : 8145
+In progress
+Generation : 8146
+In progress
+Generation : 8147
+In progress
+Generation : 8148
+In progress
+Generation : 8149
+In progress
+Generation : 8150
+In progress
+Generation : 8151
+In progress
+Generation : 8152
+In progress
+Generation : 8153
+In progress
+Generation : 8154
+In progress
+Generation : 8155
+In progress
+Generation : 8156
+In progress
+Generation : 8157
+In progress
+Generation : 8158
+In progress
+Generation : 8159
+In progress
+Generation : 8160
+In progress
+Generation : 8161
+In progress
+Generation : 8162
+In progress
+Generation : 8163
+In progress
+Generation : 8164
+In progress
+Generation : 8165
+In progress
+Generation : 8166
+In progress
+Generation : 8167
+In progress
+Generation : 8168
+In progress
+Generation : 8169
+In progress
+Generation : 8170
+In progress
+Generation : 8171
+In progress
+Generation : 8172
+In progress
+Generation : 8173
+In progress
+Generation : 8174
+In progress
+Generation : 8175
+In progress
+Generation : 8176
+In progress
+Generation : 8177
+In progress
+Generation : 8178
+In progress
+Generation : 8179
+In progress
+Generation : 8180
+In progress
+Generation : 8181
+In progress
+Generation : 8182
+In progress
+Generation : 8183
+In progress
+Generation : 8184
+In progress
+Generation : 8185
+In progress
+Generation : 8186
+In progress
+Generation : 8187
+In progress
+Generation : 8188
+In progress
+Generation : 8189
+In progress
+Generation : 8190
+In progress
+Generation : 8191
+In progress
+Generation : 8192
+In progress
+Generation : 8193
+In progress
+Generation : 8194
+In progress
+Generation : 8195
+In progress
+Generation : 8196
+In progress
+Generation : 8197
+In progress
+Generation : 8198
+In progress
+Generation : 8199
+In progress
+Generation : 8200
+In progress
+Generation : 8201
+In progress
+Generation : 8202
+In progress
+Generation : 8203
+In progress
+Generation : 8204
+In progress
+Generation : 8205
+In progress
+Generation : 8206
+In progress
+Generation : 8207
+In progress
+Generation : 8208
+In progress
+Generation : 8209
+In progress
+Generation : 8210
+In progress
+Generation : 8211
+In progress
+Generation : 8212
+In progress
+Generation : 8213
+In progress
+Generation : 8214
+In progress
+Generation : 8215
+In progress
+Generation : 8216
+In progress
+Generation : 8217
+In progress
+Generation : 8218
+In progress
+Generation : 8219
+In progress
+Generation : 8220
+In progress
+Generation : 8221
+In progress
+Generation : 8222
+In progress
+Generation : 8223
+In progress
+Generation : 8224
+In progress
+Generation : 8225
+In progress
+Generation : 8226
+In progress
+Generation : 8227
+In progress
+Generation : 8228
+In progress
+Generation : 8229
+In progress
+Generation : 8230
+In progress
+Generation : 8231
+In progress
+Generation : 8232
+In progress
+Generation : 8233
+In progress
+Generation : 8234
+In progress
+Generation : 8235
+In progress
+Generation : 8236
+In progress
+Generation : 8237
+In progress
+Generation : 8238
+In progress
+Generation : 8239
+In progress
+Generation : 8240
+In progress
+Generation : 8241
+In progress
+Generation : 8242
+In progress
+Generation : 8243
+In progress
+Generation : 8244
+In progress
+Generation : 8245
+In progress
+Generation : 8246
+In progress
+Generation : 8247
+In progress
+Generation : 8248
+In progress
+Generation : 8249
+In progress
+Generation : 8250
+In progress
+Generation : 8251
+In progress
+Generation : 8252
+In progress
+Generation : 8253
+In progress
+Generation : 8254
+In progress
+Generation : 8255
+In progress
+Generation : 8256
+In progress
+Generation : 8257
+In progress
+Generation : 8258
+In progress
+Generation : 8259
+In progress
+Generation : 8260
+In progress
+Generation : 8261
+In progress
+Generation : 8262
+In progress
+Generation : 8263
+In progress
+Generation : 8264
+In progress
+Generation : 8265
+In progress
+Generation : 8266
+In progress
+Generation : 8267
+In progress
+Generation : 8268
+In progress
+Generation : 8269
+In progress
+Generation : 8270
+In progress
+Generation : 8271
+In progress
+Generation : 8272
+In progress
+Generation : 8273
+In progress
+Generation : 8274
+In progress
+Generation : 8275
+In progress
+Generation : 8276
+In progress
+Generation : 8277
+In progress
+Generation : 8278
+In progress
+Generation : 8279
+In progress
+Generation : 8280
+In progress
+Generation : 8281
+In progress
+Generation : 8282
+In progress
+Generation : 8283
+In progress
+Generation : 8284
+In progress
+Generation : 8285
+In progress
+Generation : 8286
+In progress
+Generation : 8287
+In progress
+Generation : 8288
+In progress
+Generation : 8289
+In progress
+Generation : 8290
+In progress
+Generation : 8291
+In progress
+Generation : 8292
+In progress
+Generation : 8293
+In progress
+Generation : 8294
+In progress
+Generation : 8295
+In progress
+Generation : 8296
+In progress
+Generation : 8297
+In progress
+Generation : 8298
+In progress
+Generation : 8299
+In progress
+Generation : 8300
+In progress
+Generation : 8301
+In progress
+Generation : 8302
+In progress
+Generation : 8303
+In progress
+Generation : 8304
+In progress
+Generation : 8305
+In progress
+Generation : 8306
+In progress
+Generation : 8307
+In progress
+Generation : 8308
+In progress
+Generation : 8309
+In progress
+Generation : 8310
+In progress
+Generation : 8311
+In progress
+Generation : 8312
+In progress
+Generation : 8313
+In progress
+Generation : 8314
+In progress
+Generation : 8315
+In progress
+Generation : 8316
+In progress
+Generation : 8317
+In progress
+Generation : 8318
+In progress
+Generation : 8319
+In progress
+Generation : 8320
+In progress
+Generation : 8321
+In progress
+Generation : 8322
+In progress
+Generation : 8323
+In progress
+Generation : 8324
+In progress
+Generation : 8325
+In progress
+Generation : 8326
+42348131848295: FIXED
+Generation : 8327
+42348131848295: FIXED
+Generation : 8328
+42348131848295: FIXED
+Generation : 8329
+42348131848295: FIXED
+Generation : 8330
+42348131848295: FIXED
+Generation : 8331
+42348131848295: FIXED
+Generation : 8332
+42348131848295: FIXED
+Generation : 8333
+42348131848295: FIXED
+Generation : 8334
+42348131848295: FIXED
+Generation : 8335
+42348131848295: FIXED
+Generation : 8336
+42348131848295: FIXED
+Generation : 8337
+42348131848295: FIXED
+Generation : 8338
+42348131848295: FIXED
+Generation : 8339
+42348131848295: FIXED
+Generation : 8340
+42348131848295: FIXED
+Generation : 8341
+42348131848295: FIXED
+Generation : 8342
+42348131848295: FIXED
+Generation : 8343
+42348131848295: FIXED
+Generation : 8344
+42348131848295: FIXED
+Generation : 8345
+42348131848295: FIXED
+Generation : 8346
+42348131848295: FIXED
+Generation : 8347
+42348131848295: FIXED
+Generation : 8348
+42348131848295: FIXED
+Generation : 8349
+42348131848295: FIXED
+Generation : 8350
+42348131848295: FIXED
+Generation : 8351
+42348131848295: FIXED
+Generation : 8352
+42348131848295: FIXED
+Generation : 8353
+42348131848295: FIXED
+Generation : 8354
+42348131848295: FIXED
+Generation : 8355
+42348131848295: FIXED
+Generation : 8356
+42348131848295: FIXED
+Generation : 8357
+42348131848295: FIXED
+Generation : 8358
+42348131848295: FIXED
+Generation : 8359
+42348131848295: FIXED
+Generation : 8360
+42348131848295: FIXED
+Generation : 8361
+42348131848295: FIXED
+Generation : 8362
+42348131848295: FIXED
+Generation : 8363
+42348131848295: FIXED
+Generation : 8364
+42348131848295: FIXED
+Generation : 8365
+42348131848295: FIXED
+Generation : 8366
+42348131848295: FIXED
+Generation : 8367
+42348131848295: FIXED
+Generation : 8368
+42348131848295: FIXED
+Generation : 8369
+42348131848295: FIXED
+Generation : 8370
+42348131848295: FIXED
+Generation : 8371
+42348131848295: FIXED
+Generation : 8372
+42348131848295: FIXED
+Generation : 8373
+42348131848295: FIXED
+Generation : 8374
+42348131848295: FIXED
+Generation : 8375
+42348131848295: FIXED
+Generation : 8376
+42348131848295: FIXED
+Generation : 8377
+42348131848295: FIXED
+Generation : 8378
+42348131848295: FIXED
+Generation : 8379
+42348131848295: FIXED
+Generation : 8380
+42348131848295: FIXED
+Generation : 8381
+42348131848295: FIXED
+Generation : 8382
+42348131848295: FIXED
+Generation : 8383
+42348131848295: FIXED
+Generation : 8384
+42348131848295: FIXED
+Generation : 8385
+42348131848295: FIXED
+Generation : 8386
+42348131848295: FIXED
+Generation : 8387
+42348131848295: FIXED
+Generation : 8388
+42348131848295: FIXED
+Generation : 8389
+42348131848295: FIXED
+Generation : 8390
+42348131848295: FIXED
+Generation : 8391
+42348131848295: FIXED
+Generation : 8392
+42348131848295: FIXED
+Generation : 8393
+42348131848295: FIXED
+Generation : 8394
+42348131848295: FIXED
+Generation : 8395
+42348131848295: FIXED
+Generation : 8396
+42348131848295: FIXED
+Generation : 8397
+42348131848295: FIXED
+Generation : 8398
+42348131848295: FIXED
+Generation : 8399
+42348131848295: FIXED
+Generation : 8400
+42348131848295: FIXED
+Generation : 8401
+42348131848295: FIXED
+Generation : 8402
+42348131848295: FIXED
+Generation : 8403
+42348131848295: FIXED
+Generation : 8404
+42348131848295: FIXED
+Generation : 8405
+42348131848295: FIXED
+Generation : 8406
+42348131848295: FIXED
+Generation : 8407
+42348131848295: FIXED
+Generation : 8408
+42348131848295: FIXED
+Generation : 8409
+42348131848295: FIXED
+Generation : 8410
+42348131848295: FIXED
+Generation : 8411
+42348131848295: FIXED
+Generation : 8412
+42348131848295: FIXED
+Generation : 8413
+42348131848295: FIXED
+Generation : 8414
+42348131848295: FIXED
+Generation : 8415
+42348131848295: FIXED
+Generation : 8416
+42348131848295: FIXED
+Generation : 8417
+42348131848295: FIXED
+Generation : 8418
+42348131848295: FIXED
+Generation : 8419
+42348131848295: FIXED
+Generation : 8420
+42348131848295: FIXED
+Generation : 8421
+42348131848295: FIXED
+Generation : 8422
+42348131848295: FIXED
+Generation : 8423
+42348131848295: FIXED
+Generation : 8424
+42348131848295: FIXED
+Generation : 8425
+42348131848295: FIXED
+Generation : 8426
+42348131848295: FIXED
+Generation : 8427
+42348131848295: FIXED
+Generation : 8428
+42348131848295: FIXED
+Generation : 8429
+42348131848295: FIXED
+Generation : 8430
+42348131848295: FIXED
+Generation : 8431
+42348131848295: FIXED
+Generation : 8432
+42348131848295: FIXED
+Generation : 8433
+42348131848295: FIXED
+Generation : 8434
+42348131848295: FIXED
+Generation : 8435
+42348131848295: FIXED
+Generation : 8436
+42348131848295: FIXED
+Generation : 8437
+42348131848295: FIXED
+Generation : 8438
+42348131848295: FIXED
+Generation : 8439
+42348131848295: FIXED
+Generation : 8440
+42348131848295: FIXED
+Generation : 8441
+42348131848295: FIXED
+Generation : 8442
+42348131848295: FIXED
+Generation : 8443
+42348131848295: FIXED
+Generation : 8444
+42348131848295: FIXED
+Generation : 8445
+42348131848295: FIXED
+Generation : 8446
+42348131848295: FIXED
+Generation : 8447
+42348131848295: FIXED
+Generation : 8448
+42348131848295: FIXED
+Generation : 8449
+42348131848295: FIXED
+Generation : 8450
+42348131848295: FIXED
+Generation : 8451
+42348131848295: FIXED
+Generation : 8452
+42348131848295: FIXED
+Generation : 8453
+42348131848295: FIXED
+Generation : 8454
+42348131848295: FIXED
+Generation : 8455
+42348131848295: FIXED
+Generation : 8456
+42348131848295: FIXED
+Generation : 8457
+42348131848295: FIXED
+Generation : 8458
+42348131848295: FIXED
+Generation : 8459
+42348131848295: FIXED
+Generation : 8460
+42348131848295: FIXED
+Generation : 8461
+42348131848295: FIXED
+Generation : 8462
+42348131848295: FIXED
+Generation : 8463
+42348131848295: FIXED
+Generation : 8464
+42348131848295: FIXED
+Generation : 8465
+42348131848295: FIXED
+Generation : 8466
+42348131848295: FIXED
+Generation : 8467
+42348131848295: FIXED
+Generation : 8468
+42348131848295: FIXED
+Generation : 8469
+42348131848295: FIXED
+Generation : 8470
+42348131848295: FIXED
+Generation : 8471
+42348131848295: FIXED
+Generation : 8472
+42348131848295: FIXED
+Generation : 8473
+42348131848295: FIXED
+Generation : 8474
+42348131848295: FIXED
+Generation : 8475
+42348131848295: FIXED
+Generation : 8476
+42348131848295: FIXED
+Generation : 8477
+42348131848295: FIXED
+Generation : 8478
+42348131848295: FIXED
+Generation : 8479
+42348131848295: FIXED
+Generation : 8480
+42348131848295: FIXED
+Generation : 8481
+42348131848295: FIXED
+Generation : 8482
+42348131848295: FIXED
+Generation : 8483
+42348131848295: FIXED
+Generation : 8484
+42348131848295: FIXED
+Generation : 8485
+42348131848295: FIXED
+Generation : 8486
+42348131848295: FIXED
+Generation : 8487
+42348131848295: FIXED
+Generation : 8488
+42348131848295: FIXED
+Generation : 8489
+42348131848295: FIXED
+Generation : 8490
+42348131848295: FIXED
+Generation : 8491
+42348131848295: FIXED
+Generation : 8492
+42348131848295: FIXED
+Generation : 8493
+42348131848295: FIXED
+Generation : 8494
+42348131848295: FIXED
+Generation : 8495
+42348131848295: FIXED
+Generation : 8496
+42348131848295: FIXED
+Generation : 8497
+42348131848295: FIXED
+Generation : 8498
+42348131848295: FIXED
+Generation : 8499
+42348131848295: FIXED
+Generation : 8500
+42348131848295: FIXED
+Generation : 8501
+42348131848295: FIXED
+Generation : 8502
+42348131848295: FIXED
+Generation : 8503
+42348131848295: FIXED
+Generation : 8504
+42348131848295: FIXED
+Generation : 8505
+42348131848295: FIXED
+Generation : 8506
+42348131848295: FIXED
+Generation : 8507
+42348131848295: FIXED
+Generation : 8508
+42348131848295: FIXED
+Generation : 8509
+42348131848295: FIXED
+Generation : 8510
+42348131848295: FIXED
+Generation : 8511
+42348131848295: FIXED
+Generation : 8512
+42348131848295: FIXED
+Generation : 8513
+42348131848295: FIXED
+Generation : 8514
+42348131848295: FIXED
+Generation : 8515
+42348131848295: FIXED
+Generation : 8516
+42348131848295: FIXED
+Generation : 8517
+42348131848295: FIXED
+Generation : 8518
+42348131848295: FIXED
+Generation : 8519
+42348131848295: FIXED
+Generation : 8520
+42348131848295: FIXED
+Generation : 8521
+42348131848295: FIXED
+Generation : 8522
+42348131848295: FIXED
+Generation : 8523
+42348131848295: FIXED
+Generation : 8524
+42348131848295: FIXED
+Generation : 8525
+42348131848295: FIXED
+Generation : 8526
+42348131848295: FIXED
+Generation : 8527
+42348131848295: FIXED
+Generation : 8528
+42348131848295: FIXED
+Generation : 8529
+42348131848295: FIXED
+Generation : 8530
+42348131848295: FIXED
+Generation : 8531
+42348131848295: FIXED
+Generation : 8532
+42348131848295: FIXED
+Generation : 8533
+42348131848295: FIXED
+Generation : 8534
+42348131848295: FIXED
+Generation : 8535
+42348131848295: FIXED
+Generation : 8536
+42348131848295: FIXED
+Generation : 8537
+42348131848295: FIXED
+Generation : 8538
+42348131848295: FIXED
+Generation : 8539
+42348131848295: FIXED
+Generation : 8540
+42348131848295: FIXED
+Generation : 8541
+42348131848295: FIXED
+Generation : 8542
+42348131848295: FIXED
+Generation : 8543
+42348131848295: FIXED
+Generation : 8544
+42348131848295: FIXED
+Generation : 8545
+42348131848295: FIXED
+Generation : 8546
+42348131848295: FIXED
+Generation : 8547
+42348131848295: FIXED
+Generation : 8548
+42348131848295: FIXED
+Generation : 8549
+42348131848295: FIXED
+Generation : 8550
+42348131848295: FIXED
+Generation : 8551
+42348131848295: FIXED
+Generation : 8552
+42348131848295: FIXED
+Generation : 8553
+42348131848295: FIXED
+Generation : 8554
+42348131848295: FIXED
+Generation : 8555
+42348131848295: FIXED
+Generation : 8556
+42348131848295: FIXED
+Generation : 8557
+42348131848295: FIXED
+Generation : 8558
+42348131848295: FIXED
+Generation : 8559
+42348131848295: FIXED
+Generation : 8560
+42348131848295: FIXED
+Generation : 8561
+42348131848295: FIXED
+Generation : 8562
+42348131848295: FIXED
+Generation : 8563
+42348131848295: FIXED
+Generation : 8564
+42348131848295: FIXED
+Generation : 8565
+42348131848295: FIXED
+Generation : 8566
+42348131848295: FIXED
+Generation : 8567
+42348131848295: FIXED
+Generation : 8568
+42348131848295: FIXED
+Generation : 8569
+42348131848295: FIXED
+Generation : 8570
+42348131848295: FIXED
+Generation : 8571
+42348131848295: FIXED
+Generation : 8572
+42348131848295: FIXED
+Generation : 8573
+42348131848295: FIXED
+Generation : 8574
+42348131848295: FIXED
+Generation : 8575
+42348131848295: FIXED
+Generation : 8576
+42348131848295: FIXED
+Generation : 8577
+42348131848295: FIXED
+Generation : 8578
+42348131848295: FIXED
+Generation : 8579
+42348131848295: FIXED
+Generation : 8580
+42348131848295: FIXED
+Generation : 8581
+42348131848295: FIXED
+Generation : 8582
+42348131848295: FIXED
+Generation : 8583
+42348131848295: FIXED
+Generation : 8584
+42348131848295: FIXED
+Generation : 8585
+42348131848295: FIXED
+Generation : 8586
+42348131848295: FIXED
+Generation : 8587
+42348131848295: FIXED
+Generation : 8588
+42348131848295: FIXED
+Generation : 8589
+42348131848295: FIXED
+Generation : 8590
+42348131848295: FIXED
+Generation : 8591
+42348131848295: FIXED
+Generation : 8592
+42348131848295: FIXED
+Generation : 8593
+42348131848295: FIXED
+Generation : 8594
+42348131848295: FIXED
+Generation : 8595
+42348131848295: FIXED
+Generation : 8596
+42348131848295: FIXED
+Generation : 8597
+42348131848295: FIXED
+Generation : 8598
+42348131848295: FIXED
+Generation : 8599
+42348131848295: FIXED
+Generation : 8600
+42348131848295: FIXED
+Generation : 8601
+42348131848295: FIXED
+Generation : 8602
+42348131848295: FIXED
+Generation : 8603
+42348131848295: FIXED
+Generation : 8604
+42348131848295: FIXED
+Generation : 8605
+42348131848295: FIXED
+Generation : 8606
+42348131848295: FIXED
+Generation : 8607
+42348131848295: FIXED
+Generation : 8608
+42348131848295: FIXED
+Generation : 8609
+42348131848295: FIXED
+Generation : 8610
+42348131848295: FIXED
+Generation : 8611
+42348131848295: FIXED
+Generation : 8612
+42348131848295: FIXED
+Generation : 8613
+42348131848295: FIXED
+Generation : 8614
+42348131848295: FIXED
+Generation : 8615
+42348131848295: FIXED
+Generation : 8616
+42348131848295: FIXED
+Generation : 8617
+42348131848295: FIXED
+Generation : 8618
+42348131848295: FIXED
+Generation : 8619
+42348131848295: FIXED
+Generation : 8620
+42348131848295: FIXED
+Generation : 8621
+42348131848295: FIXED
+Generation : 8622
+42348131848295: FIXED
+Generation : 8623
+42348131848295: FIXED
+Generation : 8624
+42348131848295: FIXED
+Generation : 8625
+42348131848295: FIXED
+Generation : 8626
+42348131848295: FIXED
+Generation : 8627
+42348131848295: FIXED
+Generation : 8628
+42348131848295: FIXED
+Generation : 8629
+42348131848295: FIXED
+Generation : 8630
+42348131848295: FIXED
+Generation : 8631
+42348131848295: FIXED
+Generation : 8632
+42348131848295: FIXED
+Generation : 8633
+42348131848295: FIXED
+Generation : 8634
+42348131848295: FIXED
+Generation : 8635
+42348131848295: FIXED
+Generation : 8636
+42348131848295: FIXED
+Generation : 8637
+42348131848295: FIXED
+Generation : 8638
+42348131848295: FIXED
+Generation : 8639
+42348131848295: FIXED
+Generation : 8640
+42348131848295: FIXED
+Generation : 8641
+42348131848295: FIXED
+Generation : 8642
+42348131848295: FIXED
+Generation : 8643
+42348131848295: FIXED
+Generation : 8644
+42348131848295: FIXED
+Generation : 8645
+42348131848295: FIXED
+Generation : 8646
+42348131848295: FIXED
+Generation : 8647
+42348131848295: FIXED
+Generation : 8648
+42348131848295: FIXED
+Generation : 8649
+42348131848295: FIXED
+Generation : 8650
+42348131848295: FIXED
+Generation : 8651
+42348131848295: FIXED
+Generation : 8652
+42348131848295: FIXED
+Generation : 8653
+42348131848295: FIXED
+Generation : 8654
+42348131848295: FIXED
+Generation : 8655
+42348131848295: FIXED
+Generation : 8656
+42348131848295: FIXED
+Generation : 8657
+42348131848295: FIXED
+Generation : 8658
+42348131848295: FIXED
+Generation : 8659
+42348131848295: FIXED
+Generation : 8660
+42348131848295: FIXED
+Generation : 8661
+42348131848295: FIXED
+Generation : 8662
+42348131848295: FIXED
+Generation : 8663
+42348131848295: FIXED
+Generation : 8664
+42348131848295: FIXED
+Generation : 8665
+42348131848295: FIXED
+Generation : 8666
+42348131848295: FIXED
+Generation : 8667
+42348131848295: FIXED
+Generation : 8668
+42348131848295: FIXED
+Generation : 8669
+42348131848295: FIXED
+Generation : 8670
+42348131848295: FIXED
+Generation : 8671
+42348131848295: FIXED
+Generation : 8672
+42348131848295: FIXED
+Generation : 8673
+42348131848295: FIXED
+Generation : 8674
+42348131848295: FIXED
+Generation : 8675
+42348131848295: FIXED
+Generation : 8676
+42348131848295: FIXED
+Generation : 8677
+42348131848295: FIXED
+Generation : 8678
+42348131848295: FIXED
+Generation : 8679
+42348131848295: FIXED
+Generation : 8680
+42348131848295: FIXED
+Generation : 8681
+42348131848295: FIXED
+Generation : 8682
+42348131848295: FIXED
+Generation : 8683
+42348131848295: FIXED
+Generation : 8684
+42348131848295: FIXED
+Generation : 8685
+42348131848295: FIXED
+Generation : 8686
+42348131848295: FIXED
+Generation : 8687
+42348131848295: FIXED
+Generation : 8688
+42348131848295: FIXED
+Generation : 8689
+42348131848295: FIXED
+Generation : 8690
+42348131848295: FIXED
+Generation : 8691
+42348131848295: FIXED
+Generation : 8692
+42348131848295: FIXED
+Generation : 8693
+42348131848295: FIXED
+Generation : 8694
+42348131848295: FIXED
+Generation : 8695
+42348131848295: FIXED
+Generation : 8696
+42348131848295: FIXED
+Generation : 8697
+42348131848295: FIXED
+Generation : 8698
+42348131848295: FIXED
+Generation : 8699
+42348131848295: FIXED
+Generation : 8700
+42348131848295: FIXED
+Generation : 8701
+42348131848295: FIXED
+Generation : 8702
+42348131848295: FIXED
+Generation : 8703
+42348131848295: FIXED
+Generation : 8704
+42348131848295: FIXED
+Generation : 8705
+42348131848295: FIXED
+Generation : 8706
+42348131848295: FIXED
+Generation : 8707
+42348131848295: FIXED
+Generation : 8708
+42348131848295: FIXED
+Generation : 8709
+42348131848295: FIXED
+Generation : 8710
+42348131848295: FIXED
+Generation : 8711
+42348131848295: FIXED
+Generation : 8712
+42348131848295: FIXED
+Generation : 8713
+42348131848295: FIXED
+Generation : 8714
+42348131848295: FIXED
+Generation : 8715
+42348131848295: FIXED
+Generation : 8716
+42348131848295: FIXED
+Generation : 8717
+42348131848295: FIXED
+Generation : 8718
+42348131848295: FIXED
+Generation : 8719
+42348131848295: FIXED
+Generation : 8720
+42348131848295: FIXED
+Generation : 8721
+42348131848295: FIXED
+Generation : 8722
+42348131848295: FIXED
+Generation : 8723
+42348131848295: FIXED
+Generation : 8724
+42348131848295: FIXED
+Generation : 8725
+42348131848295: FIXED
+Generation : 8726
+42348131848295: FIXED
+Generation : 8727
+42348131848295: FIXED
+Generation : 8728
+42348131848295: FIXED
+Generation : 8729
+42348131848295: FIXED
+Generation : 8730
+42348131848295: FIXED
+Generation : 8731
+42348131848295: FIXED
+Generation : 8732
+42348131848295: FIXED
+Generation : 8733
+42348131848295: FIXED
+Generation : 8734
+42348131848295: FIXED
+Generation : 8735
+42348131848295: FIXED
+Generation : 8736
+42348131848295: FIXED
+Generation : 8737
+42348131848295: FIXED
+Generation : 8738
+42348131848295: FIXED
+Generation : 8739
+42348131848295: FIXED
+Generation : 8740
+42348131848295: FIXED
+Generation : 8741
+42348131848295: FIXED
+Generation : 8742
+42348131848295: FIXED
+Generation : 8743
+42348131848295: FIXED
+Generation : 8744
+42348131848295: FIXED
+Generation : 8745
+42348131848295: FIXED
+Generation : 8746
+42348131848295: FIXED
+Generation : 8747
+42348131848295: FIXED
+Generation : 8748
+42348131848295: FIXED
+Generation : 8749
+42348131848295: FIXED
+Generation : 8750
+42348131848295: FIXED
+Generation : 8751
+42348131848295: FIXED
+Generation : 8752
+42348131848295: FIXED
+Generation : 8753
+42348131848295: FIXED
+Generation : 8754
+42348131848295: FIXED
+Generation : 8755
+42348131848295: FIXED
+Generation : 8756
+42348131848295: FIXED
+Generation : 8757
+42348131848295: FIXED
+Generation : 8758
+42348131848295: FIXED
+Generation : 8759
+42348131848295: FIXED
+Generation : 8760
+42348131848295: FIXED
+Generation : 8761
+42348131848295: FIXED
+Generation : 8762
+42348131848295: FIXED
+Generation : 8763
+42348131848295: FIXED
+Generation : 8764
+42348131848295: FIXED
+Generation : 8765
+42348131848295: FIXED
+Generation : 8766
+42348131848295: FIXED
+Generation : 8767
+42348131848295: FIXED
+Generation : 8768
+42348131848295: FIXED
+Generation : 8769
+42348131848295: FIXED
+Generation : 8770
+42348131848295: FIXED
+Generation : 8771
+42348131848295: FIXED
+Generation : 8772
+42348131848295: FIXED
+Generation : 8773
+42348131848295: FIXED
+Generation : 8774
+42348131848295: FIXED
+Generation : 8775
+42348131848295: FIXED
+Generation : 8776
+42348131848295: FIXED
+Generation : 8777
+42348131848295: FIXED
+Generation : 8778
+42348131848295: FIXED
+Generation : 8779
+42348131848295: FIXED
+Generation : 8780
+42348131848295: FIXED
+Generation : 8781
+42348131848295: FIXED
+Generation : 8782
+42348131848295: FIXED
+Generation : 8783
+42348131848295: FIXED
+Generation : 8784
+42348131848295: FIXED
+Generation : 8785
+42348131848295: FIXED
+Generation : 8786
+42348131848295: FIXED
+Generation : 8787
+42348131848295: FIXED
+Generation : 8788
+42348131848295: FIXED
+Generation : 8789
+42348131848295: FIXED
+Generation : 8790
+42348131848295: FIXED
+Generation : 8791
+42348131848295: FIXED
+Generation : 8792
+42348131848295: FIXED
+Generation : 8793
+42348131848295: FIXED
+Generation : 8794
+42348131848295: FIXED
+Generation : 8795
+42348131848295: FIXED
+Generation : 8796
+42348131848295: FIXED
+Generation : 8797
+42348131848295: FIXED
+Generation : 8798
+42348131848295: FIXED
+Generation : 8799
+42348131848295: FIXED
+Generation : 8800
+42348131848295: FIXED
+Generation : 8801
+42348131848295: FIXED
+Generation : 8802
+42348131848295: FIXED
+Generation : 8803
+42348131848295: FIXED
+Generation : 8804
+42348131848295: FIXED
+Generation : 8805
+42348131848295: FIXED
+Generation : 8806
+42348131848295: FIXED
+Generation : 8807
+42348131848295: FIXED
+Generation : 8808
+42348131848295: FIXED
+Generation : 8809
+42348131848295: FIXED
+Generation : 8810
+42348131848295: FIXED
+Generation : 8811
+42348131848295: FIXED
+Generation : 8812
+42348131848295: FIXED
+Generation : 8813
+42348131848295: FIXED
+Generation : 8814
+42348131848295: FIXED
+Generation : 8815
+42348131848295: FIXED
+Generation : 8816
+42348131848295: FIXED
+Generation : 8817
+42348131848295: FIXED
+Generation : 8818
+42348131848295: FIXED
+Generation : 8819
+42348131848295: FIXED
+Generation : 8820
+42348131848295: FIXED
+Generation : 8821
+42348131848295: FIXED
+Generation : 8822
+42348131848295: FIXED
+Generation : 8823
+42348131848295: FIXED
+Generation : 8824
+42348131848295: FIXED
+Generation : 8825
+42348131848295: FIXED
+Generation : 8826
+42348131848295: FIXED
+Generation : 8827
+42348131848295: FIXED
+Generation : 8828
+42348131848295: FIXED
+Generation : 8829
+42348131848295: FIXED
+Generation : 8830
+42348131848295: FIXED
+Generation : 8831
+42348131848295: FIXED
+Generation : 8832
+42348131848295: FIXED
+Generation : 8833
+42348131848295: FIXED
+Generation : 8834
+42348131848295: FIXED
+Generation : 8835
+42348131848295: FIXED
+Generation : 8836
+42348131848295: FIXED
+Generation : 8837
+42348131848295: FIXED
+Generation : 8838
+42348131848295: FIXED
+Generation : 8839
+42348131848295: FIXED
+Generation : 8840
+42348131848295: FIXED
+Generation : 8841
+42348131848295: FIXED
+Generation : 8842
+42348131848295: FIXED
+Generation : 8843
+42348131848295: FIXED
+Generation : 8844
+42348131848295: FIXED
+Generation : 8845
+42348131848295: FIXED
+Generation : 8846
+42348131848295: FIXED
+Generation : 8847
+42348131848295: FIXED
+Generation : 8848
+42348131848295: FIXED
+Generation : 8849
+42348131848295: FIXED
+Generation : 8850
+42348131848295: FIXED
+Generation : 8851
+42348131848295: FIXED
+Generation : 8852
+42348131848295: FIXED
+Generation : 8853
+42348131848295: FIXED
+Generation : 8854
+42348131848295: FIXED
+Generation : 8855
+42348131848295: FIXED
+Generation : 8856
+42348131848295: FIXED
+Generation : 8857
+42348131848295: FIXED
+Generation : 8858
+42348131848295: FIXED
+Generation : 8859
+42348131848295: FIXED
+Generation : 8860
+42348131848295: FIXED
+Generation : 8861
+42348131848295: FIXED
+Generation : 8862
+42348131848295: FIXED
+Generation : 8863
+42348131848295: FIXED
+Generation : 8864
+42348131848295: FIXED
+Generation : 8865
+42348131848295: FIXED
+Generation : 8866
+42348131848295: FIXED
+Generation : 8867
+42348131848295: FIXED
+Generation : 8868
+42348131848295: FIXED
+Generation : 8869
+42348131848295: FIXED
+Generation : 8870
+42348131848295: FIXED
+Generation : 8871
+42348131848295: FIXED
+Generation : 8872
+42348131848295: FIXED
+Generation : 8873
+42348131848295: FIXED
+Generation : 8874
+42348131848295: FIXED
+Generation : 8875
+42348131848295: FIXED
+Generation : 8876
+42348131848295: FIXED
+Generation : 8877
+42348131848295: FIXED
+Generation : 8878
+42348131848295: FIXED
+Generation : 8879
+42348131848295: FIXED
+Generation : 8880
+42348131848295: FIXED
+Generation : 8881
+42348131848295: FIXED
+Generation : 8882
+42348131848295: FIXED
+Generation : 8883
+42348131848295: FIXED
+Generation : 8884
+42348131848295: FIXED
+Generation : 8885
+42348131848295: FIXED
+Generation : 8886
+42348131848295: FIXED
+Generation : 8887
+42348131848295: FIXED
+Generation : 8888
+42348131848295: FIXED
+Generation : 8889
+42348131848295: FIXED
+Generation : 8890
+42348131848295: FIXED
+Generation : 8891
+42348131848295: FIXED
+Generation : 8892
+42348131848295: FIXED
+Generation : 8893
+42348131848295: FIXED
+Generation : 8894
+42348131848295: FIXED
+Generation : 8895
+42348131848295: FIXED
+Generation : 8896
+42348131848295: FIXED
+Generation : 8897
+42348131848295: FIXED
+Generation : 8898
+42348131848295: FIXED
+Generation : 8899
+42348131848295: FIXED
+Generation : 8900
+42348131848295: FIXED
+Generation : 8901
+42348131848295: FIXED
+Generation : 8902
+42348131848295: FIXED
+Generation : 8903
+42348131848295: FIXED
+Generation : 8904
+42348131848295: FIXED
+Generation : 8905
+42348131848295: FIXED
+Generation : 8906
+42348131848295: FIXED
+Generation : 8907
+42348131848295: FIXED
+Generation : 8908
+42348131848295: FIXED
+Generation : 8909
+42348131848295: FIXED
+Generation : 8910
+42348131848295: FIXED
+Generation : 8911
+42348131848295: FIXED
+Generation : 8912
+42348131848295: FIXED
+Generation : 8913
+42348131848295: FIXED
+Generation : 8914
+42348131848295: FIXED
+Generation : 8915
+42348131848295: FIXED
+Generation : 8916
+42348131848295: FIXED
+Generation : 8917
+42348131848295: FIXED
+Generation : 8918
+42348131848295: FIXED
+Generation : 8919
+42348131848295: FIXED
+Generation : 8920
+42348131848295: FIXED
+Generation : 8921
+42348131848295: FIXED
+Generation : 8922
+42348131848295: FIXED
+Generation : 8923
+42348131848295: FIXED
+Generation : 8924
+42348131848295: FIXED
+Generation : 8925
+42348131848295: FIXED
+Generation : 8926
+42348131848295: FIXED
+Generation : 8927
+42348131848295: FIXED
+Generation : 8928
+42348131848295: FIXED
+Generation : 8929
+42348131848295: FIXED
+Generation : 8930
+42348131848295: FIXED
+Generation : 8931
+42348131848295: FIXED
+Generation : 8932
+42348131848295: FIXED
+Generation : 8933
+42348131848295: FIXED
+Generation : 8934
+42348131848295: FIXED
+Generation : 8935
+42348131848295: FIXED
+Generation : 8936
+42348131848295: FIXED
+Generation : 8937
+42348131848295: FIXED
+Generation : 8938
+42348131848295: FIXED
+Generation : 8939
+42348131848295: FIXED
+Generation : 8940
+42348131848295: FIXED
+Generation : 8941
+42348131848295: FIXED
+Generation : 8942
+42348131848295: FIXED
+Generation : 8943
+42348131848295: FIXED
+Generation : 8944
+42348131848295: FIXED
+Generation : 8945
+42348131848295: FIXED
+Generation : 8946
+42348131848295: FIXED
+Generation : 8947
+42348131848295: FIXED
+Generation : 8948
+42348131848295: FIXED
+Generation : 8949
+42348131848295: FIXED
+Generation : 8950
+42348131848295: FIXED
+Generation : 8951
+42348131848295: FIXED
+Generation : 8952
+42348131848295: FIXED
+Generation : 8953
+42348131848295: FIXED
+Generation : 8954
+42348131848295: FIXED
+Generation : 8955
+42348131848295: FIXED
+Generation : 8956
+42348131848295: FIXED
+Generation : 8957
+42348131848295: FIXED
+Generation : 8958
+42348131848295: FIXED
+Generation : 8959
+42348131848295: FIXED
+Generation : 8960
+42348131848295: FIXED
+Generation : 8961
+42348131848295: FIXED
+Generation : 8962
+42348131848295: FIXED
+Generation : 8963
+42348131848295: FIXED
+Generation : 8964
+42348131848295: FIXED
+Generation : 8965
+42348131848295: FIXED
+Generation : 8966
+42348131848295: FIXED
+Generation : 8967
+42348131848295: FIXED
+Generation : 8968
+42348131848295: FIXED
+Generation : 8969
+42348131848295: FIXED
+Generation : 8970
+42348131848295: FIXED
+Generation : 8971
+42348131848295: FIXED
+Generation : 8972
+42348131848295: FIXED
+Generation : 8973
+42348131848295: FIXED
+Generation : 8974
+42348131848295: FIXED
+Generation : 8975
+42348131848295: FIXED
+Generation : 8976
+42348131848295: FIXED
+Generation : 8977
+42348131848295: FIXED
+Generation : 8978
+42348131848295: FIXED
+Generation : 8979
+42348131848295: FIXED
+Generation : 8980
+42348131848295: FIXED
+Generation : 8981
+42348131848295: FIXED
+Generation : 8982
+42348131848295: FIXED
+Generation : 8983
+42348131848295: FIXED
+Generation : 8984
+42348131848295: FIXED
+Generation : 8985
+42348131848295: FIXED
+Generation : 8986
+42348131848295: FIXED
+Generation : 8987
+42348131848295: FIXED
+Generation : 8988
+42348131848295: FIXED
+Generation : 8989
+42348131848295: FIXED
+Generation : 8990
+42348131848295: FIXED
+Generation : 8991
+42348131848295: FIXED
+Generation : 8992
+42348131848295: FIXED
+Generation : 8993
+42348131848295: FIXED
+Generation : 8994
+42348131848295: FIXED
+Generation : 8995
+42348131848295: FIXED
+Generation : 8996
+42348131848295: FIXED
+Generation : 8997
+42348131848295: FIXED
+Generation : 8998
+42348131848295: FIXED
+Generation : 8999
+42348131848295: FIXED
+Generation : 9000
+42348131848295: FIXED
+Generation : 9001
+42348131848295: FIXED
+Generation : 9002
+42348131848295: FIXED
+Generation : 9003
+42348131848295: FIXED
+Generation : 9004
+42348131848295: FIXED
+Generation : 9005
+42348131848295: FIXED
+Generation : 9006
+42348131848295: FIXED
+Generation : 9007
+42348131848295: FIXED
+Generation : 9008
+42348131848295: FIXED
+Generation : 9009
+42348131848295: FIXED
+Generation : 9010
+42348131848295: FIXED
+Generation : 9011
+42348131848295: FIXED
+Generation : 9012
+42348131848295: FIXED
+Generation : 9013
+42348131848295: FIXED
+Generation : 9014
+42348131848295: FIXED
+Generation : 9015
+42348131848295: FIXED
+Generation : 9016
+42348131848295: FIXED
+Generation : 9017
+42348131848295: FIXED
+Generation : 9018
+42348131848295: FIXED
+Generation : 9019
+42348131848295: FIXED
+Generation : 9020
+42348131848295: FIXED
+Generation : 9021
+42348131848295: FIXED
+Generation : 9022
+42348131848295: FIXED
+Generation : 9023
+42348131848295: FIXED
+Generation : 9024
+42348131848295: FIXED
+Generation : 9025
+42348131848295: FIXED
+Generation : 9026
+42348131848295: FIXED
+Generation : 9027
+42348131848295: FIXED
+Generation : 9028
+42348131848295: FIXED
+Generation : 9029
+42348131848295: FIXED
+Generation : 9030
+42348131848295: FIXED
+Generation : 9031
+42348131848295: FIXED
+Generation : 9032
+42348131848295: FIXED
+Generation : 9033
+42348131848295: FIXED
+Generation : 9034
+42348131848295: FIXED
+Generation : 9035
+42348131848295: FIXED
+Generation : 9036
+42348131848295: FIXED
+Generation : 9037
+42348131848295: FIXED
+Generation : 9038
+42348131848295: FIXED
+Generation : 9039
+42348131848295: FIXED
+Generation : 9040
+42348131848295: FIXED
+Generation : 9041
+42348131848295: FIXED
+Generation : 9042
+42348131848295: FIXED
+Generation : 9043
+42348131848295: FIXED
+Generation : 9044
+42348131848295: FIXED
+Generation : 9045
+42348131848295: FIXED
+Generation : 9046
+42348131848295: FIXED
+Generation : 9047
+42348131848295: FIXED
+Generation : 9048
+42348131848295: FIXED
+Generation : 9049
+42348131848295: FIXED
+Generation : 9050
+42348131848295: FIXED
+Generation : 9051
+42348131848295: FIXED
+Generation : 9052
+42348131848295: FIXED
+Generation : 9053
+42348131848295: FIXED
+Generation : 9054
+42348131848295: FIXED
+Generation : 9055
+42348131848295: FIXED
+Generation : 9056
+42348131848295: FIXED
+Generation : 9057
+42348131848295: FIXED
+Generation : 9058
+42348131848295: FIXED
+Generation : 9059
+42348131848295: FIXED
+Generation : 9060
+42348131848295: FIXED
+Generation : 9061
+42348131848295: FIXED
+Generation : 9062
+42348131848295: FIXED
+Generation : 9063
+42348131848295: FIXED
+Generation : 9064
+42348131848295: FIXED
+Generation : 9065
+42348131848295: FIXED
+Generation : 9066
+42348131848295: FIXED
+Generation : 9067
+42348131848295: FIXED
+Generation : 9068
+42348131848295: FIXED
+Generation : 9069
+42348131848295: FIXED
+Generation : 9070
+42348131848295: FIXED
+Generation : 9071
+42348131848295: FIXED
+Generation : 9072
+42348131848295: FIXED
+Generation : 9073
+42348131848295: FIXED
+Generation : 9074
+42348131848295: FIXED
+Generation : 9075
+42348131848295: FIXED
+Generation : 9076
+42348131848295: FIXED
+Generation : 9077
+42348131848295: FIXED
+Generation : 9078
+42348131848295: FIXED
+Generation : 9079
+42348131848295: FIXED
+Generation : 9080
+42348131848295: FIXED
+Generation : 9081
+42348131848295: FIXED
+Generation : 9082
+42348131848295: FIXED
+Generation : 9083
+42348131848295: FIXED
+Generation : 9084
+42348131848295: FIXED
+Generation : 9085
+42348131848295: FIXED
+Generation : 9086
+42348131848295: FIXED
+Generation : 9087
+42348131848295: FIXED
+Generation : 9088
+42348131848295: FIXED
+Generation : 9089
+42348131848295: FIXED
+Generation : 9090
+42348131848295: FIXED
+Generation : 9091
+42348131848295: FIXED
+Generation : 9092
+42348131848295: FIXED
+Generation : 9093
+42348131848295: FIXED
+Generation : 9094
+42348131848295: FIXED
+Generation : 9095
+42348131848295: FIXED
+Generation : 9096
+42348131848295: FIXED
+Generation : 9097
+42348131848295: FIXED
+Generation : 9098
+42348131848295: FIXED
+Generation : 9099
+42348131848295: FIXED
+Generation : 9100
+42348131848295: FIXED
+Generation : 9101
+42348131848295: FIXED
+Generation : 9102
+42348131848295: FIXED
+Generation : 9103
+42348131848295: FIXED
+Generation : 9104
+42348131848295: FIXED
+Generation : 9105
+42348131848295: FIXED
+Generation : 9106
+42348131848295: FIXED
+Generation : 9107
+42348131848295: FIXED
+Generation : 9108
+42348131848295: FIXED
+Generation : 9109
+42348131848295: FIXED
+Generation : 9110
+42348131848295: FIXED
+Generation : 9111
+42348131848295: FIXED
+Generation : 9112
+42348131848295: FIXED
+Generation : 9113
+42348131848295: FIXED
+Generation : 9114
+42348131848295: FIXED
+Generation : 9115
+42348131848295: FIXED
+Generation : 9116
+42348131848295: FIXED
+Generation : 9117
+42348131848295: FIXED
+Generation : 9118
+42348131848295: FIXED
+Generation : 9119
+42348131848295: FIXED
+Generation : 9120
+42348131848295: FIXED
+Generation : 9121
+42348131848295: FIXED
+Generation : 9122
+42348131848295: FIXED
+Generation : 9123
+42348131848295: FIXED
+Generation : 9124
+42348131848295: FIXED
+Generation : 9125
+42348131848295: FIXED
+Generation : 9126
+42348131848295: FIXED
+Generation : 9127
+42348131848295: FIXED
+Generation : 9128
+42348131848295: FIXED
+Generation : 9129
+42348131848295: FIXED
+Generation : 9130
+42348131848295: FIXED
+Generation : 9131
+42348131848295: FIXED
+Generation : 9132
+42348131848295: FIXED
+Generation : 9133
+42348131848295: FIXED
+Generation : 9134
+42348131848295: FIXED
+Generation : 9135
+42348131848295: FIXED
+Generation : 9136
+42348131848295: FIXED
+Generation : 9137
+42348131848295: FIXED
+Generation : 9138
+42348131848295: FIXED
+Generation : 9139
+42348131848295: FIXED
+Generation : 9140
+42348131848295: FIXED
+Generation : 9141
+42348131848295: FIXED
+Generation : 9142
+42348131848295: FIXED
+Generation : 9143
+42348131848295: FIXED
+Generation : 9144
+42348131848295: FIXED
+Generation : 9145
+42348131848295: FIXED
+Generation : 9146
+42348131848295: FIXED
+Generation : 9147
+42348131848295: FIXED
+Generation : 9148
+42348131848295: FIXED
+Generation : 9149
+42348131848295: FIXED
+Generation : 9150
+42348131848295: FIXED
+Generation : 9151
+42348131848295: FIXED
+Generation : 9152
+42348131848295: FIXED
+Generation : 9153
+42348131848295: FIXED
+Generation : 9154
+42348131848295: FIXED
+Generation : 9155
+42348131848295: FIXED
+Generation : 9156
+42348131848295: FIXED
+Generation : 9157
+42348131848295: FIXED
+Generation : 9158
+42348131848295: FIXED
+Generation : 9159
+42348131848295: FIXED
+Generation : 9160
+42348131848295: FIXED
+Generation : 9161
+42348131848295: FIXED
+Generation : 9162
+42348131848295: FIXED
+Generation : 9163
+42348131848295: FIXED
+Generation : 9164
+42348131848295: FIXED
+Generation : 9165
+42348131848295: FIXED
+Generation : 9166
+42348131848295: FIXED
+Generation : 9167
+42348131848295: FIXED
+Generation : 9168
+42348131848295: FIXED
+Generation : 9169
+42348131848295: FIXED
+Generation : 9170
+42348131848295: FIXED
+Generation : 9171
+42348131848295: FIXED
+Generation : 9172
+42348131848295: FIXED
+Generation : 9173
+42348131848295: FIXED
+Generation : 9174
+42348131848295: FIXED
+Generation : 9175
+42348131848295: FIXED
+Generation : 9176
+42348131848295: FIXED
+Generation : 9177
+42348131848295: FIXED
+Generation : 9178
+42348131848295: FIXED
+Generation : 9179
+42348131848295: FIXED
+Generation : 9180
+42348131848295: FIXED
+Generation : 9181
+42348131848295: FIXED
+Generation : 9182
+42348131848295: FIXED
+Generation : 9183
+42348131848295: FIXED
+Generation : 9184
+42348131848295: FIXED
+Generation : 9185
+42348131848295: FIXED
+Generation : 9186
+42348131848295: FIXED
+Generation : 9187
+42348131848295: FIXED
+Generation : 9188
+42348131848295: FIXED
+Generation : 9189
+42348131848295: FIXED
+Generation : 9190
+42348131848295: FIXED
+Generation : 9191
+42348131848295: FIXED
+Generation : 9192
+42348131848295: FIXED
+Generation : 9193
+42348131848295: FIXED
+Generation : 9194
+42348131848295: FIXED
+Generation : 9195
+42348131848295: FIXED
+Generation : 9196
+42348131848295: FIXED
+Generation : 9197
+42348131848295: FIXED
+Generation : 9198
+42348131848295: FIXED
+Generation : 9199
+42348131848295: FIXED
+Generation : 9200
+42348131848295: FIXED
+Generation : 9201
+42348131848295: FIXED
+Generation : 9202
+42348131848295: FIXED
+Generation : 9203
+42348131848295: FIXED
+Generation : 9204
+42348131848295: FIXED
+Generation : 9205
+42348131848295: FIXED
+Generation : 9206
+42348131848295: FIXED
+Generation : 9207
+42348131848295: FIXED
+Generation : 9208
+42348131848295: FIXED
+Generation : 9209
+42348131848295: FIXED
+Generation : 9210
+42348131848295: FIXED
+Generation : 9211
+42348131848295: FIXED
+Generation : 9212
+42348131848295: FIXED
+Generation : 9213
+42348131848295: FIXED
+Generation : 9214
+42348131848295: FIXED
+Generation : 9215
+42348131848295: FIXED
+Generation : 9216
+42348131848295: FIXED
+Generation : 9217
+42348131848295: FIXED
+Generation : 9218
+42348131848295: FIXED
+Generation : 9219
+42348131848295: FIXED
+Generation : 9220
+42348131848295: FIXED
+Generation : 9221
+42348131848295: FIXED
+Generation : 9222
+42348131848295: FIXED
+Generation : 9223
+42348131848295: FIXED
+Generation : 9224
+42348131848295: FIXED
+Generation : 9225
+42348131848295: FIXED
+Generation : 9226
+42348131848295: FIXED
+Generation : 9227
+42348131848295: FIXED
+Generation : 9228
+42348131848295: FIXED
+Generation : 9229
+42348131848295: FIXED
+Generation : 9230
+42348131848295: FIXED
+Generation : 9231
+42348131848295: FIXED
+Generation : 9232
+42348131848295: FIXED
+Generation : 9233
+42348131848295: FIXED
+Generation : 9234
+42348131848295: FIXED
+Generation : 9235
+42348131848295: FIXED
+Generation : 9236
+42348131848295: FIXED
+Generation : 9237
+42348131848295: FIXED
+Generation : 9238
+42348131848295: FIXED
+Generation : 9239
+42348131848295: FIXED
+Generation : 9240
+42348131848295: FIXED
+Generation : 9241
+42348131848295: FIXED
+Generation : 9242
+42348131848295: FIXED
+Generation : 9243
+42348131848295: FIXED
+Generation : 9244
+42348131848295: FIXED
+Generation : 9245
+42348131848295: FIXED
+Generation : 9246
+42348131848295: FIXED
+Generation : 9247
+42348131848295: FIXED
+Generation : 9248
+42348131848295: FIXED
+Generation : 9249
+42348131848295: FIXED
+Generation : 9250
+42348131848295: FIXED
+Generation : 9251
+42348131848295: FIXED
+Generation : 9252
+42348131848295: FIXED
+Generation : 9253
+42348131848295: FIXED
+Generation : 9254
+42348131848295: FIXED
+Generation : 9255
+42348131848295: FIXED
+Generation : 9256
+42348131848295: FIXED
+Generation : 9257
+42348131848295: FIXED
+Generation : 9258
+42348131848295: FIXED
+Generation : 9259
+42348131848295: FIXED
+Generation : 9260
+42348131848295: FIXED
+Generation : 9261
+42348131848295: FIXED
+Generation : 9262
+42348131848295: FIXED
+Generation : 9263
+42348131848295: FIXED
+Generation : 9264
+42348131848295: FIXED
+Generation : 9265
+42348131848295: FIXED
+Generation : 9266
+42348131848295: FIXED
+Generation : 9267
+42348131848295: FIXED
+Generation : 9268
+42348131848295: FIXED
+Generation : 9269
+42348131848295: FIXED
+Generation : 9270
+42348131848295: FIXED
+Generation : 9271
+42348131848295: FIXED
+Generation : 9272
+42348131848295: FIXED
+Generation : 9273
+42348131848295: FIXED
+Generation : 9274
+42348131848295: FIXED
+Generation : 9275
+42348131848295: FIXED
+Generation : 9276
+42348131848295: FIXED
+Generation : 9277
+42348131848295: FIXED
+Generation : 9278
+42348131848295: FIXED
+Generation : 9279
+42348131848295: FIXED
+Generation : 9280
+42348131848295: FIXED
+Generation : 9281
+42348131848295: FIXED
+Generation : 9282
+42348131848295: FIXED
+Generation : 9283
+42348131848295: FIXED
+Generation : 9284
+42348131848295: FIXED
+Generation : 9285
+42348131848295: FIXED
+Generation : 9286
+42348131848295: FIXED
+Generation : 9287
+42348131848295: FIXED
+Generation : 9288
+42348131848295: FIXED
+Generation : 9289
+42348131848295: FIXED
+Generation : 9290
+42348131848295: FIXED
+Generation : 9291
+42348131848295: FIXED
+Generation : 9292
+42348131848295: FIXED
+Generation : 9293
+42348131848295: FIXED
+Generation : 9294
+42348131848295: FIXED
+Generation : 9295
+42348131848295: FIXED
+Generation : 9296
+42348131848295: FIXED
+Generation : 9297
+42348131848295: FIXED
+Generation : 9298
+42348131848295: FIXED
+Generation : 9299
+42348131848295: FIXED
+Generation : 9300
+42348131848295: FIXED
+Generation : 9301
+42348131848295: FIXED
+Generation : 9302
+42348131848295: FIXED
+Generation : 9303
+42348131848295: FIXED
+Generation : 9304
+42348131848295: FIXED
+Generation : 9305
+42348131848295: FIXED
+Generation : 9306
+42348131848295: FIXED
+Generation : 9307
+42348131848295: FIXED
+Generation : 9308
+42348131848295: FIXED
+Generation : 9309
+42348131848295: FIXED
+Generation : 9310
+42348131848295: FIXED
+Generation : 9311
+42348131848295: FIXED
+Generation : 9312
+42348131848295: FIXED
+Generation : 9313
+42348131848295: FIXED
+Generation : 9314
+42348131848295: FIXED
+Generation : 9315
+42348131848295: FIXED
+Generation : 9316
+42348131848295: FIXED
+Generation : 9317
+42348131848295: FIXED
+Generation : 9318
+42348131848295: FIXED
+Generation : 9319
+42348131848295: FIXED
+Generation : 9320
+42348131848295: FIXED
+Generation : 9321
+42348131848295: FIXED
+Generation : 9322
+42348131848295: FIXED
+Generation : 9323
+42348131848295: FIXED
+Generation : 9324
+42348131848295: FIXED
+Generation : 9325
+42348131848295: FIXED
+Generation : 9326
+42348131848295: FIXED
+Generation : 9327
+42348131848295: FIXED
+Generation : 9328
+42348131848295: FIXED
+Generation : 9329
+42348131848295: FIXED
+Generation : 9330
+42348131848295: FIXED
+Generation : 9331
+42348131848295: FIXED
+Generation : 9332
+42348131848295: FIXED
+Generation : 9333
+42348131848295: FIXED
+Generation : 9334
+42348131848295: FIXED
+Generation : 9335
+42348131848295: FIXED
+Generation : 9336
+42348131848295: FIXED
+Generation : 9337
+42348131848295: FIXED
+Generation : 9338
+42348131848295: FIXED
+Generation : 9339
+42348131848295: FIXED
+Generation : 9340
+42348131848295: FIXED
+Generation : 9341
+42348131848295: FIXED
+Generation : 9342
+42348131848295: FIXED
+Generation : 9343
+42348131848295: FIXED
+Generation : 9344
+42348131848295: FIXED
+Generation : 9345
+42348131848295: FIXED
+Generation : 9346
+42348131848295: FIXED
+Generation : 9347
+42348131848295: FIXED
+Generation : 9348
+42348131848295: FIXED
+Generation : 9349
+42348131848295: FIXED
+Generation : 9350
+42348131848295: FIXED
+Generation : 9351
+42348131848295: FIXED
+Generation : 9352
+42348131848295: FIXED
+Generation : 9353
+42348131848295: FIXED
+Generation : 9354
+42348131848295: FIXED
+Generation : 9355
+42348131848295: FIXED
+Generation : 9356
+42348131848295: FIXED
+Generation : 9357
+42348131848295: FIXED
+Generation : 9358
+42348131848295: FIXED
+Generation : 9359
+42348131848295: FIXED
+Generation : 9360
+42348131848295: FIXED
+Generation : 9361
+42348131848295: FIXED
+Generation : 9362
+42348131848295: FIXED
+Generation : 9363
+42348131848295: FIXED
+Generation : 9364
+42348131848295: FIXED
+Generation : 9365
+42348131848295: FIXED
+Generation : 9366
+42348131848295: FIXED
+Generation : 9367
+42348131848295: FIXED
+Generation : 9368
+42348131848295: FIXED
+Generation : 9369
+42348131848295: FIXED
+Generation : 9370
+42348131848295: FIXED
+Generation : 9371
+42348131848295: FIXED
+Generation : 9372
+42348131848295: FIXED
+Generation : 9373
+42348131848295: FIXED
+Generation : 9374
+42348131848295: FIXED
+Generation : 9375
+42348131848295: FIXED
+Generation : 9376
+42348131848295: FIXED
+Generation : 9377
+42348131848295: FIXED
+Generation : 9378
+42348131848295: FIXED
+Generation : 9379
+42348131848295: FIXED
+Generation : 9380
+42348131848295: FIXED
+Generation : 9381
+42348131848295: FIXED
+Generation : 9382
+42348131848295: FIXED
+Generation : 9383
+42348131848295: FIXED
+Generation : 9384
+42348131848295: FIXED
+Generation : 9385
+42348131848295: FIXED
+Generation : 9386
+42348131848295: FIXED
+Generation : 9387
+42348131848295: FIXED
+Generation : 9388
+42348131848295: FIXED
+Generation : 9389
+42348131848295: FIXED
+Generation : 9390
+42348131848295: FIXED
+Generation : 9391
+42348131848295: FIXED
+Generation : 9392
+42348131848295: FIXED
+Generation : 9393
+42348131848295: FIXED
+Generation : 9394
+42348131848295: FIXED
+Generation : 9395
+42348131848295: FIXED
+Generation : 9396
+42348131848295: FIXED
+Generation : 9397
+42348131848295: FIXED
+Generation : 9398
+42348131848295: FIXED
+Generation : 9399
+42348131848295: FIXED
+Generation : 9400
+42348131848295: FIXED
+Generation : 9401
+42348131848295: FIXED
+Generation : 9402
+42348131848295: FIXED
+Generation : 9403
+42348131848295: FIXED
+Generation : 9404
+42348131848295: FIXED
+Generation : 9405
+42348131848295: FIXED
+Generation : 9406
+42348131848295: FIXED
+Generation : 9407
+42348131848295: FIXED
+Generation : 9408
+42348131848295: FIXED
+Generation : 9409
+42348131848295: FIXED
+Generation : 9410
+42348131848295: FIXED
+Generation : 9411
+42348131848295: FIXED
+Generation : 9412
+42348131848295: FIXED
+Generation : 9413
+42348131848295: FIXED
+Generation : 9414
+42348131848295: FIXED
+Generation : 9415
+42348131848295: FIXED
+Generation : 9416
+42348131848295: FIXED
+Generation : 9417
+42348131848295: FIXED
+Generation : 9418
+42348131848295: FIXED
+Generation : 9419
+42348131848295: FIXED
+Generation : 9420
+42348131848295: FIXED
+Generation : 9421
+42348131848295: FIXED
+Generation : 9422
+42348131848295: FIXED
+Generation : 9423
+42348131848295: FIXED
+Generation : 9424
+42348131848295: FIXED
+Generation : 9425
+42348131848295: FIXED
+Generation : 9426
+42348131848295: FIXED
+Generation : 9427
+42348131848295: FIXED
+Generation : 9428
+42348131848295: FIXED
+Generation : 9429
+42348131848295: FIXED
+Generation : 9430
+42348131848295: FIXED
+Generation : 9431
+42348131848295: FIXED
+Generation : 9432
+42348131848295: FIXED
+Generation : 9433
+42348131848295: FIXED
+Generation : 9434
+42348131848295: FIXED
+Generation : 9435
+42348131848295: FIXED
+Generation : 9436
+42348131848295: FIXED
+Generation : 9437
+42348131848295: FIXED
+Generation : 9438
+42348131848295: FIXED
+Generation : 9439
+42348131848295: FIXED
+Generation : 9440
+42348131848295: FIXED
+Generation : 9441
+42348131848295: FIXED
+Generation : 9442
+42348131848295: FIXED
+Generation : 9443
+42348131848295: FIXED
+Generation : 9444
+42348131848295: FIXED
+Generation : 9445
+42348131848295: FIXED
+Generation : 9446
+42348131848295: FIXED
+Generation : 9447
+42348131848295: FIXED
+Generation : 9448
+42348131848295: FIXED
+Generation : 9449
+42348131848295: FIXED
+Generation : 9450
+42348131848295: FIXED
+Generation : 9451
+42348131848295: FIXED
+Generation : 9452
+42348131848295: FIXED
+Generation : 9453
+42348131848295: FIXED
+Generation : 9454
+42348131848295: FIXED
+Generation : 9455
+42348131848295: FIXED
+Generation : 9456
+42348131848295: FIXED
+Generation : 9457
+42348131848295: FIXED
+Generation : 9458
+42348131848295: FIXED
+Generation : 9459
+42348131848295: FIXED
+Generation : 9460
+42348131848295: FIXED
+Generation : 9461
+42348131848295: FIXED
+Generation : 9462
+42348131848295: FIXED
+Generation : 9463
+42348131848295: FIXED
+Generation : 9464
+42348131848295: FIXED
+Generation : 9465
+42348131848295: FIXED
+Generation : 9466
+42348131848295: FIXED
+Generation : 9467
+42348131848295: FIXED
+Generation : 9468
+42348131848295: FIXED
+Generation : 9469
+42348131848295: FIXED
+Generation : 9470
+42348131848295: FIXED
+Generation : 9471
+42348131848295: FIXED
+Generation : 9472
+42348131848295: FIXED
+Generation : 9473
+42348131848295: FIXED
+Generation : 9474
+42348131848295: FIXED
+Generation : 9475
+42348131848295: FIXED
+Generation : 9476
+42348131848295: FIXED
+Generation : 9477
+42348131848295: FIXED
+Generation : 9478
+42348131848295: FIXED
+Generation : 9479
+42348131848295: FIXED
+Generation : 9480
+42348131848295: FIXED
+Generation : 9481
+42348131848295: FIXED
+Generation : 9482
+42348131848295: FIXED
+Generation : 9483
+42348131848295: FIXED
+Generation : 9484
+42348131848295: FIXED
+Generation : 9485
+42348131848295: FIXED
+Generation : 9486
+42348131848295: FIXED
+Generation : 9487
+42348131848295: FIXED
+Generation : 9488
+42348131848295: FIXED
+Generation : 9489
+42348131848295: FIXED
+Generation : 9490
+42348131848295: FIXED
+Generation : 9491
+42348131848295: FIXED
+Generation : 9492
+42348131848295: FIXED
+Generation : 9493
+42348131848295: FIXED
+Generation : 9494
+42348131848295: FIXED
+Generation : 9495
+42348131848295: FIXED
+Generation : 9496
+42348131848295: FIXED
+Generation : 9497
+42348131848295: FIXED
+Generation : 9498
+42348131848295: FIXED
+Generation : 9499
+42348131848295: FIXED
+Generation : 9500
+42348131848295: FIXED
+Generation : 9501
+42348131848295: FIXED
+Generation : 9502
+42348131848295: FIXED
+Generation : 9503
+42348131848295: FIXED
+Generation : 9504
+42348131848295: FIXED
+Generation : 9505
+42348131848295: FIXED
+Generation : 9506
+42348131848295: FIXED
+Generation : 9507
+42348131848295: FIXED
+Generation : 9508
+42348131848295: FIXED
+Generation : 9509
+42348131848295: FIXED
+Generation : 9510
+42348131848295: FIXED
+Generation : 9511
+42348131848295: FIXED
+Generation : 9512
+42348131848295: FIXED
+Generation : 9513
+42348131848295: FIXED
+Generation : 9514
+42348131848295: FIXED
+Generation : 9515
+42348131848295: FIXED
+Generation : 9516
+42348131848295: FIXED
+Generation : 9517
+42348131848295: FIXED
+Generation : 9518
+42348131848295: FIXED
+Generation : 9519
+42348131848295: FIXED
+Generation : 9520
+42348131848295: FIXED
+Generation : 9521
+42348131848295: FIXED
+Generation : 9522
+42348131848295: FIXED
+Generation : 9523
+42348131848295: FIXED
+Generation : 9524
+42348131848295: FIXED
+Generation : 9525
+42348131848295: FIXED
+Generation : 9526
+42348131848295: FIXED
+Generation : 9527
+42348131848295: FIXED
+Generation : 9528
+42348131848295: FIXED
+Generation : 9529
+42348131848295: FIXED
+Generation : 9530
+42348131848295: FIXED
+Generation : 9531
+42348131848295: FIXED
+Generation : 9532
+42348131848295: FIXED
+Generation : 9533
+42348131848295: FIXED
+Generation : 9534
+42348131848295: FIXED
+Generation : 9535
+42348131848295: FIXED
+Generation : 9536
+42348131848295: FIXED
+Generation : 9537
+42348131848295: FIXED
+Generation : 9538
+42348131848295: FIXED
+Generation : 9539
+42348131848295: FIXED
+Generation : 9540
+42348131848295: FIXED
+Generation : 9541
+42348131848295: FIXED
+Generation : 9542
+42348131848295: FIXED
+Generation : 9543
+42348131848295: FIXED
+Generation : 9544
+42348131848295: FIXED
+Generation : 9545
+42348131848295: FIXED
+Generation : 9546
+42348131848295: FIXED
+Generation : 9547
+42348131848295: FIXED
+Generation : 9548
+42348131848295: FIXED
+Generation : 9549
+42348131848295: FIXED
+Generation : 9550
+42348131848295: FIXED
+Generation : 9551
+42348131848295: FIXED
+Generation : 9552
+42348131848295: FIXED
+Generation : 9553
+42348131848295: FIXED
+Generation : 9554
+42348131848295: FIXED
+Generation : 9555
+42348131848295: FIXED
+Generation : 9556
+42348131848295: FIXED
+Generation : 9557
+42348131848295: FIXED
+Generation : 9558
+42348131848295: FIXED
+Generation : 9559
+42348131848295: FIXED
+Generation : 9560
+42348131848295: FIXED
+Generation : 9561
+42348131848295: FIXED
+Generation : 9562
+42348131848295: FIXED
+Generation : 9563
+42348131848295: FIXED
+Generation : 9564
+42348131848295: FIXED
+Generation : 9565
+42348131848295: FIXED
+Generation : 9566
+42348131848295: FIXED
+Generation : 9567
+42348131848295: FIXED
+Generation : 9568
+42348131848295: FIXED
+Generation : 9569
+42348131848295: FIXED
+Generation : 9570
+42348131848295: FIXED
+Generation : 9571
+42348131848295: FIXED
+Generation : 9572
+42348131848295: FIXED
+Generation : 9573
+42348131848295: FIXED
+Generation : 9574
+42348131848295: FIXED
+Generation : 9575
+42348131848295: FIXED
+Generation : 9576
+42348131848295: FIXED
+Generation : 9577
+42348131848295: FIXED
+Generation : 9578
+42348131848295: FIXED
+Generation : 9579
+42348131848295: FIXED
+Generation : 9580
+42348131848295: FIXED
+Generation : 9581
+42348131848295: FIXED
+Generation : 9582
+42348131848295: FIXED
+Generation : 9583
+42348131848295: FIXED
+Generation : 9584
+42348131848295: FIXED
+Generation : 9585
+42348131848295: FIXED
+Generation : 9586
+42348131848295: FIXED
+Generation : 9587
+42348131848295: FIXED
+Generation : 9588
+42348131848295: FIXED
+Generation : 9589
+42348131848295: FIXED
+Generation : 9590
+42348131848295: FIXED
+Generation : 9591
+42348131848295: FIXED
+Generation : 9592
+42348131848295: FIXED
+Generation : 9593
+42348131848295: FIXED
+Generation : 9594
+42348131848295: FIXED
+Generation : 9595
+42348131848295: FIXED
+Generation : 9596
+42348131848295: FIXED
+Generation : 9597
+42348131848295: FIXED
+Generation : 9598
+42348131848295: FIXED
+Generation : 9599
+42348131848295: FIXED
+Generation : 9600
+42348131848295: FIXED
+Generation : 9601
+42348131848295: FIXED
+Generation : 9602
+42348131848295: FIXED
+Generation : 9603
+42348131848295: FIXED
+Generation : 9604
+42348131848295: FIXED
+Generation : 9605
+42348131848295: FIXED
+Generation : 9606
+42348131848295: FIXED
+Generation : 9607
+42348131848295: FIXED
+Generation : 9608
+42348131848295: FIXED
+Generation : 9609
+42348131848295: FIXED
+Generation : 9610
+42348131848295: FIXED
+Generation : 9611
+42348131848295: FIXED
+Generation : 9612
+42348131848295: FIXED
+Generation : 9613
+42348131848295: FIXED
+Generation : 9614
+42348131848295: FIXED
+Generation : 9615
+42348131848295: FIXED
+Generation : 9616
+42348131848295: FIXED
+Generation : 9617
+42348131848295: FIXED
+Generation : 9618
+42348131848295: FIXED
+Generation : 9619
+42348131848295: FIXED
+Generation : 9620
+42348131848295: FIXED
+Generation : 9621
+42348131848295: FIXED
+Generation : 9622
+42348131848295: FIXED
+Generation : 9623
+42348131848295: FIXED
+Generation : 9624
+42348131848295: FIXED
+Generation : 9625
+42348131848295: FIXED
+Generation : 9626
+42348131848295: FIXED
+Generation : 9627
+42348131848295: FIXED
+Generation : 9628
+42348131848295: FIXED
+Generation : 9629
+42348131848295: FIXED
+Generation : 9630
+42348131848295: FIXED
+Generation : 9631
+42348131848295: FIXED
+Generation : 9632
+42348131848295: FIXED
+Generation : 9633
+42348131848295: FIXED
+Generation : 9634
+42348131848295: FIXED
+Generation : 9635
+42348131848295: FIXED
+Generation : 9636
+42348131848295: FIXED
+Generation : 9637
+42348131848295: FIXED
+Generation : 9638
+42348131848295: FIXED
+Generation : 9639
+42348131848295: FIXED
+Generation : 9640
+42348131848295: FIXED
+Generation : 9641
+42348131848295: FIXED
+Generation : 9642
+42348131848295: FIXED
+Generation : 9643
+42348131848295: FIXED
+Generation : 9644
+42348131848295: FIXED
+Generation : 9645
+42348131848295: FIXED
+Generation : 9646
+42348131848295: FIXED
+Generation : 9647
+42348131848295: FIXED
+Generation : 9648
+42348131848295: FIXED
+Generation : 9649
+42348131848295: FIXED
+Generation : 9650
+42348131848295: FIXED
+Generation : 9651
+42348131848295: FIXED
+Generation : 9652
+42348131848295: FIXED
+Generation : 9653
+42348131848295: FIXED
+Generation : 9654
+42348131848295: FIXED
+Generation : 9655
+42348131848295: FIXED
+Generation : 9656
+42348131848295: FIXED
+Generation : 9657
+42348131848295: FIXED
+Generation : 9658
+42348131848295: FIXED
+Generation : 9659
+42348131848295: FIXED
+Generation : 9660
+42348131848295: FIXED
+Generation : 9661
+42348131848295: FIXED
+Generation : 9662
+42348131848295: FIXED
+Generation : 9663
+42348131848295: FIXED
+Generation : 9664
+42348131848295: FIXED
+Generation : 9665
+42348131848295: FIXED
+Generation : 9666
+42348131848295: FIXED
+Generation : 9667
+42348131848295: FIXED
+Generation : 9668
+42348131848295: FIXED
+Generation : 9669
+42348131848295: FIXED
+Generation : 9670
+42348131848295: FIXED
+Generation : 9671
+42348131848295: FIXED
+Generation : 9672
+42348131848295: FIXED
+Generation : 9673
+42348131848295: FIXED
+Generation : 9674
+42348131848295: FIXED
+Generation : 9675
+42348131848295: FIXED
+Generation : 9676
+42348131848295: FIXED
+Generation : 9677
+42348131848295: FIXED
+Generation : 9678
+42348131848295: FIXED
+Generation : 9679
+42348131848295: FIXED
+Generation : 9680
+42348131848295: FIXED
+Generation : 9681
+42348131848295: FIXED
+Generation : 9682
+42348131848295: FIXED
+Generation : 9683
+42348131848295: FIXED
+Generation : 9684
+42348131848295: FIXED
+Generation : 9685
+42348131848295: FIXED
+Generation : 9686
+42348131848295: FIXED
+Generation : 9687
+42348131848295: FIXED
+Generation : 9688
+42348131848295: FIXED
+Generation : 9689
+42348131848295: FIXED
+Generation : 9690
+42348131848295: FIXED
+Generation : 9691
+42348131848295: FIXED
+Generation : 9692
+42348131848295: FIXED
+Generation : 9693
+42348131848295: FIXED
+Generation : 9694
+42348131848295: FIXED
+Generation : 9695
+42348131848295: FIXED
+Generation : 9696
+42348131848295: FIXED
+Generation : 9697
+42348131848295: FIXED
+Generation : 9698
+42348131848295: FIXED
+Generation : 9699
+42348131848295: FIXED
+Generation : 9700
+42348131848295: FIXED
+Generation : 9701
+42348131848295: FIXED
+Generation : 9702
+42348131848295: FIXED
+Generation : 9703
+42348131848295: FIXED
+Generation : 9704
+42348131848295: FIXED
+Generation : 9705
+42348131848295: FIXED
+Generation : 9706
+42348131848295: FIXED
+Generation : 9707
+42348131848295: FIXED
+Generation : 9708
+42348131848295: FIXED
+Generation : 9709
+42348131848295: FIXED
+Generation : 9710
+42348131848295: FIXED
+Generation : 9711
+42348131848295: FIXED
+Generation : 9712
+42348131848295: FIXED
+Generation : 9713
+42348131848295: FIXED
+Generation : 9714
+42348131848295: FIXED
+Generation : 9715
+42348131848295: FIXED
+Generation : 9716
+42348131848295: FIXED
+Generation : 9717
+42348131848295: FIXED
+Generation : 9718
+42348131848295: FIXED
+Generation : 9719
+42348131848295: FIXED
+Generation : 9720
+42348131848295: FIXED
+Generation : 9721
+42348131848295: FIXED
+Generation : 9722
+42348131848295: FIXED
+Generation : 9723
+42348131848295: FIXED
+Generation : 9724
+42348131848295: FIXED
+Generation : 9725
+42348131848295: FIXED
+Generation : 9726
+42348131848295: FIXED
+Generation : 9727
+42348131848295: FIXED
+Generation : 9728
+42348131848295: FIXED
+Generation : 9729
+42348131848295: FIXED
+Generation : 9730
+42348131848295: FIXED
+Generation : 9731
+42348131848295: FIXED
+Generation : 9732
+42348131848295: FIXED
+Generation : 9733
+42348131848295: FIXED
+Generation : 9734
+42348131848295: FIXED
+Generation : 9735
+42348131848295: FIXED
+Generation : 9736
+42348131848295: FIXED
+Generation : 9737
+42348131848295: FIXED
+Generation : 9738
+42348131848295: FIXED
+Generation : 9739
+42348131848295: FIXED
+Generation : 9740
+42348131848295: FIXED
+Generation : 9741
+42348131848295: FIXED
+Generation : 9742
+42348131848295: FIXED
+Generation : 9743
+42348131848295: FIXED
+Generation : 9744
+42348131848295: FIXED
+Generation : 9745
+42348131848295: FIXED
+Generation : 9746
+42348131848295: FIXED
+Generation : 9747
+42348131848295: FIXED
+Generation : 9748
+42348131848295: FIXED
+Generation : 9749
+42348131848295: FIXED
+Generation : 9750
+42348131848295: FIXED
+Generation : 9751
+42348131848295: FIXED
+Generation : 9752
+42348131848295: FIXED
+Generation : 9753
+42348131848295: FIXED
+Generation : 9754
+42348131848295: FIXED
+Generation : 9755
+42348131848295: FIXED
+Generation : 9756
+42348131848295: FIXED
+Generation : 9757
+42348131848295: FIXED
+Generation : 9758
+42348131848295: FIXED
+Generation : 9759
+42348131848295: FIXED
+Generation : 9760
+42348131848295: FIXED
+Generation : 9761
+42348131848295: FIXED
+Generation : 9762
+42348131848295: FIXED
+Generation : 9763
+42348131848295: FIXED
+Generation : 9764
+42348131848295: FIXED
+Generation : 9765
+42348131848295: FIXED
+Generation : 9766
+42348131848295: FIXED
+Generation : 9767
+42348131848295: FIXED
+Generation : 9768
+42348131848295: FIXED
+Generation : 9769
+42348131848295: FIXED
+Generation : 9770
+42348131848295: FIXED
+Generation : 9771
+42348131848295: FIXED
+Generation : 9772
+42348131848295: FIXED
+Generation : 9773
+42348131848295: FIXED
+Generation : 9774
+42348131848295: FIXED
+Generation : 9775
+42348131848295: FIXED
+Generation : 9776
+42348131848295: FIXED
+Generation : 9777
+42348131848295: FIXED
+Generation : 9778
+42348131848295: FIXED
+Generation : 9779
+42348131848295: FIXED
+Generation : 9780
+42348131848295: FIXED
+Generation : 9781
+42348131848295: FIXED
+Generation : 9782
+42348131848295: FIXED
+Generation : 9783
+42348131848295: FIXED
+Generation : 9784
+42348131848295: FIXED
+Generation : 9785
+42348131848295: FIXED
+Generation : 9786
+42348131848295: FIXED
+Generation : 9787
+42348131848295: FIXED
+Generation : 9788
+42348131848295: FIXED
+Generation : 9789
+42348131848295: FIXED
+Generation : 9790
+42348131848295: FIXED
+Generation : 9791
+42348131848295: FIXED
+Generation : 9792
+42348131848295: FIXED
+Generation : 9793
+42348131848295: FIXED
+Generation : 9794
+42348131848295: FIXED
+Generation : 9795
+42348131848295: FIXED
+Generation : 9796
+42348131848295: FIXED
+Generation : 9797
+42348131848295: FIXED
+Generation : 9798
+42348131848295: FIXED
+Generation : 9799
+42348131848295: FIXED
+Generation : 9800
+42348131848295: FIXED
+Generation : 9801
+42348131848295: FIXED
+Generation : 9802
+42348131848295: FIXED
+Generation : 9803
+42348131848295: FIXED
+Generation : 9804
+42348131848295: FIXED
+Generation : 9805
+42348131848295: FIXED
+Generation : 9806
+42348131848295: FIXED
+Generation : 9807
+42348131848295: FIXED
+Generation : 9808
+42348131848295: FIXED
+Generation : 9809
+42348131848295: FIXED
+Generation : 9810
+42348131848295: FIXED
+Generation : 9811
+42348131848295: FIXED
+Generation : 9812
+42348131848295: FIXED
+Generation : 9813
+42348131848295: FIXED
+Generation : 9814
+42348131848295: FIXED
+Generation : 9815
+42348131848295: FIXED
+Generation : 9816
+42348131848295: FIXED
+Generation : 9817
+42348131848295: FIXED
+Generation : 9818
+42348131848295: FIXED
+Generation : 9819
+42348131848295: FIXED
+Generation : 9820
+42348131848295: FIXED
+Generation : 9821
+42348131848295: FIXED
+Generation : 9822
+42348131848295: FIXED
+Generation : 9823
+42348131848295: FIXED
+Generation : 9824
+42348131848295: FIXED
+Generation : 9825
+42348131848295: FIXED
+Generation : 9826
+42348131848295: FIXED
+Generation : 9827
+42348131848295: FIXED
+Generation : 9828
+42348131848295: FIXED
+Generation : 9829
+42348131848295: FIXED
+Generation : 9830
+42348131848295: FIXED
+Generation : 9831
+42348131848295: FIXED
+Generation : 9832
+42348131848295: FIXED
+Generation : 9833
+42348131848295: FIXED
+Generation : 9834
+42348131848295: FIXED
+Generation : 9835
+42348131848295: FIXED
+Generation : 9836
+42348131848295: FIXED
+Generation : 9837
+42348131848295: FIXED
+Generation : 9838
+42348131848295: FIXED
+Generation : 9839
+42348131848295: FIXED
+Generation : 9840
+42348131848295: FIXED
+Generation : 9841
+42348131848295: FIXED
+Generation : 9842
+42348131848295: FIXED
+Generation : 9843
+42348131848295: FIXED
+Generation : 9844
+42348131848295: FIXED
+Generation : 9845
+42348131848295: FIXED
+Generation : 9846
+42348131848295: FIXED
+Generation : 9847
+42348131848295: FIXED
+Generation : 9848
+42348131848295: FIXED
+Generation : 9849
+42348131848295: FIXED
+Generation : 9850
+42348131848295: FIXED
+Generation : 9851
+42348131848295: FIXED
+Generation : 9852
+42348131848295: FIXED
+Generation : 9853
+42348131848295: FIXED
+Generation : 9854
+42348131848295: FIXED
+Generation : 9855
+42348131848295: FIXED
+Generation : 9856
+42348131848295: FIXED
+Generation : 9857
+42348131848295: FIXED
+Generation : 9858
+42348131848295: FIXED
+Generation : 9859
+42348131848295: FIXED
+Generation : 9860
+42348131848295: FIXED
+Generation : 9861
+42348131848295: FIXED
+Generation : 9862
+42348131848295: FIXED
+Generation : 9863
+42348131848295: FIXED
+Generation : 9864
+42348131848295: FIXED
+Generation : 9865
+42348131848295: FIXED
+Generation : 9866
+42348131848295: FIXED
+Generation : 9867
+42348131848295: FIXED
+Generation : 9868
+42348131848295: FIXED
+Generation : 9869
+42348131848295: FIXED
+Generation : 9870
+42348131848295: FIXED
+Generation : 9871
+42348131848295: FIXED
+Generation : 9872
+42348131848295: FIXED
+Generation : 9873
+42348131848295: FIXED
+Generation : 9874
+42348131848295: FIXED
+Generation : 9875
+42348131848295: FIXED
+Generation : 9876
+42348131848295: FIXED
+Generation : 9877
+42348131848295: FIXED
+Generation : 9878
+42348131848295: FIXED
+Generation : 9879
+42348131848295: FIXED
+Generation : 9880
+42348131848295: FIXED
+Generation : 9881
+42348131848295: FIXED
+Generation : 9882
+42348131848295: FIXED
+Generation : 9883
+42348131848295: FIXED
+Generation : 9884
+42348131848295: FIXED
+Generation : 9885
+42348131848295: FIXED
+Generation : 9886
+42348131848295: FIXED
+Generation : 9887
+42348131848295: FIXED
+Generation : 9888
+42348131848295: FIXED
+Generation : 9889
+42348131848295: FIXED
+Generation : 9890
+42348131848295: FIXED
+Generation : 9891
+42348131848295: FIXED
+Generation : 9892
+42348131848295: FIXED
+Generation : 9893
+42348131848295: FIXED
+Generation : 9894
+42348131848295: FIXED
+Generation : 9895
+42348131848295: FIXED
+Generation : 9896
+42348131848295: FIXED
+Generation : 9897
+42348131848295: FIXED
+Generation : 9898
+42348131848295: FIXED
+Generation : 9899
+42348131848295: FIXED
+Generation : 9900
+42348131848295: FIXED
+Generation : 9901
+42348131848295: FIXED
+Generation : 9902
+42348131848295: FIXED
+Generation : 9903
+42348131848295: FIXED
+Generation : 9904
+42348131848295: FIXED
+Generation : 9905
+42348131848295: FIXED
+Generation : 9906
+42348131848295: FIXED
+Generation : 9907
+42348131848295: FIXED
+Generation : 9908
+42348131848295: FIXED
+Generation : 9909
+42348131848295: FIXED
+Generation : 9910
+42348131848295: FIXED
+Generation : 9911
+42348131848295: FIXED
+Generation : 9912
+42348131848295: FIXED
+Generation : 9913
+42348131848295: FIXED
+Generation : 9914
+42348131848295: FIXED
+Generation : 9915
+42348131848295: FIXED
+Generation : 9916
+42348131848295: FIXED
+Generation : 9917
+42348131848295: FIXED
+Generation : 9918
+42348131848295: FIXED
+Generation : 9919
+42348131848295: FIXED
+Generation : 9920
+42348131848295: FIXED
+Generation : 9921
+42348131848295: FIXED
+Generation : 9922
+42348131848295: FIXED
+Generation : 9923
+42348131848295: FIXED
+Generation : 9924
+42348131848295: FIXED
+Generation : 9925
+42348131848295: FIXED
+Generation : 9926
+42348131848295: FIXED
+Generation : 9927
+42348131848295: FIXED
+Generation : 9928
+42348131848295: FIXED
+Generation : 9929
+42348131848295: FIXED
+Generation : 9930
+42348131848295: FIXED
+Generation : 9931
+42348131848295: FIXED
+Generation : 9932
+42348131848295: FIXED
+Generation : 9933
+42348131848295: FIXED
+Generation : 9934
+42348131848295: FIXED
+Generation : 9935
+42348131848295: FIXED
+Generation : 9936
+42348131848295: FIXED
+Generation : 9937
+42348131848295: FIXED
+Generation : 9938
+42348131848295: FIXED
+Generation : 9939
+42348131848295: FIXED
+Generation : 9940
+42348131848295: FIXED
+Generation : 9941
+42348131848295: FIXED
+Generation : 9942
+42348131848295: FIXED
+Generation : 9943
+42348131848295: FIXED
+Generation : 9944
+42348131848295: FIXED
+Generation : 9945
+42348131848295: FIXED
+Generation : 9946
+42348131848295: FIXED
+Generation : 9947
+42348131848295: FIXED
+Generation : 9948
+42348131848295: FIXED
+Generation : 9949
+42348131848295: FIXED
+Generation : 9950
+42348131848295: FIXED
+Generation : 9951
+42348131848295: FIXED
+Generation : 9952
+42348131848295: FIXED
+Generation : 9953
+42348131848295: FIXED
+Generation : 9954
+42348131848295: FIXED
+Generation : 9955
+42348131848295: FIXED
+Generation : 9956
+42348131848295: FIXED
+Generation : 9957
+42348131848295: FIXED
+Generation : 9958
+42348131848295: FIXED
+Generation : 9959
+42348131848295: FIXED
+Generation : 9960
+42348131848295: FIXED
+Generation : 9961
+42348131848295: FIXED
+Generation : 9962
+42348131848295: FIXED
+Generation : 9963
+42348131848295: FIXED
+Generation : 9964
+42348131848295: FIXED
+Generation : 9965
+42348131848295: FIXED
+Generation : 9966
+42348131848295: FIXED
+Generation : 9967
+42348131848295: FIXED
+Generation : 9968
+42348131848295: FIXED
+Generation : 9969
+42348131848295: FIXED
+Generation : 9970
+42348131848295: FIXED
+Generation : 9971
+42348131848295: FIXED
+Generation : 9972
+42348131848295: FIXED
+Generation : 9973
+42348131848295: FIXED
+Generation : 9974
+42348131848295: FIXED
+Generation : 9975
+42348131848295: FIXED
+Generation : 9976
+42348131848295: FIXED
+Generation : 9977
+42348131848295: FIXED
+Generation : 9978
+42348131848295: FIXED
+Generation : 9979
+42348131848295: FIXED
+Generation : 9980
+42348131848295: FIXED
+Generation : 9981
+42348131848295: FIXED
+Generation : 9982
+42348131848295: FIXED
+Generation : 9983
+42348131848295: FIXED
+Generation : 9984
+42348131848295: FIXED
+Generation : 9985
+42348131848295: FIXED
+Generation : 9986
+42348131848295: FIXED
+Generation : 9987
+42348131848295: FIXED
+Generation : 9988
+42348131848295: FIXED
+Generation : 9989
+42348131848295: FIXED
+Generation : 9990
+42348131848295: FIXED
+Generation : 9991
+42348131848295: FIXED
+Generation : 9992
+42348131848295: FIXED
+Generation : 9993
+42348131848295: FIXED
+Generation : 9994
+42348131848295: FIXED
+Generation : 9995
+42348131848295: FIXED
+Generation : 9996
+42348131848295: FIXED
+Generation : 9997
+42348131848295: FIXED
+Generation : 9998
+42348131848295: FIXED
+Generation : 9999
+42348131848295: FIXED
+Generation : 10000
+42348131848295: FIXED
+#OUT: 10000 10000 F
+Mutations:
+0 9 m2 500000 0.05 0.5 p1 8000 8326

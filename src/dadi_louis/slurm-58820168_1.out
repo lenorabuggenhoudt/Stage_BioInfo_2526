@@ -1,0 +1,7 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pyyaml in /shared/ifbstor1/home/lbuggenhoudt/.local/lib/python3.9/site-packages (6.0.2)
+CONFIG_FILE = ../deminfhelper/expansion_neutral_config.yml
+Traceback (most recent call last):
+  File "/shared/ifbstor1/projects/inferscerevol/lenora/src/dadi_louis/script_dadi_louis.py", line 10, in <module>
+    import numpy as np, dadi, random
+ModuleNotFoundError: No module named 'dadi'

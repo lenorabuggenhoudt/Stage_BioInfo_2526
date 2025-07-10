@@ -1,0 +1,16 @@
+// Initial random seed:
+43498384677543
+
+// RunInitializeCallbacks():
+initializeTreeSeq();
+initializeMutationRate(0, 1999999);
+initializeMutationType(1, 0.5, "f", 0);
+initializeGenomicElementType(1, m1, 1);
+initializeRecombinationRate(c(5e-08, 0.5, 5e-08), c(999999, 1000000, 1999999));
+initializeGenomicElement(g1, 0, 1999999);
+
+// Starting run at tick <start>:
+1 
+
+#OUT: 20000 20000 F
+Mutations:

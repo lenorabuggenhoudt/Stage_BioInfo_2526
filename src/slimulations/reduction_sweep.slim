@@ -1,0 +1,119 @@
+// Université Paris-Saclay
+// Lab : LISN ~ UMR9015 ~ BIOINFO team 
+
+initialize() {
+	initializeTreeSeq();
+	defineConstant("pop_size", popsize);	// K = Pop size (Ne)
+	defineConstant("generationsmitoses", generationmitoses); // 1/alpha (GR)
+	defineConstant("recombination_rate", recombinationrate); // recombination rate (rho)
+	defineConstant("reduction_ratio", reductionratio); // size population after reduction = size population before reduction * reduction_ratio
+	defineConstant("mutationrate", mutation_rate);
+	defineConstant("sweepcoeff", sweep_coeff);
+	defineConstant("dominancecoeff", dominance_coeff);
+	defineConstant("rep", replicatenumber);
+
+	initializeMutationRate(c(0,mutationrate,0), c(499999,500000,1999999)); // Overlay for neutral part of the genome so mu = 0 in the simulations
+
+	initializeMutationType("m1", 0.5, "f", 0.0);
+	initializeMutationType("m2", dominancecoeff, "f", sweepcoeff);
+	m1.mutationStackPolicy = "l";
+	initializeGenomicElementType("g1", m1, 1.0);
+	
+	initializeRecombinationRate(c(recombination_rate*generationsmitoses, 0.5, recombination_rate*generationsmitoses), c(999999,1000000,1999999)); // Two independant chromosomes 
+
+	initializeGenomicElement(g1, 0, 1999999);
+	
+	// Variable to store the generation for the next sexual event to happen
+	// FANNY changed to a poisson distribution
+	//defineGlobal("gen_recomb", asInteger(rnorm(1,generationsmitoses,asInteger(generationsmitoses/10))));
+	defineGlobal("gen_recomb", asInteger(rpois(1, generationsmitoses)));
+}
+
+1 early(){ 
+	defineConstant("simID", getSeed());
+	sim.addSubpop("p1", pop_size);
+}
+
+
+8000 early() { p1.setSubpopulationSize(asInteger(round(pop_size/reduction_ratio))); } // Enters the reduction, divide the number of individuals by the reduction_ratio
+
+early() {
+
+	// If facultative sex (alpha < 1): do cloning then sex at the "gen_recomb" generation (also define the next gen_recom)
+	// If not (alpha = 1) : do sex by default
+
+	if(generationsmitoses!=1){ // <=> if alpha < 1
+		if (sim.cycle != gen_recomb){
+			p1.setCloningRate(1.0);
+		}
+		else {
+			p1.setCloningRate(0.0);
+			// Normal law (used before)
+			//defineGlobal("gen_recomb", gen_recomb + asInteger(rnorm(1,generationsmitoses,asInteger(generationsmitoses/10))));
+
+			// Poisson law
+			defineGlobal("gen_recomb", gen_recomb + asInteger(rpois(1, generationsmitoses)) );
+			
+		}
+	}
+}
+
+8000 late(){
+	cat("Late 8000 \n");
+	// save the state of the simulation
+	//sim.outputFull(tempdir() + "slim_" + simID + ".txt");
+	sim.treeSeqOutput(paste(tempdir(), "_ts_",rep,"_",generationsmitoses,".trees",sep=""));
+	// introduce the sweep mutation
+	target = sample(p1.genomes, 1);
+	//target.addNewMutation(m2, sweepcoeff, 500000);
+	target.addNewDrawnMutation(m2, 500000);
+	
+}
+
+
+
+8000:10000 late() { 
+	
+	if (sim.countOfMutationsOfType(m2) == 0)
+	{
+
+		cat("Generation : " +  sim.cycle + "\n");
+		fixed = (sum(sim.substitutions.mutationType == m2) == 1);
+		if (fixed)
+		{
+			cat(simID + ": FIXED\n");
+			a = 0; // test
+		
+		}
+		else
+		{
+			cat(simID + ": LOST – RESTARTING\n");
+			// go back to tick 8000
+			sim.readFromPopulationFile(paste(tempdir(), "_ts_",rep,"_",generationsmitoses,".trees",sep=""));
+			// start a newly seeded run
+			setSeed(rdunif(1, 0, asInteger(2^62) - 1));
+			// re-introduce the sweep mutation
+			target = sample(p1.genomes, 1);
+			//target.addNewMutation(m2, sweepcoeff, 500000);
+			target.addNewDrawnMutation(m2, 500000);
+		}
+	}
+	else{
+		cat("Generation : " +  sim.cycle + "\n");
+		cat("In progress\n");
+	}
+}
+
+
+
+10000 late() { 
+	
+	// Check if the mutation is present (==> if not = lost of fixed) 
+	// Stop the simu if it's not present, the checking to see if lost or fixed is made outside
+	// The simulation is run again if it's lost
+
+	sim.treeSeqOutput(paste("results/sweep/reduction/ts_",rep,"_",generationsmitoses,".trees",sep=""));
+	sim.outputFixedMutations();
+	sim.simulationFinished();
+	
+}

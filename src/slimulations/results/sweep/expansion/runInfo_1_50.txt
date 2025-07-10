@@ -1,0 +1,4203 @@
+// Initial random seed:
+22644287138239
+
+// RunInitializeCallbacks():
+initializeTreeSeq();
+initializeMutationRate(0, 1999999);
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(2, 0.5, "f", 0.05);
+initializeGenomicElementType(1, m1, 1);
+initializeRecombinationRate(c(5e-06, 0.5, 5e-06), c(999999, 1000000, 1999999));
+initializeGenomicElement(g1, 0, 1999999);
+
+// Starting run at tick <start>:
+1 
+
+Late 8000 
+Generation : 8000
+In progress
+Generation : 8001
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+22644287138239: LOST – RESTARTING
+Generation : 8001
+22644287138239: LOST – RESTARTING
+Generation : 8001
+22644287138239: LOST – RESTARTING
+Generation : 8001
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+22644287138239: LOST – RESTARTING
+Generation : 8001
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+22644287138239: LOST – RESTARTING
+Generation : 8001
+22644287138239: LOST – RESTARTING
+Generation : 8001
+22644287138239: LOST – RESTARTING
+Generation : 8001
+22644287138239: LOST – RESTARTING
+Generation : 8001
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+22644287138239: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+In progress
+Generation : 8027
+In progress
+Generation : 8028
+In progress
+Generation : 8029
+In progress
+Generation : 8030
+In progress
+Generation : 8031
+In progress
+Generation : 8032
+In progress
+Generation : 8033
+In progress
+Generation : 8034
+In progress
+Generation : 8035
+In progress
+Generation : 8036
+In progress
+Generation : 8037
+In progress
+Generation : 8038
+In progress
+Generation : 8039
+In progress
+Generation : 8040
+In progress
+Generation : 8041
+In progress
+Generation : 8042
+In progress
+Generation : 8043
+In progress
+Generation : 8044
+In progress
+Generation : 8045
+In progress
+Generation : 8046
+In progress
+Generation : 8047
+In progress
+Generation : 8048
+In progress
+Generation : 8049
+In progress
+Generation : 8050
+In progress
+Generation : 8051
+In progress
+Generation : 8052
+In progress
+Generation : 8053
+In progress
+Generation : 8054
+In progress
+Generation : 8055
+In progress
+Generation : 8056
+In progress
+Generation : 8057
+In progress
+Generation : 8058
+In progress
+Generation : 8059
+In progress
+Generation : 8060
+In progress
+Generation : 8061
+In progress
+Generation : 8062
+In progress
+Generation : 8063
+In progress
+Generation : 8064
+In progress
+Generation : 8065
+In progress
+Generation : 8066
+In progress
+Generation : 8067
+In progress
+Generation : 8068
+In progress
+Generation : 8069
+In progress
+Generation : 8070
+In progress
+Generation : 8071
+In progress
+Generation : 8072
+In progress
+Generation : 8073
+In progress
+Generation : 8074
+In progress
+Generation : 8075
+In progress
+Generation : 8076
+In progress
+Generation : 8077
+In progress
+Generation : 8078
+In progress
+Generation : 8079
+In progress
+Generation : 8080
+In progress
+Generation : 8081
+In progress
+Generation : 8082
+In progress
+Generation : 8083
+In progress
+Generation : 8084
+In progress
+Generation : 8085
+In progress
+Generation : 8086
+In progress
+Generation : 8087
+In progress
+Generation : 8088
+In progress
+Generation : 8089
+In progress
+Generation : 8090
+In progress
+Generation : 8091
+In progress
+Generation : 8092
+In progress
+Generation : 8093
+In progress
+Generation : 8094
+In progress
+Generation : 8095
+In progress
+Generation : 8096
+In progress
+Generation : 8097
+In progress
+Generation : 8098
+In progress
+Generation : 8099
+In progress
+Generation : 8100
+In progress
+Generation : 8101
+In progress
+Generation : 8102
+In progress
+Generation : 8103
+In progress
+Generation : 8104
+In progress
+Generation : 8105
+In progress
+Generation : 8106
+In progress
+Generation : 8107
+In progress
+Generation : 8108
+In progress
+Generation : 8109
+In progress
+Generation : 8110
+In progress
+Generation : 8111
+In progress
+Generation : 8112
+In progress
+Generation : 8113
+In progress
+Generation : 8114
+In progress
+Generation : 8115
+In progress
+Generation : 8116
+In progress
+Generation : 8117
+In progress
+Generation : 8118
+In progress
+Generation : 8119
+In progress
+Generation : 8120
+In progress
+Generation : 8121
+In progress
+Generation : 8122
+In progress
+Generation : 8123
+In progress
+Generation : 8124
+In progress
+Generation : 8125
+In progress
+Generation : 8126
+In progress
+Generation : 8127
+In progress
+Generation : 8128
+In progress
+Generation : 8129
+In progress
+Generation : 8130
+In progress
+Generation : 8131
+In progress
+Generation : 8132
+In progress
+Generation : 8133
+In progress
+Generation : 8134
+In progress
+Generation : 8135
+In progress
+Generation : 8136
+In progress
+Generation : 8137
+In progress
+Generation : 8138
+In progress
+Generation : 8139
+In progress
+Generation : 8140
+In progress
+Generation : 8141
+In progress
+Generation : 8142
+In progress
+Generation : 8143
+In progress
+Generation : 8144
+In progress
+Generation : 8145
+In progress
+Generation : 8146
+In progress
+Generation : 8147
+In progress
+Generation : 8148
+In progress
+Generation : 8149
+In progress
+Generation : 8150
+In progress
+Generation : 8151
+In progress
+Generation : 8152
+In progress
+Generation : 8153
+In progress
+Generation : 8154
+In progress
+Generation : 8155
+In progress
+Generation : 8156
+In progress
+Generation : 8157
+In progress
+Generation : 8158
+In progress
+Generation : 8159
+In progress
+Generation : 8160
+In progress
+Generation : 8161
+In progress
+Generation : 8162
+In progress
+Generation : 8163
+In progress
+Generation : 8164
+In progress
+Generation : 8165
+In progress
+Generation : 8166
+In progress
+Generation : 8167
+In progress
+Generation : 8168
+In progress
+Generation : 8169
+In progress
+Generation : 8170
+In progress
+Generation : 8171
+In progress
+Generation : 8172
+In progress
+Generation : 8173
+In progress
+Generation : 8174
+In progress
+Generation : 8175
+In progress
+Generation : 8176
+In progress
+Generation : 8177
+In progress
+Generation : 8178
+In progress
+Generation : 8179
+In progress
+Generation : 8180
+In progress
+Generation : 8181
+In progress
+Generation : 8182
+In progress
+Generation : 8183
+In progress
+Generation : 8184
+In progress
+Generation : 8185
+In progress
+Generation : 8186
+In progress
+Generation : 8187
+In progress
+Generation : 8188
+In progress
+Generation : 8189
+In progress
+Generation : 8190
+In progress
+Generation : 8191
+In progress
+Generation : 8192
+In progress
+Generation : 8193
+In progress
+Generation : 8194
+In progress
+Generation : 8195
+In progress
+Generation : 8196
+In progress
+Generation : 8197
+In progress
+Generation : 8198
+In progress
+Generation : 8199
+In progress
+Generation : 8200
+In progress
+Generation : 8201
+In progress
+Generation : 8202
+In progress
+Generation : 8203
+In progress
+Generation : 8204
+In progress
+Generation : 8205
+In progress
+Generation : 8206
+In progress
+Generation : 8207
+In progress
+Generation : 8208
+In progress
+Generation : 8209
+In progress
+Generation : 8210
+In progress
+Generation : 8211
+In progress
+Generation : 8212
+In progress
+Generation : 8213
+In progress
+Generation : 8214
+In progress
+Generation : 8215
+In progress
+Generation : 8216
+In progress
+Generation : 8217
+In progress
+Generation : 8218
+In progress
+Generation : 8219
+In progress
+Generation : 8220
+In progress
+Generation : 8221
+In progress
+Generation : 8222
+In progress
+Generation : 8223
+In progress
+Generation : 8224
+In progress
+Generation : 8225
+In progress
+Generation : 8226
+In progress
+Generation : 8227
+In progress
+Generation : 8228
+In progress
+Generation : 8229
+In progress
+Generation : 8230
+In progress
+Generation : 8231
+In progress
+Generation : 8232
+In progress
+Generation : 8233
+In progress
+Generation : 8234
+In progress
+Generation : 8235
+In progress
+Generation : 8236
+In progress
+Generation : 8237
+In progress
+Generation : 8238
+In progress
+Generation : 8239
+In progress
+Generation : 8240
+In progress
+Generation : 8241
+In progress
+Generation : 8242
+In progress
+Generation : 8243
+In progress
+Generation : 8244
+In progress
+Generation : 8245
+In progress
+Generation : 8246
+In progress
+Generation : 8247
+In progress
+Generation : 8248
+In progress
+Generation : 8249
+In progress
+Generation : 8250
+In progress
+Generation : 8251
+In progress
+Generation : 8252
+In progress
+Generation : 8253
+In progress
+Generation : 8254
+In progress
+Generation : 8255
+In progress
+Generation : 8256
+In progress
+Generation : 8257
+In progress
+Generation : 8258
+In progress
+Generation : 8259
+In progress
+Generation : 8260
+In progress
+Generation : 8261
+In progress
+Generation : 8262
+In progress
+Generation : 8263
+In progress
+Generation : 8264
+In progress
+Generation : 8265
+In progress
+Generation : 8266
+In progress
+Generation : 8267
+In progress
+Generation : 8268
+In progress
+Generation : 8269
+In progress
+Generation : 8270
+In progress
+Generation : 8271
+In progress
+Generation : 8272
+In progress
+Generation : 8273
+In progress
+Generation : 8274
+In progress
+Generation : 8275
+In progress
+Generation : 8276
+In progress
+Generation : 8277
+In progress
+Generation : 8278
+In progress
+Generation : 8279
+In progress
+Generation : 8280
+In progress
+Generation : 8281
+In progress
+Generation : 8282
+In progress
+Generation : 8283
+In progress
+Generation : 8284
+In progress
+Generation : 8285
+In progress
+Generation : 8286
+In progress
+Generation : 8287
+In progress
+Generation : 8288
+In progress
+Generation : 8289
+In progress
+Generation : 8290
+In progress
+Generation : 8291
+In progress
+Generation : 8292
+In progress
+Generation : 8293
+In progress
+Generation : 8294
+In progress
+Generation : 8295
+In progress
+Generation : 8296
+In progress
+Generation : 8297
+In progress
+Generation : 8298
+In progress
+Generation : 8299
+In progress
+Generation : 8300
+In progress
+Generation : 8301
+In progress
+Generation : 8302
+In progress
+Generation : 8303
+In progress
+Generation : 8304
+In progress
+Generation : 8305
+In progress
+Generation : 8306
+In progress
+Generation : 8307
+In progress
+Generation : 8308
+In progress
+Generation : 8309
+In progress
+Generation : 8310
+In progress
+Generation : 8311
+In progress
+Generation : 8312
+In progress
+Generation : 8313
+In progress
+Generation : 8314
+In progress
+Generation : 8315
+In progress
+Generation : 8316
+In progress
+Generation : 8317
+In progress
+Generation : 8318
+In progress
+Generation : 8319
+In progress
+Generation : 8320
+In progress
+Generation : 8321
+In progress
+Generation : 8322
+In progress
+Generation : 8323
+In progress
+Generation : 8324
+In progress
+Generation : 8325
+In progress
+Generation : 8326
+In progress
+Generation : 8327
+In progress
+Generation : 8328
+In progress
+Generation : 8329
+In progress
+Generation : 8330
+In progress
+Generation : 8331
+In progress
+Generation : 8332
+In progress
+Generation : 8333
+In progress
+Generation : 8334
+In progress
+Generation : 8335
+In progress
+Generation : 8336
+In progress
+Generation : 8337
+In progress
+Generation : 8338
+In progress
+Generation : 8339
+In progress
+Generation : 8340
+In progress
+Generation : 8341
+In progress
+Generation : 8342
+In progress
+Generation : 8343
+In progress
+Generation : 8344
+In progress
+Generation : 8345
+In progress
+Generation : 8346
+In progress
+Generation : 8347
+In progress
+Generation : 8348
+In progress
+Generation : 8349
+In progress
+Generation : 8350
+In progress
+Generation : 8351
+In progress
+Generation : 8352
+In progress
+Generation : 8353
+In progress
+Generation : 8354
+In progress
+Generation : 8355
+In progress
+Generation : 8356
+In progress
+Generation : 8357
+In progress
+Generation : 8358
+In progress
+Generation : 8359
+In progress
+Generation : 8360
+In progress
+Generation : 8361
+In progress
+Generation : 8362
+In progress
+Generation : 8363
+In progress
+Generation : 8364
+In progress
+Generation : 8365
+In progress
+Generation : 8366
+In progress
+Generation : 8367
+In progress
+Generation : 8368
+In progress
+Generation : 8369
+In progress
+Generation : 8370
+In progress
+Generation : 8371
+In progress
+Generation : 8372
+In progress
+Generation : 8373
+In progress
+Generation : 8374
+In progress
+Generation : 8375
+In progress
+Generation : 8376
+In progress
+Generation : 8377
+In progress
+Generation : 8378
+In progress
+Generation : 8379
+In progress
+Generation : 8380
+In progress
+Generation : 8381
+In progress
+Generation : 8382
+In progress
+Generation : 8383
+In progress
+Generation : 8384
+In progress
+Generation : 8385
+In progress
+Generation : 8386
+In progress
+Generation : 8387
+In progress
+Generation : 8388
+In progress
+Generation : 8389
+In progress
+Generation : 8390
+In progress
+Generation : 8391
+In progress
+Generation : 8392
+In progress
+Generation : 8393
+In progress
+Generation : 8394
+In progress
+Generation : 8395
+In progress
+Generation : 8396
+In progress
+Generation : 8397
+In progress
+Generation : 8398
+In progress
+Generation : 8399
+In progress
+Generation : 8400
+In progress
+Generation : 8401
+In progress
+Generation : 8402
+In progress
+Generation : 8403
+In progress
+Generation : 8404
+In progress
+Generation : 8405
+In progress
+Generation : 8406
+In progress
+Generation : 8407
+In progress
+Generation : 8408
+In progress
+Generation : 8409
+In progress
+Generation : 8410
+In progress
+Generation : 8411
+In progress
+Generation : 8412
+In progress
+Generation : 8413
+In progress
+Generation : 8414
+In progress
+Generation : 8415
+In progress
+Generation : 8416
+In progress
+Generation : 8417
+In progress
+Generation : 8418
+In progress
+Generation : 8419
+In progress
+Generation : 8420
+In progress
+Generation : 8421
+In progress
+Generation : 8422
+In progress
+Generation : 8423
+In progress
+Generation : 8424
+In progress
+Generation : 8425
+In progress
+Generation : 8426
+In progress
+Generation : 8427
+In progress
+Generation : 8428
+In progress
+Generation : 8429
+In progress
+Generation : 8430
+In progress
+Generation : 8431
+In progress
+Generation : 8432
+In progress
+Generation : 8433
+In progress
+Generation : 8434
+In progress
+Generation : 8435
+22644287138239: FIXED
+Generation : 8436
+22644287138239: FIXED
+Generation : 8437
+22644287138239: FIXED
+Generation : 8438
+22644287138239: FIXED
+Generation : 8439
+22644287138239: FIXED
+Generation : 8440
+22644287138239: FIXED
+Generation : 8441
+22644287138239: FIXED
+Generation : 8442
+22644287138239: FIXED
+Generation : 8443
+22644287138239: FIXED
+Generation : 8444
+22644287138239: FIXED
+Generation : 8445
+22644287138239: FIXED
+Generation : 8446
+22644287138239: FIXED
+Generation : 8447
+22644287138239: FIXED
+Generation : 8448
+22644287138239: FIXED
+Generation : 8449
+22644287138239: FIXED
+Generation : 8450
+22644287138239: FIXED
+Generation : 8451
+22644287138239: FIXED
+Generation : 8452
+22644287138239: FIXED
+Generation : 8453
+22644287138239: FIXED
+Generation : 8454
+22644287138239: FIXED
+Generation : 8455
+22644287138239: FIXED
+Generation : 8456
+22644287138239: FIXED
+Generation : 8457
+22644287138239: FIXED
+Generation : 8458
+22644287138239: FIXED
+Generation : 8459
+22644287138239: FIXED
+Generation : 8460
+22644287138239: FIXED
+Generation : 8461
+22644287138239: FIXED
+Generation : 8462
+22644287138239: FIXED
+Generation : 8463
+22644287138239: FIXED
+Generation : 8464
+22644287138239: FIXED
+Generation : 8465
+22644287138239: FIXED
+Generation : 8466
+22644287138239: FIXED
+Generation : 8467
+22644287138239: FIXED
+Generation : 8468
+22644287138239: FIXED
+Generation : 8469
+22644287138239: FIXED
+Generation : 8470
+22644287138239: FIXED
+Generation : 8471
+22644287138239: FIXED
+Generation : 8472
+22644287138239: FIXED
+Generation : 8473
+22644287138239: FIXED
+Generation : 8474
+22644287138239: FIXED
+Generation : 8475
+22644287138239: FIXED
+Generation : 8476
+22644287138239: FIXED
+Generation : 8477
+22644287138239: FIXED
+Generation : 8478
+22644287138239: FIXED
+Generation : 8479
+22644287138239: FIXED
+Generation : 8480
+22644287138239: FIXED
+Generation : 8481
+22644287138239: FIXED
+Generation : 8482
+22644287138239: FIXED
+Generation : 8483
+22644287138239: FIXED
+Generation : 8484
+22644287138239: FIXED
+Generation : 8485
+22644287138239: FIXED
+Generation : 8486
+22644287138239: FIXED
+Generation : 8487
+22644287138239: FIXED
+Generation : 8488
+22644287138239: FIXED
+Generation : 8489
+22644287138239: FIXED
+Generation : 8490
+22644287138239: FIXED
+Generation : 8491
+22644287138239: FIXED
+Generation : 8492
+22644287138239: FIXED
+Generation : 8493
+22644287138239: FIXED
+Generation : 8494
+22644287138239: FIXED
+Generation : 8495
+22644287138239: FIXED
+Generation : 8496
+22644287138239: FIXED
+Generation : 8497
+22644287138239: FIXED
+Generation : 8498
+22644287138239: FIXED
+Generation : 8499
+22644287138239: FIXED
+Generation : 8500
+22644287138239: FIXED
+Generation : 8501
+22644287138239: FIXED
+Generation : 8502
+22644287138239: FIXED
+Generation : 8503
+22644287138239: FIXED
+Generation : 8504
+22644287138239: FIXED
+Generation : 8505
+22644287138239: FIXED
+Generation : 8506
+22644287138239: FIXED
+Generation : 8507
+22644287138239: FIXED
+Generation : 8508
+22644287138239: FIXED
+Generation : 8509
+22644287138239: FIXED
+Generation : 8510
+22644287138239: FIXED
+Generation : 8511
+22644287138239: FIXED
+Generation : 8512
+22644287138239: FIXED
+Generation : 8513
+22644287138239: FIXED
+Generation : 8514
+22644287138239: FIXED
+Generation : 8515
+22644287138239: FIXED
+Generation : 8516
+22644287138239: FIXED
+Generation : 8517
+22644287138239: FIXED
+Generation : 8518
+22644287138239: FIXED
+Generation : 8519
+22644287138239: FIXED
+Generation : 8520
+22644287138239: FIXED
+Generation : 8521
+22644287138239: FIXED
+Generation : 8522
+22644287138239: FIXED
+Generation : 8523
+22644287138239: FIXED
+Generation : 8524
+22644287138239: FIXED
+Generation : 8525
+22644287138239: FIXED
+Generation : 8526
+22644287138239: FIXED
+Generation : 8527
+22644287138239: FIXED
+Generation : 8528
+22644287138239: FIXED
+Generation : 8529
+22644287138239: FIXED
+Generation : 8530
+22644287138239: FIXED
+Generation : 8531
+22644287138239: FIXED
+Generation : 8532
+22644287138239: FIXED
+Generation : 8533
+22644287138239: FIXED
+Generation : 8534
+22644287138239: FIXED
+Generation : 8535
+22644287138239: FIXED
+Generation : 8536
+22644287138239: FIXED
+Generation : 8537
+22644287138239: FIXED
+Generation : 8538
+22644287138239: FIXED
+Generation : 8539
+22644287138239: FIXED
+Generation : 8540
+22644287138239: FIXED
+Generation : 8541
+22644287138239: FIXED
+Generation : 8542
+22644287138239: FIXED
+Generation : 8543
+22644287138239: FIXED
+Generation : 8544
+22644287138239: FIXED
+Generation : 8545
+22644287138239: FIXED
+Generation : 8546
+22644287138239: FIXED
+Generation : 8547
+22644287138239: FIXED
+Generation : 8548
+22644287138239: FIXED
+Generation : 8549
+22644287138239: FIXED
+Generation : 8550
+22644287138239: FIXED
+Generation : 8551
+22644287138239: FIXED
+Generation : 8552
+22644287138239: FIXED
+Generation : 8553
+22644287138239: FIXED
+Generation : 8554
+22644287138239: FIXED
+Generation : 8555
+22644287138239: FIXED
+Generation : 8556
+22644287138239: FIXED
+Generation : 8557
+22644287138239: FIXED
+Generation : 8558
+22644287138239: FIXED
+Generation : 8559
+22644287138239: FIXED
+Generation : 8560
+22644287138239: FIXED
+Generation : 8561
+22644287138239: FIXED
+Generation : 8562
+22644287138239: FIXED
+Generation : 8563
+22644287138239: FIXED
+Generation : 8564
+22644287138239: FIXED
+Generation : 8565
+22644287138239: FIXED
+Generation : 8566
+22644287138239: FIXED
+Generation : 8567
+22644287138239: FIXED
+Generation : 8568
+22644287138239: FIXED
+Generation : 8569
+22644287138239: FIXED
+Generation : 8570
+22644287138239: FIXED
+Generation : 8571
+22644287138239: FIXED
+Generation : 8572
+22644287138239: FIXED
+Generation : 8573
+22644287138239: FIXED
+Generation : 8574
+22644287138239: FIXED
+Generation : 8575
+22644287138239: FIXED
+Generation : 8576
+22644287138239: FIXED
+Generation : 8577
+22644287138239: FIXED
+Generation : 8578
+22644287138239: FIXED
+Generation : 8579
+22644287138239: FIXED
+Generation : 8580
+22644287138239: FIXED
+Generation : 8581
+22644287138239: FIXED
+Generation : 8582
+22644287138239: FIXED
+Generation : 8583
+22644287138239: FIXED
+Generation : 8584
+22644287138239: FIXED
+Generation : 8585
+22644287138239: FIXED
+Generation : 8586
+22644287138239: FIXED
+Generation : 8587
+22644287138239: FIXED
+Generation : 8588
+22644287138239: FIXED
+Generation : 8589
+22644287138239: FIXED
+Generation : 8590
+22644287138239: FIXED
+Generation : 8591
+22644287138239: FIXED
+Generation : 8592
+22644287138239: FIXED
+Generation : 8593
+22644287138239: FIXED
+Generation : 8594
+22644287138239: FIXED
+Generation : 8595
+22644287138239: FIXED
+Generation : 8596
+22644287138239: FIXED
+Generation : 8597
+22644287138239: FIXED
+Generation : 8598
+22644287138239: FIXED
+Generation : 8599
+22644287138239: FIXED
+Generation : 8600
+22644287138239: FIXED
+Generation : 8601
+22644287138239: FIXED
+Generation : 8602
+22644287138239: FIXED
+Generation : 8603
+22644287138239: FIXED
+Generation : 8604
+22644287138239: FIXED
+Generation : 8605
+22644287138239: FIXED
+Generation : 8606
+22644287138239: FIXED
+Generation : 8607
+22644287138239: FIXED
+Generation : 8608
+22644287138239: FIXED
+Generation : 8609
+22644287138239: FIXED
+Generation : 8610
+22644287138239: FIXED
+Generation : 8611
+22644287138239: FIXED
+Generation : 8612
+22644287138239: FIXED
+Generation : 8613
+22644287138239: FIXED
+Generation : 8614
+22644287138239: FIXED
+Generation : 8615
+22644287138239: FIXED
+Generation : 8616
+22644287138239: FIXED
+Generation : 8617
+22644287138239: FIXED
+Generation : 8618
+22644287138239: FIXED
+Generation : 8619
+22644287138239: FIXED
+Generation : 8620
+22644287138239: FIXED
+Generation : 8621
+22644287138239: FIXED
+Generation : 8622
+22644287138239: FIXED
+Generation : 8623
+22644287138239: FIXED
+Generation : 8624
+22644287138239: FIXED
+Generation : 8625
+22644287138239: FIXED
+Generation : 8626
+22644287138239: FIXED
+Generation : 8627
+22644287138239: FIXED
+Generation : 8628
+22644287138239: FIXED
+Generation : 8629
+22644287138239: FIXED
+Generation : 8630
+22644287138239: FIXED
+Generation : 8631
+22644287138239: FIXED
+Generation : 8632
+22644287138239: FIXED
+Generation : 8633
+22644287138239: FIXED
+Generation : 8634
+22644287138239: FIXED
+Generation : 8635
+22644287138239: FIXED
+Generation : 8636
+22644287138239: FIXED
+Generation : 8637
+22644287138239: FIXED
+Generation : 8638
+22644287138239: FIXED
+Generation : 8639
+22644287138239: FIXED
+Generation : 8640
+22644287138239: FIXED
+Generation : 8641
+22644287138239: FIXED
+Generation : 8642
+22644287138239: FIXED
+Generation : 8643
+22644287138239: FIXED
+Generation : 8644
+22644287138239: FIXED
+Generation : 8645
+22644287138239: FIXED
+Generation : 8646
+22644287138239: FIXED
+Generation : 8647
+22644287138239: FIXED
+Generation : 8648
+22644287138239: FIXED
+Generation : 8649
+22644287138239: FIXED
+Generation : 8650
+22644287138239: FIXED
+Generation : 8651
+22644287138239: FIXED
+Generation : 8652
+22644287138239: FIXED
+Generation : 8653
+22644287138239: FIXED
+Generation : 8654
+22644287138239: FIXED
+Generation : 8655
+22644287138239: FIXED
+Generation : 8656
+22644287138239: FIXED
+Generation : 8657
+22644287138239: FIXED
+Generation : 8658
+22644287138239: FIXED
+Generation : 8659
+22644287138239: FIXED
+Generation : 8660
+22644287138239: FIXED
+Generation : 8661
+22644287138239: FIXED
+Generation : 8662
+22644287138239: FIXED
+Generation : 8663
+22644287138239: FIXED
+Generation : 8664
+22644287138239: FIXED
+Generation : 8665
+22644287138239: FIXED
+Generation : 8666
+22644287138239: FIXED
+Generation : 8667
+22644287138239: FIXED
+Generation : 8668
+22644287138239: FIXED
+Generation : 8669
+22644287138239: FIXED
+Generation : 8670
+22644287138239: FIXED
+Generation : 8671
+22644287138239: FIXED
+Generation : 8672
+22644287138239: FIXED
+Generation : 8673
+22644287138239: FIXED
+Generation : 8674
+22644287138239: FIXED
+Generation : 8675
+22644287138239: FIXED
+Generation : 8676
+22644287138239: FIXED
+Generation : 8677
+22644287138239: FIXED
+Generation : 8678
+22644287138239: FIXED
+Generation : 8679
+22644287138239: FIXED
+Generation : 8680
+22644287138239: FIXED
+Generation : 8681
+22644287138239: FIXED
+Generation : 8682
+22644287138239: FIXED
+Generation : 8683
+22644287138239: FIXED
+Generation : 8684
+22644287138239: FIXED
+Generation : 8685
+22644287138239: FIXED
+Generation : 8686
+22644287138239: FIXED
+Generation : 8687
+22644287138239: FIXED
+Generation : 8688
+22644287138239: FIXED
+Generation : 8689
+22644287138239: FIXED
+Generation : 8690
+22644287138239: FIXED
+Generation : 8691
+22644287138239: FIXED
+Generation : 8692
+22644287138239: FIXED
+Generation : 8693
+22644287138239: FIXED
+Generation : 8694
+22644287138239: FIXED
+Generation : 8695
+22644287138239: FIXED
+Generation : 8696
+22644287138239: FIXED
+Generation : 8697
+22644287138239: FIXED
+Generation : 8698
+22644287138239: FIXED
+Generation : 8699
+22644287138239: FIXED
+Generation : 8700
+22644287138239: FIXED
+Generation : 8701
+22644287138239: FIXED
+Generation : 8702
+22644287138239: FIXED
+Generation : 8703
+22644287138239: FIXED
+Generation : 8704
+22644287138239: FIXED
+Generation : 8705
+22644287138239: FIXED
+Generation : 8706
+22644287138239: FIXED
+Generation : 8707
+22644287138239: FIXED
+Generation : 8708
+22644287138239: FIXED
+Generation : 8709
+22644287138239: FIXED
+Generation : 8710
+22644287138239: FIXED
+Generation : 8711
+22644287138239: FIXED
+Generation : 8712
+22644287138239: FIXED
+Generation : 8713
+22644287138239: FIXED
+Generation : 8714
+22644287138239: FIXED
+Generation : 8715
+22644287138239: FIXED
+Generation : 8716
+22644287138239: FIXED
+Generation : 8717
+22644287138239: FIXED
+Generation : 8718
+22644287138239: FIXED
+Generation : 8719
+22644287138239: FIXED
+Generation : 8720
+22644287138239: FIXED
+Generation : 8721
+22644287138239: FIXED
+Generation : 8722
+22644287138239: FIXED
+Generation : 8723
+22644287138239: FIXED
+Generation : 8724
+22644287138239: FIXED
+Generation : 8725
+22644287138239: FIXED
+Generation : 8726
+22644287138239: FIXED
+Generation : 8727
+22644287138239: FIXED
+Generation : 8728
+22644287138239: FIXED
+Generation : 8729
+22644287138239: FIXED
+Generation : 8730
+22644287138239: FIXED
+Generation : 8731
+22644287138239: FIXED
+Generation : 8732
+22644287138239: FIXED
+Generation : 8733
+22644287138239: FIXED
+Generation : 8734
+22644287138239: FIXED
+Generation : 8735
+22644287138239: FIXED
+Generation : 8736
+22644287138239: FIXED
+Generation : 8737
+22644287138239: FIXED
+Generation : 8738
+22644287138239: FIXED
+Generation : 8739
+22644287138239: FIXED
+Generation : 8740
+22644287138239: FIXED
+Generation : 8741
+22644287138239: FIXED
+Generation : 8742
+22644287138239: FIXED
+Generation : 8743
+22644287138239: FIXED
+Generation : 8744
+22644287138239: FIXED
+Generation : 8745
+22644287138239: FIXED
+Generation : 8746
+22644287138239: FIXED
+Generation : 8747
+22644287138239: FIXED
+Generation : 8748
+22644287138239: FIXED
+Generation : 8749
+22644287138239: FIXED
+Generation : 8750
+22644287138239: FIXED
+Generation : 8751
+22644287138239: FIXED
+Generation : 8752
+22644287138239: FIXED
+Generation : 8753
+22644287138239: FIXED
+Generation : 8754
+22644287138239: FIXED
+Generation : 8755
+22644287138239: FIXED
+Generation : 8756
+22644287138239: FIXED
+Generation : 8757
+22644287138239: FIXED
+Generation : 8758
+22644287138239: FIXED
+Generation : 8759
+22644287138239: FIXED
+Generation : 8760
+22644287138239: FIXED
+Generation : 8761
+22644287138239: FIXED
+Generation : 8762
+22644287138239: FIXED
+Generation : 8763
+22644287138239: FIXED
+Generation : 8764
+22644287138239: FIXED
+Generation : 8765
+22644287138239: FIXED
+Generation : 8766
+22644287138239: FIXED
+Generation : 8767
+22644287138239: FIXED
+Generation : 8768
+22644287138239: FIXED
+Generation : 8769
+22644287138239: FIXED
+Generation : 8770
+22644287138239: FIXED
+Generation : 8771
+22644287138239: FIXED
+Generation : 8772
+22644287138239: FIXED
+Generation : 8773
+22644287138239: FIXED
+Generation : 8774
+22644287138239: FIXED
+Generation : 8775
+22644287138239: FIXED
+Generation : 8776
+22644287138239: FIXED
+Generation : 8777
+22644287138239: FIXED
+Generation : 8778
+22644287138239: FIXED
+Generation : 8779
+22644287138239: FIXED
+Generation : 8780
+22644287138239: FIXED
+Generation : 8781
+22644287138239: FIXED
+Generation : 8782
+22644287138239: FIXED
+Generation : 8783
+22644287138239: FIXED
+Generation : 8784
+22644287138239: FIXED
+Generation : 8785
+22644287138239: FIXED
+Generation : 8786
+22644287138239: FIXED
+Generation : 8787
+22644287138239: FIXED
+Generation : 8788
+22644287138239: FIXED
+Generation : 8789
+22644287138239: FIXED
+Generation : 8790
+22644287138239: FIXED
+Generation : 8791
+22644287138239: FIXED
+Generation : 8792
+22644287138239: FIXED
+Generation : 8793
+22644287138239: FIXED
+Generation : 8794
+22644287138239: FIXED
+Generation : 8795
+22644287138239: FIXED
+Generation : 8796
+22644287138239: FIXED
+Generation : 8797
+22644287138239: FIXED
+Generation : 8798
+22644287138239: FIXED
+Generation : 8799
+22644287138239: FIXED
+Generation : 8800
+22644287138239: FIXED
+Generation : 8801
+22644287138239: FIXED
+Generation : 8802
+22644287138239: FIXED
+Generation : 8803
+22644287138239: FIXED
+Generation : 8804
+22644287138239: FIXED
+Generation : 8805
+22644287138239: FIXED
+Generation : 8806
+22644287138239: FIXED
+Generation : 8807
+22644287138239: FIXED
+Generation : 8808
+22644287138239: FIXED
+Generation : 8809
+22644287138239: FIXED
+Generation : 8810
+22644287138239: FIXED
+Generation : 8811
+22644287138239: FIXED
+Generation : 8812
+22644287138239: FIXED
+Generation : 8813
+22644287138239: FIXED
+Generation : 8814
+22644287138239: FIXED
+Generation : 8815
+22644287138239: FIXED
+Generation : 8816
+22644287138239: FIXED
+Generation : 8817
+22644287138239: FIXED
+Generation : 8818
+22644287138239: FIXED
+Generation : 8819
+22644287138239: FIXED
+Generation : 8820
+22644287138239: FIXED
+Generation : 8821
+22644287138239: FIXED
+Generation : 8822
+22644287138239: FIXED
+Generation : 8823
+22644287138239: FIXED
+Generation : 8824
+22644287138239: FIXED
+Generation : 8825
+22644287138239: FIXED
+Generation : 8826
+22644287138239: FIXED
+Generation : 8827
+22644287138239: FIXED
+Generation : 8828
+22644287138239: FIXED
+Generation : 8829
+22644287138239: FIXED
+Generation : 8830
+22644287138239: FIXED
+Generation : 8831
+22644287138239: FIXED
+Generation : 8832
+22644287138239: FIXED
+Generation : 8833
+22644287138239: FIXED
+Generation : 8834
+22644287138239: FIXED
+Generation : 8835
+22644287138239: FIXED
+Generation : 8836
+22644287138239: FIXED
+Generation : 8837
+22644287138239: FIXED
+Generation : 8838
+22644287138239: FIXED
+Generation : 8839
+22644287138239: FIXED
+Generation : 8840
+22644287138239: FIXED
+Generation : 8841
+22644287138239: FIXED
+Generation : 8842
+22644287138239: FIXED
+Generation : 8843
+22644287138239: FIXED
+Generation : 8844
+22644287138239: FIXED
+Generation : 8845
+22644287138239: FIXED
+Generation : 8846
+22644287138239: FIXED
+Generation : 8847
+22644287138239: FIXED
+Generation : 8848
+22644287138239: FIXED
+Generation : 8849
+22644287138239: FIXED
+Generation : 8850
+22644287138239: FIXED
+Generation : 8851
+22644287138239: FIXED
+Generation : 8852
+22644287138239: FIXED
+Generation : 8853
+22644287138239: FIXED
+Generation : 8854
+22644287138239: FIXED
+Generation : 8855
+22644287138239: FIXED
+Generation : 8856
+22644287138239: FIXED
+Generation : 8857
+22644287138239: FIXED
+Generation : 8858
+22644287138239: FIXED
+Generation : 8859
+22644287138239: FIXED
+Generation : 8860
+22644287138239: FIXED
+Generation : 8861
+22644287138239: FIXED
+Generation : 8862
+22644287138239: FIXED
+Generation : 8863
+22644287138239: FIXED
+Generation : 8864
+22644287138239: FIXED
+Generation : 8865
+22644287138239: FIXED
+Generation : 8866
+22644287138239: FIXED
+Generation : 8867
+22644287138239: FIXED
+Generation : 8868
+22644287138239: FIXED
+Generation : 8869
+22644287138239: FIXED
+Generation : 8870
+22644287138239: FIXED
+Generation : 8871
+22644287138239: FIXED
+Generation : 8872
+22644287138239: FIXED
+Generation : 8873
+22644287138239: FIXED
+Generation : 8874
+22644287138239: FIXED
+Generation : 8875
+22644287138239: FIXED
+Generation : 8876
+22644287138239: FIXED
+Generation : 8877
+22644287138239: FIXED
+Generation : 8878
+22644287138239: FIXED
+Generation : 8879
+22644287138239: FIXED
+Generation : 8880
+22644287138239: FIXED
+Generation : 8881
+22644287138239: FIXED
+Generation : 8882
+22644287138239: FIXED
+Generation : 8883
+22644287138239: FIXED
+Generation : 8884
+22644287138239: FIXED
+Generation : 8885
+22644287138239: FIXED
+Generation : 8886
+22644287138239: FIXED
+Generation : 8887
+22644287138239: FIXED
+Generation : 8888
+22644287138239: FIXED
+Generation : 8889
+22644287138239: FIXED
+Generation : 8890
+22644287138239: FIXED
+Generation : 8891
+22644287138239: FIXED
+Generation : 8892
+22644287138239: FIXED
+Generation : 8893
+22644287138239: FIXED
+Generation : 8894
+22644287138239: FIXED
+Generation : 8895
+22644287138239: FIXED
+Generation : 8896
+22644287138239: FIXED
+Generation : 8897
+22644287138239: FIXED
+Generation : 8898
+22644287138239: FIXED
+Generation : 8899
+22644287138239: FIXED
+Generation : 8900
+22644287138239: FIXED
+Generation : 8901
+22644287138239: FIXED
+Generation : 8902
+22644287138239: FIXED
+Generation : 8903
+22644287138239: FIXED
+Generation : 8904
+22644287138239: FIXED
+Generation : 8905
+22644287138239: FIXED
+Generation : 8906
+22644287138239: FIXED
+Generation : 8907
+22644287138239: FIXED
+Generation : 8908
+22644287138239: FIXED
+Generation : 8909
+22644287138239: FIXED
+Generation : 8910
+22644287138239: FIXED
+Generation : 8911
+22644287138239: FIXED
+Generation : 8912
+22644287138239: FIXED
+Generation : 8913
+22644287138239: FIXED
+Generation : 8914
+22644287138239: FIXED
+Generation : 8915
+22644287138239: FIXED
+Generation : 8916
+22644287138239: FIXED
+Generation : 8917
+22644287138239: FIXED
+Generation : 8918
+22644287138239: FIXED
+Generation : 8919
+22644287138239: FIXED
+Generation : 8920
+22644287138239: FIXED
+Generation : 8921
+22644287138239: FIXED
+Generation : 8922
+22644287138239: FIXED
+Generation : 8923
+22644287138239: FIXED
+Generation : 8924
+22644287138239: FIXED
+Generation : 8925
+22644287138239: FIXED
+Generation : 8926
+22644287138239: FIXED
+Generation : 8927
+22644287138239: FIXED
+Generation : 8928
+22644287138239: FIXED
+Generation : 8929
+22644287138239: FIXED
+Generation : 8930
+22644287138239: FIXED
+Generation : 8931
+22644287138239: FIXED
+Generation : 8932
+22644287138239: FIXED
+Generation : 8933
+22644287138239: FIXED
+Generation : 8934
+22644287138239: FIXED
+Generation : 8935
+22644287138239: FIXED
+Generation : 8936
+22644287138239: FIXED
+Generation : 8937
+22644287138239: FIXED
+Generation : 8938
+22644287138239: FIXED
+Generation : 8939
+22644287138239: FIXED
+Generation : 8940
+22644287138239: FIXED
+Generation : 8941
+22644287138239: FIXED
+Generation : 8942
+22644287138239: FIXED
+Generation : 8943
+22644287138239: FIXED
+Generation : 8944
+22644287138239: FIXED
+Generation : 8945
+22644287138239: FIXED
+Generation : 8946
+22644287138239: FIXED
+Generation : 8947
+22644287138239: FIXED
+Generation : 8948
+22644287138239: FIXED
+Generation : 8949
+22644287138239: FIXED
+Generation : 8950
+22644287138239: FIXED
+Generation : 8951
+22644287138239: FIXED
+Generation : 8952
+22644287138239: FIXED
+Generation : 8953
+22644287138239: FIXED
+Generation : 8954
+22644287138239: FIXED
+Generation : 8955
+22644287138239: FIXED
+Generation : 8956
+22644287138239: FIXED
+Generation : 8957
+22644287138239: FIXED
+Generation : 8958
+22644287138239: FIXED
+Generation : 8959
+22644287138239: FIXED
+Generation : 8960
+22644287138239: FIXED
+Generation : 8961
+22644287138239: FIXED
+Generation : 8962
+22644287138239: FIXED
+Generation : 8963
+22644287138239: FIXED
+Generation : 8964
+22644287138239: FIXED
+Generation : 8965
+22644287138239: FIXED
+Generation : 8966
+22644287138239: FIXED
+Generation : 8967
+22644287138239: FIXED
+Generation : 8968
+22644287138239: FIXED
+Generation : 8969
+22644287138239: FIXED
+Generation : 8970
+22644287138239: FIXED
+Generation : 8971
+22644287138239: FIXED
+Generation : 8972
+22644287138239: FIXED
+Generation : 8973
+22644287138239: FIXED
+Generation : 8974
+22644287138239: FIXED
+Generation : 8975
+22644287138239: FIXED
+Generation : 8976
+22644287138239: FIXED
+Generation : 8977
+22644287138239: FIXED
+Generation : 8978
+22644287138239: FIXED
+Generation : 8979
+22644287138239: FIXED
+Generation : 8980
+22644287138239: FIXED
+Generation : 8981
+22644287138239: FIXED
+Generation : 8982
+22644287138239: FIXED
+Generation : 8983
+22644287138239: FIXED
+Generation : 8984
+22644287138239: FIXED
+Generation : 8985
+22644287138239: FIXED
+Generation : 8986
+22644287138239: FIXED
+Generation : 8987
+22644287138239: FIXED
+Generation : 8988
+22644287138239: FIXED
+Generation : 8989
+22644287138239: FIXED
+Generation : 8990
+22644287138239: FIXED
+Generation : 8991
+22644287138239: FIXED
+Generation : 8992
+22644287138239: FIXED
+Generation : 8993
+22644287138239: FIXED
+Generation : 8994
+22644287138239: FIXED
+Generation : 8995
+22644287138239: FIXED
+Generation : 8996
+22644287138239: FIXED
+Generation : 8997
+22644287138239: FIXED
+Generation : 8998
+22644287138239: FIXED
+Generation : 8999
+22644287138239: FIXED
+Generation : 9000
+22644287138239: FIXED
+Generation : 9001
+22644287138239: FIXED
+Generation : 9002
+22644287138239: FIXED
+Generation : 9003
+22644287138239: FIXED
+Generation : 9004
+22644287138239: FIXED
+Generation : 9005
+22644287138239: FIXED
+Generation : 9006
+22644287138239: FIXED
+Generation : 9007
+22644287138239: FIXED
+Generation : 9008
+22644287138239: FIXED
+Generation : 9009
+22644287138239: FIXED
+Generation : 9010
+22644287138239: FIXED
+Generation : 9011
+22644287138239: FIXED
+Generation : 9012
+22644287138239: FIXED
+Generation : 9013
+22644287138239: FIXED
+Generation : 9014
+22644287138239: FIXED
+Generation : 9015
+22644287138239: FIXED
+Generation : 9016
+22644287138239: FIXED
+Generation : 9017
+22644287138239: FIXED
+Generation : 9018
+22644287138239: FIXED
+Generation : 9019
+22644287138239: FIXED
+Generation : 9020
+22644287138239: FIXED
+Generation : 9021
+22644287138239: FIXED
+Generation : 9022
+22644287138239: FIXED
+Generation : 9023
+22644287138239: FIXED
+Generation : 9024
+22644287138239: FIXED
+Generation : 9025
+22644287138239: FIXED
+Generation : 9026
+22644287138239: FIXED
+Generation : 9027
+22644287138239: FIXED
+Generation : 9028
+22644287138239: FIXED
+Generation : 9029
+22644287138239: FIXED
+Generation : 9030
+22644287138239: FIXED
+Generation : 9031
+22644287138239: FIXED
+Generation : 9032
+22644287138239: FIXED
+Generation : 9033
+22644287138239: FIXED
+Generation : 9034
+22644287138239: FIXED
+Generation : 9035
+22644287138239: FIXED
+Generation : 9036
+22644287138239: FIXED
+Generation : 9037
+22644287138239: FIXED
+Generation : 9038
+22644287138239: FIXED
+Generation : 9039
+22644287138239: FIXED
+Generation : 9040
+22644287138239: FIXED
+Generation : 9041
+22644287138239: FIXED
+Generation : 9042
+22644287138239: FIXED
+Generation : 9043
+22644287138239: FIXED
+Generation : 9044
+22644287138239: FIXED
+Generation : 9045
+22644287138239: FIXED
+Generation : 9046
+22644287138239: FIXED
+Generation : 9047
+22644287138239: FIXED
+Generation : 9048
+22644287138239: FIXED
+Generation : 9049
+22644287138239: FIXED
+Generation : 9050
+22644287138239: FIXED
+Generation : 9051
+22644287138239: FIXED
+Generation : 9052
+22644287138239: FIXED
+Generation : 9053
+22644287138239: FIXED
+Generation : 9054
+22644287138239: FIXED
+Generation : 9055
+22644287138239: FIXED
+Generation : 9056
+22644287138239: FIXED
+Generation : 9057
+22644287138239: FIXED
+Generation : 9058
+22644287138239: FIXED
+Generation : 9059
+22644287138239: FIXED
+Generation : 9060
+22644287138239: FIXED
+Generation : 9061
+22644287138239: FIXED
+Generation : 9062
+22644287138239: FIXED
+Generation : 9063
+22644287138239: FIXED
+Generation : 9064
+22644287138239: FIXED
+Generation : 9065
+22644287138239: FIXED
+Generation : 9066
+22644287138239: FIXED
+Generation : 9067
+22644287138239: FIXED
+Generation : 9068
+22644287138239: FIXED
+Generation : 9069
+22644287138239: FIXED
+Generation : 9070
+22644287138239: FIXED
+Generation : 9071
+22644287138239: FIXED
+Generation : 9072
+22644287138239: FIXED
+Generation : 9073
+22644287138239: FIXED
+Generation : 9074
+22644287138239: FIXED
+Generation : 9075
+22644287138239: FIXED
+Generation : 9076
+22644287138239: FIXED
+Generation : 9077
+22644287138239: FIXED
+Generation : 9078
+22644287138239: FIXED
+Generation : 9079
+22644287138239: FIXED
+Generation : 9080
+22644287138239: FIXED
+Generation : 9081
+22644287138239: FIXED
+Generation : 9082
+22644287138239: FIXED
+Generation : 9083
+22644287138239: FIXED
+Generation : 9084
+22644287138239: FIXED
+Generation : 9085
+22644287138239: FIXED
+Generation : 9086
+22644287138239: FIXED
+Generation : 9087
+22644287138239: FIXED
+Generation : 9088
+22644287138239: FIXED
+Generation : 9089
+22644287138239: FIXED
+Generation : 9090
+22644287138239: FIXED
+Generation : 9091
+22644287138239: FIXED
+Generation : 9092
+22644287138239: FIXED
+Generation : 9093
+22644287138239: FIXED
+Generation : 9094
+22644287138239: FIXED
+Generation : 9095
+22644287138239: FIXED
+Generation : 9096
+22644287138239: FIXED
+Generation : 9097
+22644287138239: FIXED
+Generation : 9098
+22644287138239: FIXED
+Generation : 9099
+22644287138239: FIXED
+Generation : 9100
+22644287138239: FIXED
+Generation : 9101
+22644287138239: FIXED
+Generation : 9102
+22644287138239: FIXED
+Generation : 9103
+22644287138239: FIXED
+Generation : 9104
+22644287138239: FIXED
+Generation : 9105
+22644287138239: FIXED
+Generation : 9106
+22644287138239: FIXED
+Generation : 9107
+22644287138239: FIXED
+Generation : 9108
+22644287138239: FIXED
+Generation : 9109
+22644287138239: FIXED
+Generation : 9110
+22644287138239: FIXED
+Generation : 9111
+22644287138239: FIXED
+Generation : 9112
+22644287138239: FIXED
+Generation : 9113
+22644287138239: FIXED
+Generation : 9114
+22644287138239: FIXED
+Generation : 9115
+22644287138239: FIXED
+Generation : 9116
+22644287138239: FIXED
+Generation : 9117
+22644287138239: FIXED
+Generation : 9118
+22644287138239: FIXED
+Generation : 9119
+22644287138239: FIXED
+Generation : 9120
+22644287138239: FIXED
+Generation : 9121
+22644287138239: FIXED
+Generation : 9122
+22644287138239: FIXED
+Generation : 9123
+22644287138239: FIXED
+Generation : 9124
+22644287138239: FIXED
+Generation : 9125
+22644287138239: FIXED
+Generation : 9126
+22644287138239: FIXED
+Generation : 9127
+22644287138239: FIXED
+Generation : 9128
+22644287138239: FIXED
+Generation : 9129
+22644287138239: FIXED
+Generation : 9130
+22644287138239: FIXED
+Generation : 9131
+22644287138239: FIXED
+Generation : 9132
+22644287138239: FIXED
+Generation : 9133
+22644287138239: FIXED
+Generation : 9134
+22644287138239: FIXED
+Generation : 9135
+22644287138239: FIXED
+Generation : 9136
+22644287138239: FIXED
+Generation : 9137
+22644287138239: FIXED
+Generation : 9138
+22644287138239: FIXED
+Generation : 9139
+22644287138239: FIXED
+Generation : 9140
+22644287138239: FIXED
+Generation : 9141
+22644287138239: FIXED
+Generation : 9142
+22644287138239: FIXED
+Generation : 9143
+22644287138239: FIXED
+Generation : 9144
+22644287138239: FIXED
+Generation : 9145
+22644287138239: FIXED
+Generation : 9146
+22644287138239: FIXED
+Generation : 9147
+22644287138239: FIXED
+Generation : 9148
+22644287138239: FIXED
+Generation : 9149
+22644287138239: FIXED
+Generation : 9150
+22644287138239: FIXED
+Generation : 9151
+22644287138239: FIXED
+Generation : 9152
+22644287138239: FIXED
+Generation : 9153
+22644287138239: FIXED
+Generation : 9154
+22644287138239: FIXED
+Generation : 9155
+22644287138239: FIXED
+Generation : 9156
+22644287138239: FIXED
+Generation : 9157
+22644287138239: FIXED
+Generation : 9158
+22644287138239: FIXED
+Generation : 9159
+22644287138239: FIXED
+Generation : 9160
+22644287138239: FIXED
+Generation : 9161
+22644287138239: FIXED
+Generation : 9162
+22644287138239: FIXED
+Generation : 9163
+22644287138239: FIXED
+Generation : 9164
+22644287138239: FIXED
+Generation : 9165
+22644287138239: FIXED
+Generation : 9166
+22644287138239: FIXED
+Generation : 9167
+22644287138239: FIXED
+Generation : 9168
+22644287138239: FIXED
+Generation : 9169
+22644287138239: FIXED
+Generation : 9170
+22644287138239: FIXED
+Generation : 9171
+22644287138239: FIXED
+Generation : 9172
+22644287138239: FIXED
+Generation : 9173
+22644287138239: FIXED
+Generation : 9174
+22644287138239: FIXED
+Generation : 9175
+22644287138239: FIXED
+Generation : 9176
+22644287138239: FIXED
+Generation : 9177
+22644287138239: FIXED
+Generation : 9178
+22644287138239: FIXED
+Generation : 9179
+22644287138239: FIXED
+Generation : 9180
+22644287138239: FIXED
+Generation : 9181
+22644287138239: FIXED
+Generation : 9182
+22644287138239: FIXED
+Generation : 9183
+22644287138239: FIXED
+Generation : 9184
+22644287138239: FIXED
+Generation : 9185
+22644287138239: FIXED
+Generation : 9186
+22644287138239: FIXED
+Generation : 9187
+22644287138239: FIXED
+Generation : 9188
+22644287138239: FIXED
+Generation : 9189
+22644287138239: FIXED
+Generation : 9190
+22644287138239: FIXED
+Generation : 9191
+22644287138239: FIXED
+Generation : 9192
+22644287138239: FIXED
+Generation : 9193
+22644287138239: FIXED
+Generation : 9194
+22644287138239: FIXED
+Generation : 9195
+22644287138239: FIXED
+Generation : 9196
+22644287138239: FIXED
+Generation : 9197
+22644287138239: FIXED
+Generation : 9198
+22644287138239: FIXED
+Generation : 9199
+22644287138239: FIXED
+Generation : 9200
+22644287138239: FIXED
+Generation : 9201
+22644287138239: FIXED
+Generation : 9202
+22644287138239: FIXED
+Generation : 9203
+22644287138239: FIXED
+Generation : 9204
+22644287138239: FIXED
+Generation : 9205
+22644287138239: FIXED
+Generation : 9206
+22644287138239: FIXED
+Generation : 9207
+22644287138239: FIXED
+Generation : 9208
+22644287138239: FIXED
+Generation : 9209
+22644287138239: FIXED
+Generation : 9210
+22644287138239: FIXED
+Generation : 9211
+22644287138239: FIXED
+Generation : 9212
+22644287138239: FIXED
+Generation : 9213
+22644287138239: FIXED
+Generation : 9214
+22644287138239: FIXED
+Generation : 9215
+22644287138239: FIXED
+Generation : 9216
+22644287138239: FIXED
+Generation : 9217
+22644287138239: FIXED
+Generation : 9218
+22644287138239: FIXED
+Generation : 9219
+22644287138239: FIXED
+Generation : 9220
+22644287138239: FIXED
+Generation : 9221
+22644287138239: FIXED
+Generation : 9222
+22644287138239: FIXED
+Generation : 9223
+22644287138239: FIXED
+Generation : 9224
+22644287138239: FIXED
+Generation : 9225
+22644287138239: FIXED
+Generation : 9226
+22644287138239: FIXED
+Generation : 9227
+22644287138239: FIXED
+Generation : 9228
+22644287138239: FIXED
+Generation : 9229
+22644287138239: FIXED
+Generation : 9230
+22644287138239: FIXED
+Generation : 9231
+22644287138239: FIXED
+Generation : 9232
+22644287138239: FIXED
+Generation : 9233
+22644287138239: FIXED
+Generation : 9234
+22644287138239: FIXED
+Generation : 9235
+22644287138239: FIXED
+Generation : 9236
+22644287138239: FIXED
+Generation : 9237
+22644287138239: FIXED
+Generation : 9238
+22644287138239: FIXED
+Generation : 9239
+22644287138239: FIXED
+Generation : 9240
+22644287138239: FIXED
+Generation : 9241
+22644287138239: FIXED
+Generation : 9242
+22644287138239: FIXED
+Generation : 9243
+22644287138239: FIXED
+Generation : 9244
+22644287138239: FIXED
+Generation : 9245
+22644287138239: FIXED
+Generation : 9246
+22644287138239: FIXED
+Generation : 9247
+22644287138239: FIXED
+Generation : 9248
+22644287138239: FIXED
+Generation : 9249
+22644287138239: FIXED
+Generation : 9250
+22644287138239: FIXED
+Generation : 9251
+22644287138239: FIXED
+Generation : 9252
+22644287138239: FIXED
+Generation : 9253
+22644287138239: FIXED
+Generation : 9254
+22644287138239: FIXED
+Generation : 9255
+22644287138239: FIXED
+Generation : 9256
+22644287138239: FIXED
+Generation : 9257
+22644287138239: FIXED
+Generation : 9258
+22644287138239: FIXED
+Generation : 9259
+22644287138239: FIXED
+Generation : 9260
+22644287138239: FIXED
+Generation : 9261
+22644287138239: FIXED
+Generation : 9262
+22644287138239: FIXED
+Generation : 9263
+22644287138239: FIXED
+Generation : 9264
+22644287138239: FIXED
+Generation : 9265
+22644287138239: FIXED
+Generation : 9266
+22644287138239: FIXED
+Generation : 9267
+22644287138239: FIXED
+Generation : 9268
+22644287138239: FIXED
+Generation : 9269
+22644287138239: FIXED
+Generation : 9270
+22644287138239: FIXED
+Generation : 9271
+22644287138239: FIXED
+Generation : 9272
+22644287138239: FIXED
+Generation : 9273
+22644287138239: FIXED
+Generation : 9274
+22644287138239: FIXED
+Generation : 9275
+22644287138239: FIXED
+Generation : 9276
+22644287138239: FIXED
+Generation : 9277
+22644287138239: FIXED
+Generation : 9278
+22644287138239: FIXED
+Generation : 9279
+22644287138239: FIXED
+Generation : 9280
+22644287138239: FIXED
+Generation : 9281
+22644287138239: FIXED
+Generation : 9282
+22644287138239: FIXED
+Generation : 9283
+22644287138239: FIXED
+Generation : 9284
+22644287138239: FIXED
+Generation : 9285
+22644287138239: FIXED
+Generation : 9286
+22644287138239: FIXED
+Generation : 9287
+22644287138239: FIXED
+Generation : 9288
+22644287138239: FIXED
+Generation : 9289
+22644287138239: FIXED
+Generation : 9290
+22644287138239: FIXED
+Generation : 9291
+22644287138239: FIXED
+Generation : 9292
+22644287138239: FIXED
+Generation : 9293
+22644287138239: FIXED
+Generation : 9294
+22644287138239: FIXED
+Generation : 9295
+22644287138239: FIXED
+Generation : 9296
+22644287138239: FIXED
+Generation : 9297
+22644287138239: FIXED
+Generation : 9298
+22644287138239: FIXED
+Generation : 9299
+22644287138239: FIXED
+Generation : 9300
+22644287138239: FIXED
+Generation : 9301
+22644287138239: FIXED
+Generation : 9302
+22644287138239: FIXED
+Generation : 9303
+22644287138239: FIXED
+Generation : 9304
+22644287138239: FIXED
+Generation : 9305
+22644287138239: FIXED
+Generation : 9306
+22644287138239: FIXED
+Generation : 9307
+22644287138239: FIXED
+Generation : 9308
+22644287138239: FIXED
+Generation : 9309
+22644287138239: FIXED
+Generation : 9310
+22644287138239: FIXED
+Generation : 9311
+22644287138239: FIXED
+Generation : 9312
+22644287138239: FIXED
+Generation : 9313
+22644287138239: FIXED
+Generation : 9314
+22644287138239: FIXED
+Generation : 9315
+22644287138239: FIXED
+Generation : 9316
+22644287138239: FIXED
+Generation : 9317
+22644287138239: FIXED
+Generation : 9318
+22644287138239: FIXED
+Generation : 9319
+22644287138239: FIXED
+Generation : 9320
+22644287138239: FIXED
+Generation : 9321
+22644287138239: FIXED
+Generation : 9322
+22644287138239: FIXED
+Generation : 9323
+22644287138239: FIXED
+Generation : 9324
+22644287138239: FIXED
+Generation : 9325
+22644287138239: FIXED
+Generation : 9326
+22644287138239: FIXED
+Generation : 9327
+22644287138239: FIXED
+Generation : 9328
+22644287138239: FIXED
+Generation : 9329
+22644287138239: FIXED
+Generation : 9330
+22644287138239: FIXED
+Generation : 9331
+22644287138239: FIXED
+Generation : 9332
+22644287138239: FIXED
+Generation : 9333
+22644287138239: FIXED
+Generation : 9334
+22644287138239: FIXED
+Generation : 9335
+22644287138239: FIXED
+Generation : 9336
+22644287138239: FIXED
+Generation : 9337
+22644287138239: FIXED
+Generation : 9338
+22644287138239: FIXED
+Generation : 9339
+22644287138239: FIXED
+Generation : 9340
+22644287138239: FIXED
+Generation : 9341
+22644287138239: FIXED
+Generation : 9342
+22644287138239: FIXED
+Generation : 9343
+22644287138239: FIXED
+Generation : 9344
+22644287138239: FIXED
+Generation : 9345
+22644287138239: FIXED
+Generation : 9346
+22644287138239: FIXED
+Generation : 9347
+22644287138239: FIXED
+Generation : 9348
+22644287138239: FIXED
+Generation : 9349
+22644287138239: FIXED
+Generation : 9350
+22644287138239: FIXED
+Generation : 9351
+22644287138239: FIXED
+Generation : 9352
+22644287138239: FIXED
+Generation : 9353
+22644287138239: FIXED
+Generation : 9354
+22644287138239: FIXED
+Generation : 9355
+22644287138239: FIXED
+Generation : 9356
+22644287138239: FIXED
+Generation : 9357
+22644287138239: FIXED
+Generation : 9358
+22644287138239: FIXED
+Generation : 9359
+22644287138239: FIXED
+Generation : 9360
+22644287138239: FIXED
+Generation : 9361
+22644287138239: FIXED
+Generation : 9362
+22644287138239: FIXED
+Generation : 9363
+22644287138239: FIXED
+Generation : 9364
+22644287138239: FIXED
+Generation : 9365
+22644287138239: FIXED
+Generation : 9366
+22644287138239: FIXED
+Generation : 9367
+22644287138239: FIXED
+Generation : 9368
+22644287138239: FIXED
+Generation : 9369
+22644287138239: FIXED
+Generation : 9370
+22644287138239: FIXED
+Generation : 9371
+22644287138239: FIXED
+Generation : 9372
+22644287138239: FIXED
+Generation : 9373
+22644287138239: FIXED
+Generation : 9374
+22644287138239: FIXED
+Generation : 9375
+22644287138239: FIXED
+Generation : 9376
+22644287138239: FIXED
+Generation : 9377
+22644287138239: FIXED
+Generation : 9378
+22644287138239: FIXED
+Generation : 9379
+22644287138239: FIXED
+Generation : 9380
+22644287138239: FIXED
+Generation : 9381
+22644287138239: FIXED
+Generation : 9382
+22644287138239: FIXED
+Generation : 9383
+22644287138239: FIXED
+Generation : 9384
+22644287138239: FIXED
+Generation : 9385
+22644287138239: FIXED
+Generation : 9386
+22644287138239: FIXED
+Generation : 9387
+22644287138239: FIXED
+Generation : 9388
+22644287138239: FIXED
+Generation : 9389
+22644287138239: FIXED
+Generation : 9390
+22644287138239: FIXED
+Generation : 9391
+22644287138239: FIXED
+Generation : 9392
+22644287138239: FIXED
+Generation : 9393
+22644287138239: FIXED
+Generation : 9394
+22644287138239: FIXED
+Generation : 9395
+22644287138239: FIXED
+Generation : 9396
+22644287138239: FIXED
+Generation : 9397
+22644287138239: FIXED
+Generation : 9398
+22644287138239: FIXED
+Generation : 9399
+22644287138239: FIXED
+Generation : 9400
+22644287138239: FIXED
+Generation : 9401
+22644287138239: FIXED
+Generation : 9402
+22644287138239: FIXED
+Generation : 9403
+22644287138239: FIXED
+Generation : 9404
+22644287138239: FIXED
+Generation : 9405
+22644287138239: FIXED
+Generation : 9406
+22644287138239: FIXED
+Generation : 9407
+22644287138239: FIXED
+Generation : 9408
+22644287138239: FIXED
+Generation : 9409
+22644287138239: FIXED
+Generation : 9410
+22644287138239: FIXED
+Generation : 9411
+22644287138239: FIXED
+Generation : 9412
+22644287138239: FIXED
+Generation : 9413
+22644287138239: FIXED
+Generation : 9414
+22644287138239: FIXED
+Generation : 9415
+22644287138239: FIXED
+Generation : 9416
+22644287138239: FIXED
+Generation : 9417
+22644287138239: FIXED
+Generation : 9418
+22644287138239: FIXED
+Generation : 9419
+22644287138239: FIXED
+Generation : 9420
+22644287138239: FIXED
+Generation : 9421
+22644287138239: FIXED
+Generation : 9422
+22644287138239: FIXED
+Generation : 9423
+22644287138239: FIXED
+Generation : 9424
+22644287138239: FIXED
+Generation : 9425
+22644287138239: FIXED
+Generation : 9426
+22644287138239: FIXED
+Generation : 9427
+22644287138239: FIXED
+Generation : 9428
+22644287138239: FIXED
+Generation : 9429
+22644287138239: FIXED
+Generation : 9430
+22644287138239: FIXED
+Generation : 9431
+22644287138239: FIXED
+Generation : 9432
+22644287138239: FIXED
+Generation : 9433
+22644287138239: FIXED
+Generation : 9434
+22644287138239: FIXED
+Generation : 9435
+22644287138239: FIXED
+Generation : 9436
+22644287138239: FIXED
+Generation : 9437
+22644287138239: FIXED
+Generation : 9438
+22644287138239: FIXED
+Generation : 9439
+22644287138239: FIXED
+Generation : 9440
+22644287138239: FIXED
+Generation : 9441
+22644287138239: FIXED
+Generation : 9442
+22644287138239: FIXED
+Generation : 9443
+22644287138239: FIXED
+Generation : 9444
+22644287138239: FIXED
+Generation : 9445
+22644287138239: FIXED
+Generation : 9446
+22644287138239: FIXED
+Generation : 9447
+22644287138239: FIXED
+Generation : 9448
+22644287138239: FIXED
+Generation : 9449
+22644287138239: FIXED
+Generation : 9450
+22644287138239: FIXED
+Generation : 9451
+22644287138239: FIXED
+Generation : 9452
+22644287138239: FIXED
+Generation : 9453
+22644287138239: FIXED
+Generation : 9454
+22644287138239: FIXED
+Generation : 9455
+22644287138239: FIXED
+Generation : 9456
+22644287138239: FIXED
+Generation : 9457
+22644287138239: FIXED
+Generation : 9458
+22644287138239: FIXED
+Generation : 9459
+22644287138239: FIXED
+Generation : 9460
+22644287138239: FIXED
+Generation : 9461
+22644287138239: FIXED
+Generation : 9462
+22644287138239: FIXED
+Generation : 9463
+22644287138239: FIXED
+Generation : 9464
+22644287138239: FIXED
+Generation : 9465
+22644287138239: FIXED
+Generation : 9466
+22644287138239: FIXED
+Generation : 9467
+22644287138239: FIXED
+Generation : 9468
+22644287138239: FIXED
+Generation : 9469
+22644287138239: FIXED
+Generation : 9470
+22644287138239: FIXED
+Generation : 9471
+22644287138239: FIXED
+Generation : 9472
+22644287138239: FIXED
+Generation : 9473
+22644287138239: FIXED
+Generation : 9474
+22644287138239: FIXED
+Generation : 9475
+22644287138239: FIXED
+Generation : 9476
+22644287138239: FIXED
+Generation : 9477
+22644287138239: FIXED
+Generation : 9478
+22644287138239: FIXED
+Generation : 9479
+22644287138239: FIXED
+Generation : 9480
+22644287138239: FIXED
+Generation : 9481
+22644287138239: FIXED
+Generation : 9482
+22644287138239: FIXED
+Generation : 9483
+22644287138239: FIXED
+Generation : 9484
+22644287138239: FIXED
+Generation : 9485
+22644287138239: FIXED
+Generation : 9486
+22644287138239: FIXED
+Generation : 9487
+22644287138239: FIXED
+Generation : 9488
+22644287138239: FIXED
+Generation : 9489
+22644287138239: FIXED
+Generation : 9490
+22644287138239: FIXED
+Generation : 9491
+22644287138239: FIXED
+Generation : 9492
+22644287138239: FIXED
+Generation : 9493
+22644287138239: FIXED
+Generation : 9494
+22644287138239: FIXED
+Generation : 9495
+22644287138239: FIXED
+Generation : 9496
+22644287138239: FIXED
+Generation : 9497
+22644287138239: FIXED
+Generation : 9498
+22644287138239: FIXED
+Generation : 9499
+22644287138239: FIXED
+Generation : 9500
+22644287138239: FIXED
+Generation : 9501
+22644287138239: FIXED
+Generation : 9502
+22644287138239: FIXED
+Generation : 9503
+22644287138239: FIXED
+Generation : 9504
+22644287138239: FIXED
+Generation : 9505
+22644287138239: FIXED
+Generation : 9506
+22644287138239: FIXED
+Generation : 9507
+22644287138239: FIXED
+Generation : 9508
+22644287138239: FIXED
+Generation : 9509
+22644287138239: FIXED
+Generation : 9510
+22644287138239: FIXED
+Generation : 9511
+22644287138239: FIXED
+Generation : 9512
+22644287138239: FIXED
+Generation : 9513
+22644287138239: FIXED
+Generation : 9514
+22644287138239: FIXED
+Generation : 9515
+22644287138239: FIXED
+Generation : 9516
+22644287138239: FIXED
+Generation : 9517
+22644287138239: FIXED
+Generation : 9518
+22644287138239: FIXED
+Generation : 9519
+22644287138239: FIXED
+Generation : 9520
+22644287138239: FIXED
+Generation : 9521
+22644287138239: FIXED
+Generation : 9522
+22644287138239: FIXED
+Generation : 9523
+22644287138239: FIXED
+Generation : 9524
+22644287138239: FIXED
+Generation : 9525
+22644287138239: FIXED
+Generation : 9526
+22644287138239: FIXED
+Generation : 9527
+22644287138239: FIXED
+Generation : 9528
+22644287138239: FIXED
+Generation : 9529
+22644287138239: FIXED
+Generation : 9530
+22644287138239: FIXED
+Generation : 9531
+22644287138239: FIXED
+Generation : 9532
+22644287138239: FIXED
+Generation : 9533
+22644287138239: FIXED
+Generation : 9534
+22644287138239: FIXED
+Generation : 9535
+22644287138239: FIXED
+Generation : 9536
+22644287138239: FIXED
+Generation : 9537
+22644287138239: FIXED
+Generation : 9538
+22644287138239: FIXED
+Generation : 9539
+22644287138239: FIXED
+Generation : 9540
+22644287138239: FIXED
+Generation : 9541
+22644287138239: FIXED
+Generation : 9542
+22644287138239: FIXED
+Generation : 9543
+22644287138239: FIXED
+Generation : 9544
+22644287138239: FIXED
+Generation : 9545
+22644287138239: FIXED
+Generation : 9546
+22644287138239: FIXED
+Generation : 9547
+22644287138239: FIXED
+Generation : 9548
+22644287138239: FIXED
+Generation : 9549
+22644287138239: FIXED
+Generation : 9550
+22644287138239: FIXED
+Generation : 9551
+22644287138239: FIXED
+Generation : 9552
+22644287138239: FIXED
+Generation : 9553
+22644287138239: FIXED
+Generation : 9554
+22644287138239: FIXED
+Generation : 9555
+22644287138239: FIXED
+Generation : 9556
+22644287138239: FIXED
+Generation : 9557
+22644287138239: FIXED
+Generation : 9558
+22644287138239: FIXED
+Generation : 9559
+22644287138239: FIXED
+Generation : 9560
+22644287138239: FIXED
+Generation : 9561
+22644287138239: FIXED
+Generation : 9562
+22644287138239: FIXED
+Generation : 9563
+22644287138239: FIXED
+Generation : 9564
+22644287138239: FIXED
+Generation : 9565
+22644287138239: FIXED
+Generation : 9566
+22644287138239: FIXED
+Generation : 9567
+22644287138239: FIXED
+Generation : 9568
+22644287138239: FIXED
+Generation : 9569
+22644287138239: FIXED
+Generation : 9570
+22644287138239: FIXED
+Generation : 9571
+22644287138239: FIXED
+Generation : 9572
+22644287138239: FIXED
+Generation : 9573
+22644287138239: FIXED
+Generation : 9574
+22644287138239: FIXED
+Generation : 9575
+22644287138239: FIXED
+Generation : 9576
+22644287138239: FIXED
+Generation : 9577
+22644287138239: FIXED
+Generation : 9578
+22644287138239: FIXED
+Generation : 9579
+22644287138239: FIXED
+Generation : 9580
+22644287138239: FIXED
+Generation : 9581
+22644287138239: FIXED
+Generation : 9582
+22644287138239: FIXED
+Generation : 9583
+22644287138239: FIXED
+Generation : 9584
+22644287138239: FIXED
+Generation : 9585
+22644287138239: FIXED
+Generation : 9586
+22644287138239: FIXED
+Generation : 9587
+22644287138239: FIXED
+Generation : 9588
+22644287138239: FIXED
+Generation : 9589
+22644287138239: FIXED
+Generation : 9590
+22644287138239: FIXED
+Generation : 9591
+22644287138239: FIXED
+Generation : 9592
+22644287138239: FIXED
+Generation : 9593
+22644287138239: FIXED
+Generation : 9594
+22644287138239: FIXED
+Generation : 9595
+22644287138239: FIXED
+Generation : 9596
+22644287138239: FIXED
+Generation : 9597
+22644287138239: FIXED
+Generation : 9598
+22644287138239: FIXED
+Generation : 9599
+22644287138239: FIXED
+Generation : 9600
+22644287138239: FIXED
+Generation : 9601
+22644287138239: FIXED
+Generation : 9602
+22644287138239: FIXED
+Generation : 9603
+22644287138239: FIXED
+Generation : 9604
+22644287138239: FIXED
+Generation : 9605
+22644287138239: FIXED
+Generation : 9606
+22644287138239: FIXED
+Generation : 9607
+22644287138239: FIXED
+Generation : 9608
+22644287138239: FIXED
+Generation : 9609
+22644287138239: FIXED
+Generation : 9610
+22644287138239: FIXED
+Generation : 9611
+22644287138239: FIXED
+Generation : 9612
+22644287138239: FIXED
+Generation : 9613
+22644287138239: FIXED
+Generation : 9614
+22644287138239: FIXED
+Generation : 9615
+22644287138239: FIXED
+Generation : 9616
+22644287138239: FIXED
+Generation : 9617
+22644287138239: FIXED
+Generation : 9618
+22644287138239: FIXED
+Generation : 9619
+22644287138239: FIXED
+Generation : 9620
+22644287138239: FIXED
+Generation : 9621
+22644287138239: FIXED
+Generation : 9622
+22644287138239: FIXED
+Generation : 9623
+22644287138239: FIXED
+Generation : 9624
+22644287138239: FIXED
+Generation : 9625
+22644287138239: FIXED
+Generation : 9626
+22644287138239: FIXED
+Generation : 9627
+22644287138239: FIXED
+Generation : 9628
+22644287138239: FIXED
+Generation : 9629
+22644287138239: FIXED
+Generation : 9630
+22644287138239: FIXED
+Generation : 9631
+22644287138239: FIXED
+Generation : 9632
+22644287138239: FIXED
+Generation : 9633
+22644287138239: FIXED
+Generation : 9634
+22644287138239: FIXED
+Generation : 9635
+22644287138239: FIXED
+Generation : 9636
+22644287138239: FIXED
+Generation : 9637
+22644287138239: FIXED
+Generation : 9638
+22644287138239: FIXED
+Generation : 9639
+22644287138239: FIXED
+Generation : 9640
+22644287138239: FIXED
+Generation : 9641
+22644287138239: FIXED
+Generation : 9642
+22644287138239: FIXED
+Generation : 9643
+22644287138239: FIXED
+Generation : 9644
+22644287138239: FIXED
+Generation : 9645
+22644287138239: FIXED
+Generation : 9646
+22644287138239: FIXED
+Generation : 9647
+22644287138239: FIXED
+Generation : 9648
+22644287138239: FIXED
+Generation : 9649
+22644287138239: FIXED
+Generation : 9650
+22644287138239: FIXED
+Generation : 9651
+22644287138239: FIXED
+Generation : 9652
+22644287138239: FIXED
+Generation : 9653
+22644287138239: FIXED
+Generation : 9654
+22644287138239: FIXED
+Generation : 9655
+22644287138239: FIXED
+Generation : 9656
+22644287138239: FIXED
+Generation : 9657
+22644287138239: FIXED
+Generation : 9658
+22644287138239: FIXED
+Generation : 9659
+22644287138239: FIXED
+Generation : 9660
+22644287138239: FIXED
+Generation : 9661
+22644287138239: FIXED
+Generation : 9662
+22644287138239: FIXED
+Generation : 9663
+22644287138239: FIXED
+Generation : 9664
+22644287138239: FIXED
+Generation : 9665
+22644287138239: FIXED
+Generation : 9666
+22644287138239: FIXED
+Generation : 9667
+22644287138239: FIXED
+Generation : 9668
+22644287138239: FIXED
+Generation : 9669
+22644287138239: FIXED
+Generation : 9670
+22644287138239: FIXED
+Generation : 9671
+22644287138239: FIXED
+Generation : 9672
+22644287138239: FIXED
+Generation : 9673
+22644287138239: FIXED
+Generation : 9674
+22644287138239: FIXED
+Generation : 9675
+22644287138239: FIXED
+Generation : 9676
+22644287138239: FIXED
+Generation : 9677
+22644287138239: FIXED
+Generation : 9678
+22644287138239: FIXED
+Generation : 9679
+22644287138239: FIXED
+Generation : 9680
+22644287138239: FIXED
+Generation : 9681
+22644287138239: FIXED
+Generation : 9682
+22644287138239: FIXED
+Generation : 9683
+22644287138239: FIXED
+Generation : 9684
+22644287138239: FIXED
+Generation : 9685
+22644287138239: FIXED
+Generation : 9686
+22644287138239: FIXED
+Generation : 9687
+22644287138239: FIXED
+Generation : 9688
+22644287138239: FIXED
+Generation : 9689
+22644287138239: FIXED
+Generation : 9690
+22644287138239: FIXED
+Generation : 9691
+22644287138239: FIXED
+Generation : 9692
+22644287138239: FIXED
+Generation : 9693
+22644287138239: FIXED
+Generation : 9694
+22644287138239: FIXED
+Generation : 9695
+22644287138239: FIXED
+Generation : 9696
+22644287138239: FIXED
+Generation : 9697
+22644287138239: FIXED
+Generation : 9698
+22644287138239: FIXED
+Generation : 9699
+22644287138239: FIXED
+Generation : 9700
+22644287138239: FIXED
+Generation : 9701
+22644287138239: FIXED
+Generation : 9702
+22644287138239: FIXED
+Generation : 9703
+22644287138239: FIXED
+Generation : 9704
+22644287138239: FIXED
+Generation : 9705
+22644287138239: FIXED
+Generation : 9706
+22644287138239: FIXED
+Generation : 9707
+22644287138239: FIXED
+Generation : 9708
+22644287138239: FIXED
+Generation : 9709
+22644287138239: FIXED
+Generation : 9710
+22644287138239: FIXED
+Generation : 9711
+22644287138239: FIXED
+Generation : 9712
+22644287138239: FIXED
+Generation : 9713
+22644287138239: FIXED
+Generation : 9714
+22644287138239: FIXED
+Generation : 9715
+22644287138239: FIXED
+Generation : 9716
+22644287138239: FIXED
+Generation : 9717
+22644287138239: FIXED
+Generation : 9718
+22644287138239: FIXED
+Generation : 9719
+22644287138239: FIXED
+Generation : 9720
+22644287138239: FIXED
+Generation : 9721
+22644287138239: FIXED
+Generation : 9722
+22644287138239: FIXED
+Generation : 9723
+22644287138239: FIXED
+Generation : 9724
+22644287138239: FIXED
+Generation : 9725
+22644287138239: FIXED
+Generation : 9726
+22644287138239: FIXED
+Generation : 9727
+22644287138239: FIXED
+Generation : 9728
+22644287138239: FIXED
+Generation : 9729
+22644287138239: FIXED
+Generation : 9730
+22644287138239: FIXED
+Generation : 9731
+22644287138239: FIXED
+Generation : 9732
+22644287138239: FIXED
+Generation : 9733
+22644287138239: FIXED
+Generation : 9734
+22644287138239: FIXED
+Generation : 9735
+22644287138239: FIXED
+Generation : 9736
+22644287138239: FIXED
+Generation : 9737
+22644287138239: FIXED
+Generation : 9738
+22644287138239: FIXED
+Generation : 9739
+22644287138239: FIXED
+Generation : 9740
+22644287138239: FIXED
+Generation : 9741
+22644287138239: FIXED
+Generation : 9742
+22644287138239: FIXED
+Generation : 9743
+22644287138239: FIXED
+Generation : 9744
+22644287138239: FIXED
+Generation : 9745
+22644287138239: FIXED
+Generation : 9746
+22644287138239: FIXED
+Generation : 9747
+22644287138239: FIXED
+Generation : 9748
+22644287138239: FIXED
+Generation : 9749
+22644287138239: FIXED
+Generation : 9750
+22644287138239: FIXED
+Generation : 9751
+22644287138239: FIXED
+Generation : 9752
+22644287138239: FIXED
+Generation : 9753
+22644287138239: FIXED
+Generation : 9754
+22644287138239: FIXED
+Generation : 9755
+22644287138239: FIXED
+Generation : 9756
+22644287138239: FIXED
+Generation : 9757
+22644287138239: FIXED
+Generation : 9758
+22644287138239: FIXED
+Generation : 9759
+22644287138239: FIXED
+Generation : 9760
+22644287138239: FIXED
+Generation : 9761
+22644287138239: FIXED
+Generation : 9762
+22644287138239: FIXED
+Generation : 9763
+22644287138239: FIXED
+Generation : 9764
+22644287138239: FIXED
+Generation : 9765
+22644287138239: FIXED
+Generation : 9766
+22644287138239: FIXED
+Generation : 9767
+22644287138239: FIXED
+Generation : 9768
+22644287138239: FIXED
+Generation : 9769
+22644287138239: FIXED
+Generation : 9770
+22644287138239: FIXED
+Generation : 9771
+22644287138239: FIXED
+Generation : 9772
+22644287138239: FIXED
+Generation : 9773
+22644287138239: FIXED
+Generation : 9774
+22644287138239: FIXED
+Generation : 9775
+22644287138239: FIXED
+Generation : 9776
+22644287138239: FIXED
+Generation : 9777
+22644287138239: FIXED
+Generation : 9778
+22644287138239: FIXED
+Generation : 9779
+22644287138239: FIXED
+Generation : 9780
+22644287138239: FIXED
+Generation : 9781
+22644287138239: FIXED
+Generation : 9782
+22644287138239: FIXED
+Generation : 9783
+22644287138239: FIXED
+Generation : 9784
+22644287138239: FIXED
+Generation : 9785
+22644287138239: FIXED
+Generation : 9786
+22644287138239: FIXED
+Generation : 9787
+22644287138239: FIXED
+Generation : 9788
+22644287138239: FIXED
+Generation : 9789
+22644287138239: FIXED
+Generation : 9790
+22644287138239: FIXED
+Generation : 9791
+22644287138239: FIXED
+Generation : 9792
+22644287138239: FIXED
+Generation : 9793
+22644287138239: FIXED
+Generation : 9794
+22644287138239: FIXED
+Generation : 9795
+22644287138239: FIXED
+Generation : 9796
+22644287138239: FIXED
+Generation : 9797
+22644287138239: FIXED
+Generation : 9798
+22644287138239: FIXED
+Generation : 9799
+22644287138239: FIXED
+Generation : 9800
+22644287138239: FIXED
+Generation : 9801
+22644287138239: FIXED
+Generation : 9802
+22644287138239: FIXED
+Generation : 9803
+22644287138239: FIXED
+Generation : 9804
+22644287138239: FIXED
+Generation : 9805
+22644287138239: FIXED
+Generation : 9806
+22644287138239: FIXED
+Generation : 9807
+22644287138239: FIXED
+Generation : 9808
+22644287138239: FIXED
+Generation : 9809
+22644287138239: FIXED
+Generation : 9810
+22644287138239: FIXED
+Generation : 9811
+22644287138239: FIXED
+Generation : 9812
+22644287138239: FIXED
+Generation : 9813
+22644287138239: FIXED
+Generation : 9814
+22644287138239: FIXED
+Generation : 9815
+22644287138239: FIXED
+Generation : 9816
+22644287138239: FIXED
+Generation : 9817
+22644287138239: FIXED
+Generation : 9818
+22644287138239: FIXED
+Generation : 9819
+22644287138239: FIXED
+Generation : 9820
+22644287138239: FIXED
+Generation : 9821
+22644287138239: FIXED
+Generation : 9822
+22644287138239: FIXED
+Generation : 9823
+22644287138239: FIXED
+Generation : 9824
+22644287138239: FIXED
+Generation : 9825
+22644287138239: FIXED
+Generation : 9826
+22644287138239: FIXED
+Generation : 9827
+22644287138239: FIXED
+Generation : 9828
+22644287138239: FIXED
+Generation : 9829
+22644287138239: FIXED
+Generation : 9830
+22644287138239: FIXED
+Generation : 9831
+22644287138239: FIXED
+Generation : 9832
+22644287138239: FIXED
+Generation : 9833
+22644287138239: FIXED
+Generation : 9834
+22644287138239: FIXED
+Generation : 9835
+22644287138239: FIXED
+Generation : 9836
+22644287138239: FIXED
+Generation : 9837
+22644287138239: FIXED
+Generation : 9838
+22644287138239: FIXED
+Generation : 9839
+22644287138239: FIXED
+Generation : 9840
+22644287138239: FIXED
+Generation : 9841
+22644287138239: FIXED
+Generation : 9842
+22644287138239: FIXED
+Generation : 9843
+22644287138239: FIXED
+Generation : 9844
+22644287138239: FIXED
+Generation : 9845
+22644287138239: FIXED
+Generation : 9846
+22644287138239: FIXED
+Generation : 9847
+22644287138239: FIXED
+Generation : 9848
+22644287138239: FIXED
+Generation : 9849
+22644287138239: FIXED
+Generation : 9850
+22644287138239: FIXED
+Generation : 9851
+22644287138239: FIXED
+Generation : 9852
+22644287138239: FIXED
+Generation : 9853
+22644287138239: FIXED
+Generation : 9854
+22644287138239: FIXED
+Generation : 9855
+22644287138239: FIXED
+Generation : 9856
+22644287138239: FIXED
+Generation : 9857
+22644287138239: FIXED
+Generation : 9858
+22644287138239: FIXED
+Generation : 9859
+22644287138239: FIXED
+Generation : 9860
+22644287138239: FIXED
+Generation : 9861
+22644287138239: FIXED
+Generation : 9862
+22644287138239: FIXED
+Generation : 9863
+22644287138239: FIXED
+Generation : 9864
+22644287138239: FIXED
+Generation : 9865
+22644287138239: FIXED
+Generation : 9866
+22644287138239: FIXED
+Generation : 9867
+22644287138239: FIXED
+Generation : 9868
+22644287138239: FIXED
+Generation : 9869
+22644287138239: FIXED
+Generation : 9870
+22644287138239: FIXED
+Generation : 9871
+22644287138239: FIXED
+Generation : 9872
+22644287138239: FIXED
+Generation : 9873
+22644287138239: FIXED
+Generation : 9874
+22644287138239: FIXED
+Generation : 9875
+22644287138239: FIXED
+Generation : 9876
+22644287138239: FIXED
+Generation : 9877
+22644287138239: FIXED
+Generation : 9878
+22644287138239: FIXED
+Generation : 9879
+22644287138239: FIXED
+Generation : 9880
+22644287138239: FIXED
+Generation : 9881
+22644287138239: FIXED
+Generation : 9882
+22644287138239: FIXED
+Generation : 9883
+22644287138239: FIXED
+Generation : 9884
+22644287138239: FIXED
+Generation : 9885
+22644287138239: FIXED
+Generation : 9886
+22644287138239: FIXED
+Generation : 9887
+22644287138239: FIXED
+Generation : 9888
+22644287138239: FIXED
+Generation : 9889
+22644287138239: FIXED
+Generation : 9890
+22644287138239: FIXED
+Generation : 9891
+22644287138239: FIXED
+Generation : 9892
+22644287138239: FIXED
+Generation : 9893
+22644287138239: FIXED
+Generation : 9894
+22644287138239: FIXED
+Generation : 9895
+22644287138239: FIXED
+Generation : 9896
+22644287138239: FIXED
+Generation : 9897
+22644287138239: FIXED
+Generation : 9898
+22644287138239: FIXED
+Generation : 9899
+22644287138239: FIXED
+Generation : 9900
+22644287138239: FIXED
+Generation : 9901
+22644287138239: FIXED
+Generation : 9902
+22644287138239: FIXED
+Generation : 9903
+22644287138239: FIXED
+Generation : 9904
+22644287138239: FIXED
+Generation : 9905
+22644287138239: FIXED
+Generation : 9906
+22644287138239: FIXED
+Generation : 9907
+22644287138239: FIXED
+Generation : 9908
+22644287138239: FIXED
+Generation : 9909
+22644287138239: FIXED
+Generation : 9910
+22644287138239: FIXED
+Generation : 9911
+22644287138239: FIXED
+Generation : 9912
+22644287138239: FIXED
+Generation : 9913
+22644287138239: FIXED
+Generation : 9914
+22644287138239: FIXED
+Generation : 9915
+22644287138239: FIXED
+Generation : 9916
+22644287138239: FIXED
+Generation : 9917
+22644287138239: FIXED
+Generation : 9918
+22644287138239: FIXED
+Generation : 9919
+22644287138239: FIXED
+Generation : 9920
+22644287138239: FIXED
+Generation : 9921
+22644287138239: FIXED
+Generation : 9922
+22644287138239: FIXED
+Generation : 9923
+22644287138239: FIXED
+Generation : 9924
+22644287138239: FIXED
+Generation : 9925
+22644287138239: FIXED
+Generation : 9926
+22644287138239: FIXED
+Generation : 9927
+22644287138239: FIXED
+Generation : 9928
+22644287138239: FIXED
+Generation : 9929
+22644287138239: FIXED
+Generation : 9930
+22644287138239: FIXED
+Generation : 9931
+22644287138239: FIXED
+Generation : 9932
+22644287138239: FIXED
+Generation : 9933
+22644287138239: FIXED
+Generation : 9934
+22644287138239: FIXED
+Generation : 9935
+22644287138239: FIXED
+Generation : 9936
+22644287138239: FIXED
+Generation : 9937
+22644287138239: FIXED
+Generation : 9938
+22644287138239: FIXED
+Generation : 9939
+22644287138239: FIXED
+Generation : 9940
+22644287138239: FIXED
+Generation : 9941
+22644287138239: FIXED
+Generation : 9942
+22644287138239: FIXED
+Generation : 9943
+22644287138239: FIXED
+Generation : 9944
+22644287138239: FIXED
+Generation : 9945
+22644287138239: FIXED
+Generation : 9946
+22644287138239: FIXED
+Generation : 9947
+22644287138239: FIXED
+Generation : 9948
+22644287138239: FIXED
+Generation : 9949
+22644287138239: FIXED
+Generation : 9950
+22644287138239: FIXED
+Generation : 9951
+22644287138239: FIXED
+Generation : 9952
+22644287138239: FIXED
+Generation : 9953
+22644287138239: FIXED
+Generation : 9954
+22644287138239: FIXED
+Generation : 9955
+22644287138239: FIXED
+Generation : 9956
+22644287138239: FIXED
+Generation : 9957
+22644287138239: FIXED
+Generation : 9958
+22644287138239: FIXED
+Generation : 9959
+22644287138239: FIXED
+Generation : 9960
+22644287138239: FIXED
+Generation : 9961
+22644287138239: FIXED
+Generation : 9962
+22644287138239: FIXED
+Generation : 9963
+22644287138239: FIXED
+Generation : 9964
+22644287138239: FIXED
+Generation : 9965
+22644287138239: FIXED
+Generation : 9966
+22644287138239: FIXED
+Generation : 9967
+22644287138239: FIXED
+Generation : 9968
+22644287138239: FIXED
+Generation : 9969
+22644287138239: FIXED
+Generation : 9970
+22644287138239: FIXED
+Generation : 9971
+22644287138239: FIXED
+Generation : 9972
+22644287138239: FIXED
+Generation : 9973
+22644287138239: FIXED
+Generation : 9974
+22644287138239: FIXED
+Generation : 9975
+22644287138239: FIXED
+Generation : 9976
+22644287138239: FIXED
+Generation : 9977
+22644287138239: FIXED
+Generation : 9978
+22644287138239: FIXED
+Generation : 9979
+22644287138239: FIXED
+Generation : 9980
+22644287138239: FIXED
+Generation : 9981
+22644287138239: FIXED
+Generation : 9982
+22644287138239: FIXED
+Generation : 9983
+22644287138239: FIXED
+Generation : 9984
+22644287138239: FIXED
+Generation : 9985
+22644287138239: FIXED
+Generation : 9986
+22644287138239: FIXED
+Generation : 9987
+22644287138239: FIXED
+Generation : 9988
+22644287138239: FIXED
+Generation : 9989
+22644287138239: FIXED
+Generation : 9990
+22644287138239: FIXED
+Generation : 9991
+22644287138239: FIXED
+Generation : 9992
+22644287138239: FIXED
+Generation : 9993
+22644287138239: FIXED
+Generation : 9994
+22644287138239: FIXED
+Generation : 9995
+22644287138239: FIXED
+Generation : 9996
+22644287138239: FIXED
+Generation : 9997
+22644287138239: FIXED
+Generation : 9998
+22644287138239: FIXED
+Generation : 9999
+22644287138239: FIXED
+Generation : 10000
+22644287138239: FIXED
+#OUT: 10000 10000 F
+Mutations:
+0 25 m2 500000 0.05 0.5 p1 8000 8435

@@ -1,0 +1,5033 @@
+// Initial random seed:
+18556567640407
+
+// RunInitializeCallbacks():
+initializeTreeSeq();
+initializeMutationRate(0, 1999999);
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(2, 0.5, "f", 0.05);
+initializeGenomicElementType(1, m1, 1);
+initializeRecombinationRate(c(5e-06, 0.5, 5e-06), c(999999, 1000000, 1999999));
+initializeGenomicElement(g1, 0, 1999999);
+
+// Starting run at tick <start>:
+1 
+
+Late 8000 
+Generation : 8000
+In progress
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+In progress
+Generation : 8027
+In progress
+Generation : 8028
+In progress
+Generation : 8029
+In progress
+Generation : 8030
+In progress
+Generation : 8031
+In progress
+Generation : 8032
+In progress
+Generation : 8033
+In progress
+Generation : 8034
+In progress
+Generation : 8035
+In progress
+Generation : 8036
+In progress
+Generation : 8037
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+In progress
+Generation : 8027
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+In progress
+Generation : 8027
+In progress
+Generation : 8028
+In progress
+Generation : 8029
+In progress
+Generation : 8030
+In progress
+Generation : 8031
+In progress
+Generation : 8032
+In progress
+Generation : 8033
+In progress
+Generation : 8034
+In progress
+Generation : 8035
+In progress
+Generation : 8036
+In progress
+Generation : 8037
+In progress
+Generation : 8038
+In progress
+Generation : 8039
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+In progress
+Generation : 8027
+In progress
+Generation : 8028
+In progress
+Generation : 8029
+In progress
+Generation : 8030
+In progress
+Generation : 8031
+In progress
+Generation : 8032
+In progress
+Generation : 8033
+In progress
+Generation : 8034
+In progress
+Generation : 8035
+In progress
+Generation : 8036
+In progress
+Generation : 8037
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+In progress
+Generation : 8027
+In progress
+Generation : 8028
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+In progress
+Generation : 8027
+In progress
+Generation : 8028
+In progress
+Generation : 8029
+In progress
+Generation : 8030
+In progress
+Generation : 8031
+In progress
+Generation : 8032
+In progress
+Generation : 8033
+In progress
+Generation : 8034
+In progress
+Generation : 8035
+In progress
+Generation : 8036
+In progress
+Generation : 8037
+In progress
+Generation : 8038
+In progress
+Generation : 8039
+In progress
+Generation : 8040
+In progress
+Generation : 8041
+In progress
+Generation : 8042
+In progress
+Generation : 8043
+In progress
+Generation : 8044
+In progress
+Generation : 8045
+In progress
+Generation : 8046
+In progress
+Generation : 8047
+In progress
+Generation : 8048
+In progress
+Generation : 8049
+In progress
+Generation : 8050
+In progress
+Generation : 8051
+In progress
+Generation : 8052
+In progress
+Generation : 8053
+In progress
+Generation : 8054
+In progress
+Generation : 8055
+In progress
+Generation : 8056
+In progress
+Generation : 8057
+In progress
+Generation : 8058
+In progress
+Generation : 8059
+In progress
+Generation : 8060
+In progress
+Generation : 8061
+In progress
+Generation : 8062
+In progress
+Generation : 8063
+In progress
+Generation : 8064
+In progress
+Generation : 8065
+In progress
+Generation : 8066
+In progress
+Generation : 8067
+In progress
+Generation : 8068
+In progress
+Generation : 8069
+In progress
+Generation : 8070
+In progress
+Generation : 8071
+In progress
+Generation : 8072
+In progress
+Generation : 8073
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+18556567640407: LOST – RESTARTING
+Generation : 8001
+In progress
+Generation : 8002
+In progress
+Generation : 8003
+In progress
+Generation : 8004
+In progress
+Generation : 8005
+In progress
+Generation : 8006
+In progress
+Generation : 8007
+In progress
+Generation : 8008
+In progress
+Generation : 8009
+In progress
+Generation : 8010
+In progress
+Generation : 8011
+In progress
+Generation : 8012
+In progress
+Generation : 8013
+In progress
+Generation : 8014
+In progress
+Generation : 8015
+In progress
+Generation : 8016
+In progress
+Generation : 8017
+In progress
+Generation : 8018
+In progress
+Generation : 8019
+In progress
+Generation : 8020
+In progress
+Generation : 8021
+In progress
+Generation : 8022
+In progress
+Generation : 8023
+In progress
+Generation : 8024
+In progress
+Generation : 8025
+In progress
+Generation : 8026
+In progress
+Generation : 8027
+In progress
+Generation : 8028
+In progress
+Generation : 8029
+In progress
+Generation : 8030
+In progress
+Generation : 8031
+In progress
+Generation : 8032
+In progress
+Generation : 8033
+In progress
+Generation : 8034
+In progress
+Generation : 8035
+In progress
+Generation : 8036
+In progress
+Generation : 8037
+In progress
+Generation : 8038
+In progress
+Generation : 8039
+In progress
+Generation : 8040
+In progress
+Generation : 8041
+In progress
+Generation : 8042
+In progress
+Generation : 8043
+In progress
+Generation : 8044
+In progress
+Generation : 8045
+In progress
+Generation : 8046
+In progress
+Generation : 8047
+In progress
+Generation : 8048
+In progress
+Generation : 8049
+In progress
+Generation : 8050
+In progress
+Generation : 8051
+In progress
+Generation : 8052
+In progress
+Generation : 8053
+In progress
+Generation : 8054
+In progress
+Generation : 8055
+In progress
+Generation : 8056
+In progress
+Generation : 8057
+In progress
+Generation : 8058
+In progress
+Generation : 8059
+In progress
+Generation : 8060
+In progress
+Generation : 8061
+In progress
+Generation : 8062
+In progress
+Generation : 8063
+In progress
+Generation : 8064
+In progress
+Generation : 8065
+In progress
+Generation : 8066
+In progress
+Generation : 8067
+In progress
+Generation : 8068
+In progress
+Generation : 8069
+In progress
+Generation : 8070
+In progress
+Generation : 8071
+In progress
+Generation : 8072
+In progress
+Generation : 8073
+In progress
+Generation : 8074
+In progress
+Generation : 8075
+In progress
+Generation : 8076
+In progress
+Generation : 8077
+In progress
+Generation : 8078
+In progress
+Generation : 8079
+In progress
+Generation : 8080
+In progress
+Generation : 8081
+In progress
+Generation : 8082
+In progress
+Generation : 8083
+In progress
+Generation : 8084
+In progress
+Generation : 8085
+In progress
+Generation : 8086
+In progress
+Generation : 8087
+In progress
+Generation : 8088
+In progress
+Generation : 8089
+In progress
+Generation : 8090
+In progress
+Generation : 8091
+In progress
+Generation : 8092
+In progress
+Generation : 8093
+In progress
+Generation : 8094
+In progress
+Generation : 8095
+In progress
+Generation : 8096
+In progress
+Generation : 8097
+In progress
+Generation : 8098
+In progress
+Generation : 8099
+In progress
+Generation : 8100
+In progress
+Generation : 8101
+In progress
+Generation : 8102
+In progress
+Generation : 8103
+In progress
+Generation : 8104
+In progress
+Generation : 8105
+In progress
+Generation : 8106
+In progress
+Generation : 8107
+In progress
+Generation : 8108
+In progress
+Generation : 8109
+In progress
+Generation : 8110
+In progress
+Generation : 8111
+In progress
+Generation : 8112
+In progress
+Generation : 8113
+In progress
+Generation : 8114
+In progress
+Generation : 8115
+In progress
+Generation : 8116
+In progress
+Generation : 8117
+In progress
+Generation : 8118
+In progress
+Generation : 8119
+In progress
+Generation : 8120
+In progress
+Generation : 8121
+In progress
+Generation : 8122
+In progress
+Generation : 8123
+In progress
+Generation : 8124
+In progress
+Generation : 8125
+In progress
+Generation : 8126
+In progress
+Generation : 8127
+In progress
+Generation : 8128
+In progress
+Generation : 8129
+In progress
+Generation : 8130
+In progress
+Generation : 8131
+In progress
+Generation : 8132
+In progress
+Generation : 8133
+In progress
+Generation : 8134
+In progress
+Generation : 8135
+In progress
+Generation : 8136
+In progress
+Generation : 8137
+In progress
+Generation : 8138
+In progress
+Generation : 8139
+In progress
+Generation : 8140
+In progress
+Generation : 8141
+In progress
+Generation : 8142
+In progress
+Generation : 8143
+In progress
+Generation : 8144
+In progress
+Generation : 8145
+In progress
+Generation : 8146
+In progress
+Generation : 8147
+In progress
+Generation : 8148
+In progress
+Generation : 8149
+In progress
+Generation : 8150
+In progress
+Generation : 8151
+In progress
+Generation : 8152
+In progress
+Generation : 8153
+In progress
+Generation : 8154
+In progress
+Generation : 8155
+In progress
+Generation : 8156
+In progress
+Generation : 8157
+In progress
+Generation : 8158
+In progress
+Generation : 8159
+In progress
+Generation : 8160
+In progress
+Generation : 8161
+In progress
+Generation : 8162
+In progress
+Generation : 8163
+In progress
+Generation : 8164
+In progress
+Generation : 8165
+In progress
+Generation : 8166
+In progress
+Generation : 8167
+In progress
+Generation : 8168
+In progress
+Generation : 8169
+In progress
+Generation : 8170
+In progress
+Generation : 8171
+In progress
+Generation : 8172
+In progress
+Generation : 8173
+In progress
+Generation : 8174
+In progress
+Generation : 8175
+In progress
+Generation : 8176
+In progress
+Generation : 8177
+In progress
+Generation : 8178
+In progress
+Generation : 8179
+In progress
+Generation : 8180
+In progress
+Generation : 8181
+In progress
+Generation : 8182
+In progress
+Generation : 8183
+In progress
+Generation : 8184
+In progress
+Generation : 8185
+In progress
+Generation : 8186
+In progress
+Generation : 8187
+In progress
+Generation : 8188
+In progress
+Generation : 8189
+In progress
+Generation : 8190
+In progress
+Generation : 8191
+In progress
+Generation : 8192
+In progress
+Generation : 8193
+In progress
+Generation : 8194
+In progress
+Generation : 8195
+In progress
+Generation : 8196
+In progress
+Generation : 8197
+In progress
+Generation : 8198
+In progress
+Generation : 8199
+In progress
+Generation : 8200
+In progress
+Generation : 8201
+In progress
+Generation : 8202
+In progress
+Generation : 8203
+In progress
+Generation : 8204
+In progress
+Generation : 8205
+In progress
+Generation : 8206
+In progress
+Generation : 8207
+In progress
+Generation : 8208
+In progress
+Generation : 8209
+In progress
+Generation : 8210
+In progress
+Generation : 8211
+In progress
+Generation : 8212
+In progress
+Generation : 8213
+In progress
+Generation : 8214
+In progress
+Generation : 8215
+In progress
+Generation : 8216
+In progress
+Generation : 8217
+In progress
+Generation : 8218
+In progress
+Generation : 8219
+In progress
+Generation : 8220
+In progress
+Generation : 8221
+In progress
+Generation : 8222
+In progress
+Generation : 8223
+In progress
+Generation : 8224
+In progress
+Generation : 8225
+In progress
+Generation : 8226
+In progress
+Generation : 8227
+In progress
+Generation : 8228
+In progress
+Generation : 8229
+In progress
+Generation : 8230
+In progress
+Generation : 8231
+In progress
+Generation : 8232
+In progress
+Generation : 8233
+In progress
+Generation : 8234
+In progress
+Generation : 8235
+In progress
+Generation : 8236
+In progress
+Generation : 8237
+In progress
+Generation : 8238
+In progress
+Generation : 8239
+In progress
+Generation : 8240
+In progress
+Generation : 8241
+In progress
+Generation : 8242
+In progress
+Generation : 8243
+In progress
+Generation : 8244
+In progress
+Generation : 8245
+In progress
+Generation : 8246
+In progress
+Generation : 8247
+In progress
+Generation : 8248
+In progress
+Generation : 8249
+In progress
+Generation : 8250
+In progress
+Generation : 8251
+In progress
+Generation : 8252
+In progress
+Generation : 8253
+In progress
+Generation : 8254
+In progress
+Generation : 8255
+In progress
+Generation : 8256
+In progress
+Generation : 8257
+In progress
+Generation : 8258
+In progress
+Generation : 8259
+In progress
+Generation : 8260
+In progress
+Generation : 8261
+In progress
+Generation : 8262
+In progress
+Generation : 8263
+In progress
+Generation : 8264
+In progress
+Generation : 8265
+In progress
+Generation : 8266
+In progress
+Generation : 8267
+In progress
+Generation : 8268
+In progress
+Generation : 8269
+In progress
+Generation : 8270
+In progress
+Generation : 8271
+In progress
+Generation : 8272
+In progress
+Generation : 8273
+In progress
+Generation : 8274
+In progress
+Generation : 8275
+In progress
+Generation : 8276
+In progress
+Generation : 8277
+In progress
+Generation : 8278
+In progress
+Generation : 8279
+In progress
+Generation : 8280
+In progress
+Generation : 8281
+In progress
+Generation : 8282
+In progress
+Generation : 8283
+In progress
+Generation : 8284
+In progress
+Generation : 8285
+In progress
+Generation : 8286
+In progress
+Generation : 8287
+In progress
+Generation : 8288
+In progress
+Generation : 8289
+In progress
+Generation : 8290
+In progress
+Generation : 8291
+In progress
+Generation : 8292
+In progress
+Generation : 8293
+In progress
+Generation : 8294
+In progress
+Generation : 8295
+In progress
+Generation : 8296
+In progress
+Generation : 8297
+In progress
+Generation : 8298
+In progress
+Generation : 8299
+In progress
+Generation : 8300
+In progress
+Generation : 8301
+In progress
+Generation : 8302
+In progress
+Generation : 8303
+In progress
+Generation : 8304
+In progress
+Generation : 8305
+In progress
+Generation : 8306
+In progress
+Generation : 8307
+In progress
+Generation : 8308
+In progress
+Generation : 8309
+In progress
+Generation : 8310
+In progress
+Generation : 8311
+In progress
+Generation : 8312
+In progress
+Generation : 8313
+In progress
+Generation : 8314
+In progress
+Generation : 8315
+In progress
+Generation : 8316
+In progress
+Generation : 8317
+In progress
+Generation : 8318
+In progress
+Generation : 8319
+In progress
+Generation : 8320
+In progress
+Generation : 8321
+In progress
+Generation : 8322
+In progress
+Generation : 8323
+In progress
+Generation : 8324
+In progress
+Generation : 8325
+In progress
+Generation : 8326
+In progress
+Generation : 8327
+In progress
+Generation : 8328
+In progress
+Generation : 8329
+In progress
+Generation : 8330
+In progress
+Generation : 8331
+In progress
+Generation : 8332
+In progress
+Generation : 8333
+In progress
+Generation : 8334
+In progress
+Generation : 8335
+In progress
+Generation : 8336
+In progress
+Generation : 8337
+In progress
+Generation : 8338
+In progress
+Generation : 8339
+In progress
+Generation : 8340
+In progress
+Generation : 8341
+In progress
+Generation : 8342
+In progress
+Generation : 8343
+In progress
+Generation : 8344
+In progress
+Generation : 8345
+In progress
+Generation : 8346
+In progress
+Generation : 8347
+In progress
+Generation : 8348
+In progress
+Generation : 8349
+In progress
+Generation : 8350
+In progress
+Generation : 8351
+In progress
+Generation : 8352
+In progress
+Generation : 8353
+In progress
+Generation : 8354
+In progress
+Generation : 8355
+In progress
+Generation : 8356
+In progress
+Generation : 8357
+In progress
+Generation : 8358
+In progress
+Generation : 8359
+In progress
+Generation : 8360
+In progress
+Generation : 8361
+In progress
+Generation : 8362
+In progress
+Generation : 8363
+In progress
+Generation : 8364
+In progress
+Generation : 8365
+In progress
+Generation : 8366
+In progress
+Generation : 8367
+In progress
+Generation : 8368
+In progress
+Generation : 8369
+In progress
+Generation : 8370
+In progress
+Generation : 8371
+In progress
+Generation : 8372
+In progress
+Generation : 8373
+In progress
+Generation : 8374
+In progress
+Generation : 8375
+In progress
+Generation : 8376
+In progress
+Generation : 8377
+In progress
+Generation : 8378
+In progress
+Generation : 8379
+In progress
+Generation : 8380
+In progress
+Generation : 8381
+In progress
+Generation : 8382
+In progress
+Generation : 8383
+In progress
+Generation : 8384
+In progress
+Generation : 8385
+In progress
+Generation : 8386
+In progress
+Generation : 8387
+In progress
+Generation : 8388
+In progress
+Generation : 8389
+In progress
+Generation : 8390
+In progress
+Generation : 8391
+In progress
+Generation : 8392
+In progress
+Generation : 8393
+In progress
+Generation : 8394
+In progress
+Generation : 8395
+In progress
+Generation : 8396
+In progress
+Generation : 8397
+In progress
+Generation : 8398
+In progress
+Generation : 8399
+In progress
+Generation : 8400
+In progress
+Generation : 8401
+In progress
+Generation : 8402
+In progress
+Generation : 8403
+In progress
+Generation : 8404
+In progress
+Generation : 8405
+In progress
+Generation : 8406
+In progress
+Generation : 8407
+In progress
+Generation : 8408
+In progress
+Generation : 8409
+In progress
+Generation : 8410
+In progress
+Generation : 8411
+In progress
+Generation : 8412
+In progress
+Generation : 8413
+In progress
+Generation : 8414
+In progress
+Generation : 8415
+In progress
+Generation : 8416
+In progress
+Generation : 8417
+In progress
+Generation : 8418
+In progress
+Generation : 8419
+In progress
+Generation : 8420
+In progress
+Generation : 8421
+In progress
+Generation : 8422
+In progress
+Generation : 8423
+In progress
+Generation : 8424
+In progress
+Generation : 8425
+In progress
+Generation : 8426
+In progress
+Generation : 8427
+In progress
+Generation : 8428
+In progress
+Generation : 8429
+In progress
+Generation : 8430
+In progress
+Generation : 8431
+In progress
+Generation : 8432
+In progress
+Generation : 8433
+In progress
+Generation : 8434
+In progress
+Generation : 8435
+In progress
+Generation : 8436
+In progress
+Generation : 8437
+In progress
+Generation : 8438
+In progress
+Generation : 8439
+In progress
+Generation : 8440
+In progress
+Generation : 8441
+In progress
+Generation : 8442
+In progress
+Generation : 8443
+In progress
+Generation : 8444
+In progress
+Generation : 8445
+In progress
+Generation : 8446
+In progress
+Generation : 8447
+In progress
+Generation : 8448
+In progress
+Generation : 8449
+In progress
+Generation : 8450
+In progress
+Generation : 8451
+18556567640407: FIXED
+Generation : 8452
+18556567640407: FIXED
+Generation : 8453
+18556567640407: FIXED
+Generation : 8454
+18556567640407: FIXED
+Generation : 8455
+18556567640407: FIXED
+Generation : 8456
+18556567640407: FIXED
+Generation : 8457
+18556567640407: FIXED
+Generation : 8458
+18556567640407: FIXED
+Generation : 8459
+18556567640407: FIXED
+Generation : 8460
+18556567640407: FIXED
+Generation : 8461
+18556567640407: FIXED
+Generation : 8462
+18556567640407: FIXED
+Generation : 8463
+18556567640407: FIXED
+Generation : 8464
+18556567640407: FIXED
+Generation : 8465
+18556567640407: FIXED
+Generation : 8466
+18556567640407: FIXED
+Generation : 8467
+18556567640407: FIXED
+Generation : 8468
+18556567640407: FIXED
+Generation : 8469
+18556567640407: FIXED
+Generation : 8470
+18556567640407: FIXED
+Generation : 8471
+18556567640407: FIXED
+Generation : 8472
+18556567640407: FIXED
+Generation : 8473
+18556567640407: FIXED
+Generation : 8474
+18556567640407: FIXED
+Generation : 8475
+18556567640407: FIXED
+Generation : 8476
+18556567640407: FIXED
+Generation : 8477
+18556567640407: FIXED
+Generation : 8478
+18556567640407: FIXED
+Generation : 8479
+18556567640407: FIXED
+Generation : 8480
+18556567640407: FIXED
+Generation : 8481
+18556567640407: FIXED
+Generation : 8482
+18556567640407: FIXED
+Generation : 8483
+18556567640407: FIXED
+Generation : 8484
+18556567640407: FIXED
+Generation : 8485
+18556567640407: FIXED
+Generation : 8486
+18556567640407: FIXED
+Generation : 8487
+18556567640407: FIXED
+Generation : 8488
+18556567640407: FIXED
+Generation : 8489
+18556567640407: FIXED
+Generation : 8490
+18556567640407: FIXED
+Generation : 8491
+18556567640407: FIXED
+Generation : 8492
+18556567640407: FIXED
+Generation : 8493
+18556567640407: FIXED
+Generation : 8494
+18556567640407: FIXED
+Generation : 8495
+18556567640407: FIXED
+Generation : 8496
+18556567640407: FIXED
+Generation : 8497
+18556567640407: FIXED
+Generation : 8498
+18556567640407: FIXED
+Generation : 8499
+18556567640407: FIXED
+Generation : 8500
+18556567640407: FIXED
+Generation : 8501
+18556567640407: FIXED
+Generation : 8502
+18556567640407: FIXED
+Generation : 8503
+18556567640407: FIXED
+Generation : 8504
+18556567640407: FIXED
+Generation : 8505
+18556567640407: FIXED
+Generation : 8506
+18556567640407: FIXED
+Generation : 8507
+18556567640407: FIXED
+Generation : 8508
+18556567640407: FIXED
+Generation : 8509
+18556567640407: FIXED
+Generation : 8510
+18556567640407: FIXED
+Generation : 8511
+18556567640407: FIXED
+Generation : 8512
+18556567640407: FIXED
+Generation : 8513
+18556567640407: FIXED
+Generation : 8514
+18556567640407: FIXED
+Generation : 8515
+18556567640407: FIXED
+Generation : 8516
+18556567640407: FIXED
+Generation : 8517
+18556567640407: FIXED
+Generation : 8518
+18556567640407: FIXED
+Generation : 8519
+18556567640407: FIXED
+Generation : 8520
+18556567640407: FIXED
+Generation : 8521
+18556567640407: FIXED
+Generation : 8522
+18556567640407: FIXED
+Generation : 8523
+18556567640407: FIXED
+Generation : 8524
+18556567640407: FIXED
+Generation : 8525
+18556567640407: FIXED
+Generation : 8526
+18556567640407: FIXED
+Generation : 8527
+18556567640407: FIXED
+Generation : 8528
+18556567640407: FIXED
+Generation : 8529
+18556567640407: FIXED
+Generation : 8530
+18556567640407: FIXED
+Generation : 8531
+18556567640407: FIXED
+Generation : 8532
+18556567640407: FIXED
+Generation : 8533
+18556567640407: FIXED
+Generation : 8534
+18556567640407: FIXED
+Generation : 8535
+18556567640407: FIXED
+Generation : 8536
+18556567640407: FIXED
+Generation : 8537
+18556567640407: FIXED
+Generation : 8538
+18556567640407: FIXED
+Generation : 8539
+18556567640407: FIXED
+Generation : 8540
+18556567640407: FIXED
+Generation : 8541
+18556567640407: FIXED
+Generation : 8542
+18556567640407: FIXED
+Generation : 8543
+18556567640407: FIXED
+Generation : 8544
+18556567640407: FIXED
+Generation : 8545
+18556567640407: FIXED
+Generation : 8546
+18556567640407: FIXED
+Generation : 8547
+18556567640407: FIXED
+Generation : 8548
+18556567640407: FIXED
+Generation : 8549
+18556567640407: FIXED
+Generation : 8550
+18556567640407: FIXED
+Generation : 8551
+18556567640407: FIXED
+Generation : 8552
+18556567640407: FIXED
+Generation : 8553
+18556567640407: FIXED
+Generation : 8554
+18556567640407: FIXED
+Generation : 8555
+18556567640407: FIXED
+Generation : 8556
+18556567640407: FIXED
+Generation : 8557
+18556567640407: FIXED
+Generation : 8558
+18556567640407: FIXED
+Generation : 8559
+18556567640407: FIXED
+Generation : 8560
+18556567640407: FIXED
+Generation : 8561
+18556567640407: FIXED
+Generation : 8562
+18556567640407: FIXED
+Generation : 8563
+18556567640407: FIXED
+Generation : 8564
+18556567640407: FIXED
+Generation : 8565
+18556567640407: FIXED
+Generation : 8566
+18556567640407: FIXED
+Generation : 8567
+18556567640407: FIXED
+Generation : 8568
+18556567640407: FIXED
+Generation : 8569
+18556567640407: FIXED
+Generation : 8570
+18556567640407: FIXED
+Generation : 8571
+18556567640407: FIXED
+Generation : 8572
+18556567640407: FIXED
+Generation : 8573
+18556567640407: FIXED
+Generation : 8574
+18556567640407: FIXED
+Generation : 8575
+18556567640407: FIXED
+Generation : 8576
+18556567640407: FIXED
+Generation : 8577
+18556567640407: FIXED
+Generation : 8578
+18556567640407: FIXED
+Generation : 8579
+18556567640407: FIXED
+Generation : 8580
+18556567640407: FIXED
+Generation : 8581
+18556567640407: FIXED
+Generation : 8582
+18556567640407: FIXED
+Generation : 8583
+18556567640407: FIXED
+Generation : 8584
+18556567640407: FIXED
+Generation : 8585
+18556567640407: FIXED
+Generation : 8586
+18556567640407: FIXED
+Generation : 8587
+18556567640407: FIXED
+Generation : 8588
+18556567640407: FIXED
+Generation : 8589
+18556567640407: FIXED
+Generation : 8590
+18556567640407: FIXED
+Generation : 8591
+18556567640407: FIXED
+Generation : 8592
+18556567640407: FIXED
+Generation : 8593
+18556567640407: FIXED
+Generation : 8594
+18556567640407: FIXED
+Generation : 8595
+18556567640407: FIXED
+Generation : 8596
+18556567640407: FIXED
+Generation : 8597
+18556567640407: FIXED
+Generation : 8598
+18556567640407: FIXED
+Generation : 8599
+18556567640407: FIXED
+Generation : 8600
+18556567640407: FIXED
+Generation : 8601
+18556567640407: FIXED
+Generation : 8602
+18556567640407: FIXED
+Generation : 8603
+18556567640407: FIXED
+Generation : 8604
+18556567640407: FIXED
+Generation : 8605
+18556567640407: FIXED
+Generation : 8606
+18556567640407: FIXED
+Generation : 8607
+18556567640407: FIXED
+Generation : 8608
+18556567640407: FIXED
+Generation : 8609
+18556567640407: FIXED
+Generation : 8610
+18556567640407: FIXED
+Generation : 8611
+18556567640407: FIXED
+Generation : 8612
+18556567640407: FIXED
+Generation : 8613
+18556567640407: FIXED
+Generation : 8614
+18556567640407: FIXED
+Generation : 8615
+18556567640407: FIXED
+Generation : 8616
+18556567640407: FIXED
+Generation : 8617
+18556567640407: FIXED
+Generation : 8618
+18556567640407: FIXED
+Generation : 8619
+18556567640407: FIXED
+Generation : 8620
+18556567640407: FIXED
+Generation : 8621
+18556567640407: FIXED
+Generation : 8622
+18556567640407: FIXED
+Generation : 8623
+18556567640407: FIXED
+Generation : 8624
+18556567640407: FIXED
+Generation : 8625
+18556567640407: FIXED
+Generation : 8626
+18556567640407: FIXED
+Generation : 8627
+18556567640407: FIXED
+Generation : 8628
+18556567640407: FIXED
+Generation : 8629
+18556567640407: FIXED
+Generation : 8630
+18556567640407: FIXED
+Generation : 8631
+18556567640407: FIXED
+Generation : 8632
+18556567640407: FIXED
+Generation : 8633
+18556567640407: FIXED
+Generation : 8634
+18556567640407: FIXED
+Generation : 8635
+18556567640407: FIXED
+Generation : 8636
+18556567640407: FIXED
+Generation : 8637
+18556567640407: FIXED
+Generation : 8638
+18556567640407: FIXED
+Generation : 8639
+18556567640407: FIXED
+Generation : 8640
+18556567640407: FIXED
+Generation : 8641
+18556567640407: FIXED
+Generation : 8642
+18556567640407: FIXED
+Generation : 8643
+18556567640407: FIXED
+Generation : 8644
+18556567640407: FIXED
+Generation : 8645
+18556567640407: FIXED
+Generation : 8646
+18556567640407: FIXED
+Generation : 8647
+18556567640407: FIXED
+Generation : 8648
+18556567640407: FIXED
+Generation : 8649
+18556567640407: FIXED
+Generation : 8650
+18556567640407: FIXED
+Generation : 8651
+18556567640407: FIXED
+Generation : 8652
+18556567640407: FIXED
+Generation : 8653
+18556567640407: FIXED
+Generation : 8654
+18556567640407: FIXED
+Generation : 8655
+18556567640407: FIXED
+Generation : 8656
+18556567640407: FIXED
+Generation : 8657
+18556567640407: FIXED
+Generation : 8658
+18556567640407: FIXED
+Generation : 8659
+18556567640407: FIXED
+Generation : 8660
+18556567640407: FIXED
+Generation : 8661
+18556567640407: FIXED
+Generation : 8662
+18556567640407: FIXED
+Generation : 8663
+18556567640407: FIXED
+Generation : 8664
+18556567640407: FIXED
+Generation : 8665
+18556567640407: FIXED
+Generation : 8666
+18556567640407: FIXED
+Generation : 8667
+18556567640407: FIXED
+Generation : 8668
+18556567640407: FIXED
+Generation : 8669
+18556567640407: FIXED
+Generation : 8670
+18556567640407: FIXED
+Generation : 8671
+18556567640407: FIXED
+Generation : 8672
+18556567640407: FIXED
+Generation : 8673
+18556567640407: FIXED
+Generation : 8674
+18556567640407: FIXED
+Generation : 8675
+18556567640407: FIXED
+Generation : 8676
+18556567640407: FIXED
+Generation : 8677
+18556567640407: FIXED
+Generation : 8678
+18556567640407: FIXED
+Generation : 8679
+18556567640407: FIXED
+Generation : 8680
+18556567640407: FIXED
+Generation : 8681
+18556567640407: FIXED
+Generation : 8682
+18556567640407: FIXED
+Generation : 8683
+18556567640407: FIXED
+Generation : 8684
+18556567640407: FIXED
+Generation : 8685
+18556567640407: FIXED
+Generation : 8686
+18556567640407: FIXED
+Generation : 8687
+18556567640407: FIXED
+Generation : 8688
+18556567640407: FIXED
+Generation : 8689
+18556567640407: FIXED
+Generation : 8690
+18556567640407: FIXED
+Generation : 8691
+18556567640407: FIXED
+Generation : 8692
+18556567640407: FIXED
+Generation : 8693
+18556567640407: FIXED
+Generation : 8694
+18556567640407: FIXED
+Generation : 8695
+18556567640407: FIXED
+Generation : 8696
+18556567640407: FIXED
+Generation : 8697
+18556567640407: FIXED
+Generation : 8698
+18556567640407: FIXED
+Generation : 8699
+18556567640407: FIXED
+Generation : 8700
+18556567640407: FIXED
+Generation : 8701
+18556567640407: FIXED
+Generation : 8702
+18556567640407: FIXED
+Generation : 8703
+18556567640407: FIXED
+Generation : 8704
+18556567640407: FIXED
+Generation : 8705
+18556567640407: FIXED
+Generation : 8706
+18556567640407: FIXED
+Generation : 8707
+18556567640407: FIXED
+Generation : 8708
+18556567640407: FIXED
+Generation : 8709
+18556567640407: FIXED
+Generation : 8710
+18556567640407: FIXED
+Generation : 8711
+18556567640407: FIXED
+Generation : 8712
+18556567640407: FIXED
+Generation : 8713
+18556567640407: FIXED
+Generation : 8714
+18556567640407: FIXED
+Generation : 8715
+18556567640407: FIXED
+Generation : 8716
+18556567640407: FIXED
+Generation : 8717
+18556567640407: FIXED
+Generation : 8718
+18556567640407: FIXED
+Generation : 8719
+18556567640407: FIXED
+Generation : 8720
+18556567640407: FIXED
+Generation : 8721
+18556567640407: FIXED
+Generation : 8722
+18556567640407: FIXED
+Generation : 8723
+18556567640407: FIXED
+Generation : 8724
+18556567640407: FIXED
+Generation : 8725
+18556567640407: FIXED
+Generation : 8726
+18556567640407: FIXED
+Generation : 8727
+18556567640407: FIXED
+Generation : 8728
+18556567640407: FIXED
+Generation : 8729
+18556567640407: FIXED
+Generation : 8730
+18556567640407: FIXED
+Generation : 8731
+18556567640407: FIXED
+Generation : 8732
+18556567640407: FIXED
+Generation : 8733
+18556567640407: FIXED
+Generation : 8734
+18556567640407: FIXED
+Generation : 8735
+18556567640407: FIXED
+Generation : 8736
+18556567640407: FIXED
+Generation : 8737
+18556567640407: FIXED
+Generation : 8738
+18556567640407: FIXED
+Generation : 8739
+18556567640407: FIXED
+Generation : 8740
+18556567640407: FIXED
+Generation : 8741
+18556567640407: FIXED
+Generation : 8742
+18556567640407: FIXED
+Generation : 8743
+18556567640407: FIXED
+Generation : 8744
+18556567640407: FIXED
+Generation : 8745
+18556567640407: FIXED
+Generation : 8746
+18556567640407: FIXED
+Generation : 8747
+18556567640407: FIXED
+Generation : 8748
+18556567640407: FIXED
+Generation : 8749
+18556567640407: FIXED
+Generation : 8750
+18556567640407: FIXED
+Generation : 8751
+18556567640407: FIXED
+Generation : 8752
+18556567640407: FIXED
+Generation : 8753
+18556567640407: FIXED
+Generation : 8754
+18556567640407: FIXED
+Generation : 8755
+18556567640407: FIXED
+Generation : 8756
+18556567640407: FIXED
+Generation : 8757
+18556567640407: FIXED
+Generation : 8758
+18556567640407: FIXED
+Generation : 8759
+18556567640407: FIXED
+Generation : 8760
+18556567640407: FIXED
+Generation : 8761
+18556567640407: FIXED
+Generation : 8762
+18556567640407: FIXED
+Generation : 8763
+18556567640407: FIXED
+Generation : 8764
+18556567640407: FIXED
+Generation : 8765
+18556567640407: FIXED
+Generation : 8766
+18556567640407: FIXED
+Generation : 8767
+18556567640407: FIXED
+Generation : 8768
+18556567640407: FIXED
+Generation : 8769
+18556567640407: FIXED
+Generation : 8770
+18556567640407: FIXED
+Generation : 8771
+18556567640407: FIXED
+Generation : 8772
+18556567640407: FIXED
+Generation : 8773
+18556567640407: FIXED
+Generation : 8774
+18556567640407: FIXED
+Generation : 8775
+18556567640407: FIXED
+Generation : 8776
+18556567640407: FIXED
+Generation : 8777
+18556567640407: FIXED
+Generation : 8778
+18556567640407: FIXED
+Generation : 8779
+18556567640407: FIXED
+Generation : 8780
+18556567640407: FIXED
+Generation : 8781
+18556567640407: FIXED
+Generation : 8782
+18556567640407: FIXED
+Generation : 8783
+18556567640407: FIXED
+Generation : 8784
+18556567640407: FIXED
+Generation : 8785
+18556567640407: FIXED
+Generation : 8786
+18556567640407: FIXED
+Generation : 8787
+18556567640407: FIXED
+Generation : 8788
+18556567640407: FIXED
+Generation : 8789
+18556567640407: FIXED
+Generation : 8790
+18556567640407: FIXED
+Generation : 8791
+18556567640407: FIXED
+Generation : 8792
+18556567640407: FIXED
+Generation : 8793
+18556567640407: FIXED
+Generation : 8794
+18556567640407: FIXED
+Generation : 8795
+18556567640407: FIXED
+Generation : 8796
+18556567640407: FIXED
+Generation : 8797
+18556567640407: FIXED
+Generation : 8798
+18556567640407: FIXED
+Generation : 8799
+18556567640407: FIXED
+Generation : 8800
+18556567640407: FIXED
+Generation : 8801
+18556567640407: FIXED
+Generation : 8802
+18556567640407: FIXED
+Generation : 8803
+18556567640407: FIXED
+Generation : 8804
+18556567640407: FIXED
+Generation : 8805
+18556567640407: FIXED
+Generation : 8806
+18556567640407: FIXED
+Generation : 8807
+18556567640407: FIXED
+Generation : 8808
+18556567640407: FIXED
+Generation : 8809
+18556567640407: FIXED
+Generation : 8810
+18556567640407: FIXED
+Generation : 8811
+18556567640407: FIXED
+Generation : 8812
+18556567640407: FIXED
+Generation : 8813
+18556567640407: FIXED
+Generation : 8814
+18556567640407: FIXED
+Generation : 8815
+18556567640407: FIXED
+Generation : 8816
+18556567640407: FIXED
+Generation : 8817
+18556567640407: FIXED
+Generation : 8818
+18556567640407: FIXED
+Generation : 8819
+18556567640407: FIXED
+Generation : 8820
+18556567640407: FIXED
+Generation : 8821
+18556567640407: FIXED
+Generation : 8822
+18556567640407: FIXED
+Generation : 8823
+18556567640407: FIXED
+Generation : 8824
+18556567640407: FIXED
+Generation : 8825
+18556567640407: FIXED
+Generation : 8826
+18556567640407: FIXED
+Generation : 8827
+18556567640407: FIXED
+Generation : 8828
+18556567640407: FIXED
+Generation : 8829
+18556567640407: FIXED
+Generation : 8830
+18556567640407: FIXED
+Generation : 8831
+18556567640407: FIXED
+Generation : 8832
+18556567640407: FIXED
+Generation : 8833
+18556567640407: FIXED
+Generation : 8834
+18556567640407: FIXED
+Generation : 8835
+18556567640407: FIXED
+Generation : 8836
+18556567640407: FIXED
+Generation : 8837
+18556567640407: FIXED
+Generation : 8838
+18556567640407: FIXED
+Generation : 8839
+18556567640407: FIXED
+Generation : 8840
+18556567640407: FIXED
+Generation : 8841
+18556567640407: FIXED
+Generation : 8842
+18556567640407: FIXED
+Generation : 8843
+18556567640407: FIXED
+Generation : 8844
+18556567640407: FIXED
+Generation : 8845
+18556567640407: FIXED
+Generation : 8846
+18556567640407: FIXED
+Generation : 8847
+18556567640407: FIXED
+Generation : 8848
+18556567640407: FIXED
+Generation : 8849
+18556567640407: FIXED
+Generation : 8850
+18556567640407: FIXED
+Generation : 8851
+18556567640407: FIXED
+Generation : 8852
+18556567640407: FIXED
+Generation : 8853
+18556567640407: FIXED
+Generation : 8854
+18556567640407: FIXED
+Generation : 8855
+18556567640407: FIXED
+Generation : 8856
+18556567640407: FIXED
+Generation : 8857
+18556567640407: FIXED
+Generation : 8858
+18556567640407: FIXED
+Generation : 8859
+18556567640407: FIXED
+Generation : 8860
+18556567640407: FIXED
+Generation : 8861
+18556567640407: FIXED
+Generation : 8862
+18556567640407: FIXED
+Generation : 8863
+18556567640407: FIXED
+Generation : 8864
+18556567640407: FIXED
+Generation : 8865
+18556567640407: FIXED
+Generation : 8866
+18556567640407: FIXED
+Generation : 8867
+18556567640407: FIXED
+Generation : 8868
+18556567640407: FIXED
+Generation : 8869
+18556567640407: FIXED
+Generation : 8870
+18556567640407: FIXED
+Generation : 8871
+18556567640407: FIXED
+Generation : 8872
+18556567640407: FIXED
+Generation : 8873
+18556567640407: FIXED
+Generation : 8874
+18556567640407: FIXED
+Generation : 8875
+18556567640407: FIXED
+Generation : 8876
+18556567640407: FIXED
+Generation : 8877
+18556567640407: FIXED
+Generation : 8878
+18556567640407: FIXED
+Generation : 8879
+18556567640407: FIXED
+Generation : 8880
+18556567640407: FIXED
+Generation : 8881
+18556567640407: FIXED
+Generation : 8882
+18556567640407: FIXED
+Generation : 8883
+18556567640407: FIXED
+Generation : 8884
+18556567640407: FIXED
+Generation : 8885
+18556567640407: FIXED
+Generation : 8886
+18556567640407: FIXED
+Generation : 8887
+18556567640407: FIXED
+Generation : 8888
+18556567640407: FIXED
+Generation : 8889
+18556567640407: FIXED
+Generation : 8890
+18556567640407: FIXED
+Generation : 8891
+18556567640407: FIXED
+Generation : 8892
+18556567640407: FIXED
+Generation : 8893
+18556567640407: FIXED
+Generation : 8894
+18556567640407: FIXED
+Generation : 8895
+18556567640407: FIXED
+Generation : 8896
+18556567640407: FIXED
+Generation : 8897
+18556567640407: FIXED
+Generation : 8898
+18556567640407: FIXED
+Generation : 8899
+18556567640407: FIXED
+Generation : 8900
+18556567640407: FIXED
+Generation : 8901
+18556567640407: FIXED
+Generation : 8902
+18556567640407: FIXED
+Generation : 8903
+18556567640407: FIXED
+Generation : 8904
+18556567640407: FIXED
+Generation : 8905
+18556567640407: FIXED
+Generation : 8906
+18556567640407: FIXED
+Generation : 8907
+18556567640407: FIXED
+Generation : 8908
+18556567640407: FIXED
+Generation : 8909
+18556567640407: FIXED
+Generation : 8910
+18556567640407: FIXED
+Generation : 8911
+18556567640407: FIXED
+Generation : 8912
+18556567640407: FIXED
+Generation : 8913
+18556567640407: FIXED
+Generation : 8914
+18556567640407: FIXED
+Generation : 8915
+18556567640407: FIXED
+Generation : 8916
+18556567640407: FIXED
+Generation : 8917
+18556567640407: FIXED
+Generation : 8918
+18556567640407: FIXED
+Generation : 8919
+18556567640407: FIXED
+Generation : 8920
+18556567640407: FIXED
+Generation : 8921
+18556567640407: FIXED
+Generation : 8922
+18556567640407: FIXED
+Generation : 8923
+18556567640407: FIXED
+Generation : 8924
+18556567640407: FIXED
+Generation : 8925
+18556567640407: FIXED
+Generation : 8926
+18556567640407: FIXED
+Generation : 8927
+18556567640407: FIXED
+Generation : 8928
+18556567640407: FIXED
+Generation : 8929
+18556567640407: FIXED
+Generation : 8930
+18556567640407: FIXED
+Generation : 8931
+18556567640407: FIXED
+Generation : 8932
+18556567640407: FIXED
+Generation : 8933
+18556567640407: FIXED
+Generation : 8934
+18556567640407: FIXED
+Generation : 8935
+18556567640407: FIXED
+Generation : 8936
+18556567640407: FIXED
+Generation : 8937
+18556567640407: FIXED
+Generation : 8938
+18556567640407: FIXED
+Generation : 8939
+18556567640407: FIXED
+Generation : 8940
+18556567640407: FIXED
+Generation : 8941
+18556567640407: FIXED
+Generation : 8942
+18556567640407: FIXED
+Generation : 8943
+18556567640407: FIXED
+Generation : 8944
+18556567640407: FIXED
+Generation : 8945
+18556567640407: FIXED
+Generation : 8946
+18556567640407: FIXED
+Generation : 8947
+18556567640407: FIXED
+Generation : 8948
+18556567640407: FIXED
+Generation : 8949
+18556567640407: FIXED
+Generation : 8950
+18556567640407: FIXED
+Generation : 8951
+18556567640407: FIXED
+Generation : 8952
+18556567640407: FIXED
+Generation : 8953
+18556567640407: FIXED
+Generation : 8954
+18556567640407: FIXED
+Generation : 8955
+18556567640407: FIXED
+Generation : 8956
+18556567640407: FIXED
+Generation : 8957
+18556567640407: FIXED
+Generation : 8958
+18556567640407: FIXED
+Generation : 8959
+18556567640407: FIXED
+Generation : 8960
+18556567640407: FIXED
+Generation : 8961
+18556567640407: FIXED
+Generation : 8962
+18556567640407: FIXED
+Generation : 8963
+18556567640407: FIXED
+Generation : 8964
+18556567640407: FIXED
+Generation : 8965
+18556567640407: FIXED
+Generation : 8966
+18556567640407: FIXED
+Generation : 8967
+18556567640407: FIXED
+Generation : 8968
+18556567640407: FIXED
+Generation : 8969
+18556567640407: FIXED
+Generation : 8970
+18556567640407: FIXED
+Generation : 8971
+18556567640407: FIXED
+Generation : 8972
+18556567640407: FIXED
+Generation : 8973
+18556567640407: FIXED
+Generation : 8974
+18556567640407: FIXED
+Generation : 8975
+18556567640407: FIXED
+Generation : 8976
+18556567640407: FIXED
+Generation : 8977
+18556567640407: FIXED
+Generation : 8978
+18556567640407: FIXED
+Generation : 8979
+18556567640407: FIXED
+Generation : 8980
+18556567640407: FIXED
+Generation : 8981
+18556567640407: FIXED
+Generation : 8982
+18556567640407: FIXED
+Generation : 8983
+18556567640407: FIXED
+Generation : 8984
+18556567640407: FIXED
+Generation : 8985
+18556567640407: FIXED
+Generation : 8986
+18556567640407: FIXED
+Generation : 8987
+18556567640407: FIXED
+Generation : 8988
+18556567640407: FIXED
+Generation : 8989
+18556567640407: FIXED
+Generation : 8990
+18556567640407: FIXED
+Generation : 8991
+18556567640407: FIXED
+Generation : 8992
+18556567640407: FIXED
+Generation : 8993
+18556567640407: FIXED
+Generation : 8994
+18556567640407: FIXED
+Generation : 8995
+18556567640407: FIXED
+Generation : 8996
+18556567640407: FIXED
+Generation : 8997
+18556567640407: FIXED
+Generation : 8998
+18556567640407: FIXED
+Generation : 8999
+18556567640407: FIXED
+Generation : 9000
+18556567640407: FIXED
+Generation : 9001
+18556567640407: FIXED
+Generation : 9002
+18556567640407: FIXED
+Generation : 9003
+18556567640407: FIXED
+Generation : 9004
+18556567640407: FIXED
+Generation : 9005
+18556567640407: FIXED
+Generation : 9006
+18556567640407: FIXED
+Generation : 9007
+18556567640407: FIXED
+Generation : 9008
+18556567640407: FIXED
+Generation : 9009
+18556567640407: FIXED
+Generation : 9010
+18556567640407: FIXED
+Generation : 9011
+18556567640407: FIXED
+Generation : 9012
+18556567640407: FIXED
+Generation : 9013
+18556567640407: FIXED
+Generation : 9014
+18556567640407: FIXED
+Generation : 9015
+18556567640407: FIXED
+Generation : 9016
+18556567640407: FIXED
+Generation : 9017
+18556567640407: FIXED
+Generation : 9018
+18556567640407: FIXED
+Generation : 9019
+18556567640407: FIXED
+Generation : 9020
+18556567640407: FIXED
+Generation : 9021
+18556567640407: FIXED
+Generation : 9022
+18556567640407: FIXED
+Generation : 9023
+18556567640407: FIXED
+Generation : 9024
+18556567640407: FIXED
+Generation : 9025
+18556567640407: FIXED
+Generation : 9026
+18556567640407: FIXED
+Generation : 9027
+18556567640407: FIXED
+Generation : 9028
+18556567640407: FIXED
+Generation : 9029
+18556567640407: FIXED
+Generation : 9030
+18556567640407: FIXED
+Generation : 9031
+18556567640407: FIXED
+Generation : 9032
+18556567640407: FIXED
+Generation : 9033
+18556567640407: FIXED
+Generation : 9034
+18556567640407: FIXED
+Generation : 9035
+18556567640407: FIXED
+Generation : 9036
+18556567640407: FIXED
+Generation : 9037
+18556567640407: FIXED
+Generation : 9038
+18556567640407: FIXED
+Generation : 9039
+18556567640407: FIXED
+Generation : 9040
+18556567640407: FIXED
+Generation : 9041
+18556567640407: FIXED
+Generation : 9042
+18556567640407: FIXED
+Generation : 9043
+18556567640407: FIXED
+Generation : 9044
+18556567640407: FIXED
+Generation : 9045
+18556567640407: FIXED
+Generation : 9046
+18556567640407: FIXED
+Generation : 9047
+18556567640407: FIXED
+Generation : 9048
+18556567640407: FIXED
+Generation : 9049
+18556567640407: FIXED
+Generation : 9050
+18556567640407: FIXED
+Generation : 9051
+18556567640407: FIXED
+Generation : 9052
+18556567640407: FIXED
+Generation : 9053
+18556567640407: FIXED
+Generation : 9054
+18556567640407: FIXED
+Generation : 9055
+18556567640407: FIXED
+Generation : 9056
+18556567640407: FIXED
+Generation : 9057
+18556567640407: FIXED
+Generation : 9058
+18556567640407: FIXED
+Generation : 9059
+18556567640407: FIXED
+Generation : 9060
+18556567640407: FIXED
+Generation : 9061
+18556567640407: FIXED
+Generation : 9062
+18556567640407: FIXED
+Generation : 9063
+18556567640407: FIXED
+Generation : 9064
+18556567640407: FIXED
+Generation : 9065
+18556567640407: FIXED
+Generation : 9066
+18556567640407: FIXED
+Generation : 9067
+18556567640407: FIXED
+Generation : 9068
+18556567640407: FIXED
+Generation : 9069
+18556567640407: FIXED
+Generation : 9070
+18556567640407: FIXED
+Generation : 9071
+18556567640407: FIXED
+Generation : 9072
+18556567640407: FIXED
+Generation : 9073
+18556567640407: FIXED
+Generation : 9074
+18556567640407: FIXED
+Generation : 9075
+18556567640407: FIXED
+Generation : 9076
+18556567640407: FIXED
+Generation : 9077
+18556567640407: FIXED
+Generation : 9078
+18556567640407: FIXED
+Generation : 9079
+18556567640407: FIXED
+Generation : 9080
+18556567640407: FIXED
+Generation : 9081
+18556567640407: FIXED
+Generation : 9082
+18556567640407: FIXED
+Generation : 9083
+18556567640407: FIXED
+Generation : 9084
+18556567640407: FIXED
+Generation : 9085
+18556567640407: FIXED
+Generation : 9086
+18556567640407: FIXED
+Generation : 9087
+18556567640407: FIXED
+Generation : 9088
+18556567640407: FIXED
+Generation : 9089
+18556567640407: FIXED
+Generation : 9090
+18556567640407: FIXED
+Generation : 9091
+18556567640407: FIXED
+Generation : 9092
+18556567640407: FIXED
+Generation : 9093
+18556567640407: FIXED
+Generation : 9094
+18556567640407: FIXED
+Generation : 9095
+18556567640407: FIXED
+Generation : 9096
+18556567640407: FIXED
+Generation : 9097
+18556567640407: FIXED
+Generation : 9098
+18556567640407: FIXED
+Generation : 9099
+18556567640407: FIXED
+Generation : 9100
+18556567640407: FIXED
+Generation : 9101
+18556567640407: FIXED
+Generation : 9102
+18556567640407: FIXED
+Generation : 9103
+18556567640407: FIXED
+Generation : 9104
+18556567640407: FIXED
+Generation : 9105
+18556567640407: FIXED
+Generation : 9106
+18556567640407: FIXED
+Generation : 9107
+18556567640407: FIXED
+Generation : 9108
+18556567640407: FIXED
+Generation : 9109
+18556567640407: FIXED
+Generation : 9110
+18556567640407: FIXED
+Generation : 9111
+18556567640407: FIXED
+Generation : 9112
+18556567640407: FIXED
+Generation : 9113
+18556567640407: FIXED
+Generation : 9114
+18556567640407: FIXED
+Generation : 9115
+18556567640407: FIXED
+Generation : 9116
+18556567640407: FIXED
+Generation : 9117
+18556567640407: FIXED
+Generation : 9118
+18556567640407: FIXED
+Generation : 9119
+18556567640407: FIXED
+Generation : 9120
+18556567640407: FIXED
+Generation : 9121
+18556567640407: FIXED
+Generation : 9122
+18556567640407: FIXED
+Generation : 9123
+18556567640407: FIXED
+Generation : 9124
+18556567640407: FIXED
+Generation : 9125
+18556567640407: FIXED
+Generation : 9126
+18556567640407: FIXED
+Generation : 9127
+18556567640407: FIXED
+Generation : 9128
+18556567640407: FIXED
+Generation : 9129
+18556567640407: FIXED
+Generation : 9130
+18556567640407: FIXED
+Generation : 9131
+18556567640407: FIXED
+Generation : 9132
+18556567640407: FIXED
+Generation : 9133
+18556567640407: FIXED
+Generation : 9134
+18556567640407: FIXED
+Generation : 9135
+18556567640407: FIXED
+Generation : 9136
+18556567640407: FIXED
+Generation : 9137
+18556567640407: FIXED
+Generation : 9138
+18556567640407: FIXED
+Generation : 9139
+18556567640407: FIXED
+Generation : 9140
+18556567640407: FIXED
+Generation : 9141
+18556567640407: FIXED
+Generation : 9142
+18556567640407: FIXED
+Generation : 9143
+18556567640407: FIXED
+Generation : 9144
+18556567640407: FIXED
+Generation : 9145
+18556567640407: FIXED
+Generation : 9146
+18556567640407: FIXED
+Generation : 9147
+18556567640407: FIXED
+Generation : 9148
+18556567640407: FIXED
+Generation : 9149
+18556567640407: FIXED
+Generation : 9150
+18556567640407: FIXED
+Generation : 9151
+18556567640407: FIXED
+Generation : 9152
+18556567640407: FIXED
+Generation : 9153
+18556567640407: FIXED
+Generation : 9154
+18556567640407: FIXED
+Generation : 9155
+18556567640407: FIXED
+Generation : 9156
+18556567640407: FIXED
+Generation : 9157
+18556567640407: FIXED
+Generation : 9158
+18556567640407: FIXED
+Generation : 9159
+18556567640407: FIXED
+Generation : 9160
+18556567640407: FIXED
+Generation : 9161
+18556567640407: FIXED
+Generation : 9162
+18556567640407: FIXED
+Generation : 9163
+18556567640407: FIXED
+Generation : 9164
+18556567640407: FIXED
+Generation : 9165
+18556567640407: FIXED
+Generation : 9166
+18556567640407: FIXED
+Generation : 9167
+18556567640407: FIXED
+Generation : 9168
+18556567640407: FIXED
+Generation : 9169
+18556567640407: FIXED
+Generation : 9170
+18556567640407: FIXED
+Generation : 9171
+18556567640407: FIXED
+Generation : 9172
+18556567640407: FIXED
+Generation : 9173
+18556567640407: FIXED
+Generation : 9174
+18556567640407: FIXED
+Generation : 9175
+18556567640407: FIXED
+Generation : 9176
+18556567640407: FIXED
+Generation : 9177
+18556567640407: FIXED
+Generation : 9178
+18556567640407: FIXED
+Generation : 9179
+18556567640407: FIXED
+Generation : 9180
+18556567640407: FIXED
+Generation : 9181
+18556567640407: FIXED
+Generation : 9182
+18556567640407: FIXED
+Generation : 9183
+18556567640407: FIXED
+Generation : 9184
+18556567640407: FIXED
+Generation : 9185
+18556567640407: FIXED
+Generation : 9186
+18556567640407: FIXED
+Generation : 9187
+18556567640407: FIXED
+Generation : 9188
+18556567640407: FIXED
+Generation : 9189
+18556567640407: FIXED
+Generation : 9190
+18556567640407: FIXED
+Generation : 9191
+18556567640407: FIXED
+Generation : 9192
+18556567640407: FIXED
+Generation : 9193
+18556567640407: FIXED
+Generation : 9194
+18556567640407: FIXED
+Generation : 9195
+18556567640407: FIXED
+Generation : 9196
+18556567640407: FIXED
+Generation : 9197
+18556567640407: FIXED
+Generation : 9198
+18556567640407: FIXED
+Generation : 9199
+18556567640407: FIXED
+Generation : 9200
+18556567640407: FIXED
+Generation : 9201
+18556567640407: FIXED
+Generation : 9202
+18556567640407: FIXED
+Generation : 9203
+18556567640407: FIXED
+Generation : 9204
+18556567640407: FIXED
+Generation : 9205
+18556567640407: FIXED
+Generation : 9206
+18556567640407: FIXED
+Generation : 9207
+18556567640407: FIXED
+Generation : 9208
+18556567640407: FIXED
+Generation : 9209
+18556567640407: FIXED
+Generation : 9210
+18556567640407: FIXED
+Generation : 9211
+18556567640407: FIXED
+Generation : 9212
+18556567640407: FIXED
+Generation : 9213
+18556567640407: FIXED
+Generation : 9214
+18556567640407: FIXED
+Generation : 9215
+18556567640407: FIXED
+Generation : 9216
+18556567640407: FIXED
+Generation : 9217
+18556567640407: FIXED
+Generation : 9218
+18556567640407: FIXED
+Generation : 9219
+18556567640407: FIXED
+Generation : 9220
+18556567640407: FIXED
+Generation : 9221
+18556567640407: FIXED
+Generation : 9222
+18556567640407: FIXED
+Generation : 9223
+18556567640407: FIXED
+Generation : 9224
+18556567640407: FIXED
+Generation : 9225
+18556567640407: FIXED
+Generation : 9226
+18556567640407: FIXED
+Generation : 9227
+18556567640407: FIXED
+Generation : 9228
+18556567640407: FIXED
+Generation : 9229
+18556567640407: FIXED
+Generation : 9230
+18556567640407: FIXED
+Generation : 9231
+18556567640407: FIXED
+Generation : 9232
+18556567640407: FIXED
+Generation : 9233
+18556567640407: FIXED
+Generation : 9234
+18556567640407: FIXED
+Generation : 9235
+18556567640407: FIXED
+Generation : 9236
+18556567640407: FIXED
+Generation : 9237
+18556567640407: FIXED
+Generation : 9238
+18556567640407: FIXED
+Generation : 9239
+18556567640407: FIXED
+Generation : 9240
+18556567640407: FIXED
+Generation : 9241
+18556567640407: FIXED
+Generation : 9242
+18556567640407: FIXED
+Generation : 9243
+18556567640407: FIXED
+Generation : 9244
+18556567640407: FIXED
+Generation : 9245
+18556567640407: FIXED
+Generation : 9246
+18556567640407: FIXED
+Generation : 9247
+18556567640407: FIXED
+Generation : 9248
+18556567640407: FIXED
+Generation : 9249
+18556567640407: FIXED
+Generation : 9250
+18556567640407: FIXED
+Generation : 9251
+18556567640407: FIXED
+Generation : 9252
+18556567640407: FIXED
+Generation : 9253
+18556567640407: FIXED
+Generation : 9254
+18556567640407: FIXED
+Generation : 9255
+18556567640407: FIXED
+Generation : 9256
+18556567640407: FIXED
+Generation : 9257
+18556567640407: FIXED
+Generation : 9258
+18556567640407: FIXED
+Generation : 9259
+18556567640407: FIXED
+Generation : 9260
+18556567640407: FIXED
+Generation : 9261
+18556567640407: FIXED
+Generation : 9262
+18556567640407: FIXED
+Generation : 9263
+18556567640407: FIXED
+Generation : 9264
+18556567640407: FIXED
+Generation : 9265
+18556567640407: FIXED
+Generation : 9266
+18556567640407: FIXED
+Generation : 9267
+18556567640407: FIXED
+Generation : 9268
+18556567640407: FIXED
+Generation : 9269
+18556567640407: FIXED
+Generation : 9270
+18556567640407: FIXED
+Generation : 9271
+18556567640407: FIXED
+Generation : 9272
+18556567640407: FIXED
+Generation : 9273
+18556567640407: FIXED
+Generation : 9274
+18556567640407: FIXED
+Generation : 9275
+18556567640407: FIXED
+Generation : 9276
+18556567640407: FIXED
+Generation : 9277
+18556567640407: FIXED
+Generation : 9278
+18556567640407: FIXED
+Generation : 9279
+18556567640407: FIXED
+Generation : 9280
+18556567640407: FIXED
+Generation : 9281
+18556567640407: FIXED
+Generation : 9282
+18556567640407: FIXED
+Generation : 9283
+18556567640407: FIXED
+Generation : 9284
+18556567640407: FIXED
+Generation : 9285
+18556567640407: FIXED
+Generation : 9286
+18556567640407: FIXED
+Generation : 9287
+18556567640407: FIXED
+Generation : 9288
+18556567640407: FIXED
+Generation : 9289
+18556567640407: FIXED
+Generation : 9290
+18556567640407: FIXED
+Generation : 9291
+18556567640407: FIXED
+Generation : 9292
+18556567640407: FIXED
+Generation : 9293
+18556567640407: FIXED
+Generation : 9294
+18556567640407: FIXED
+Generation : 9295
+18556567640407: FIXED
+Generation : 9296
+18556567640407: FIXED
+Generation : 9297
+18556567640407: FIXED
+Generation : 9298
+18556567640407: FIXED
+Generation : 9299
+18556567640407: FIXED
+Generation : 9300
+18556567640407: FIXED
+Generation : 9301
+18556567640407: FIXED
+Generation : 9302
+18556567640407: FIXED
+Generation : 9303
+18556567640407: FIXED
+Generation : 9304
+18556567640407: FIXED
+Generation : 9305
+18556567640407: FIXED
+Generation : 9306
+18556567640407: FIXED
+Generation : 9307
+18556567640407: FIXED
+Generation : 9308
+18556567640407: FIXED
+Generation : 9309
+18556567640407: FIXED
+Generation : 9310
+18556567640407: FIXED
+Generation : 9311
+18556567640407: FIXED
+Generation : 9312
+18556567640407: FIXED
+Generation : 9313
+18556567640407: FIXED
+Generation : 9314
+18556567640407: FIXED
+Generation : 9315
+18556567640407: FIXED
+Generation : 9316
+18556567640407: FIXED
+Generation : 9317
+18556567640407: FIXED
+Generation : 9318
+18556567640407: FIXED
+Generation : 9319
+18556567640407: FIXED
+Generation : 9320
+18556567640407: FIXED
+Generation : 9321
+18556567640407: FIXED
+Generation : 9322
+18556567640407: FIXED
+Generation : 9323
+18556567640407: FIXED
+Generation : 9324
+18556567640407: FIXED
+Generation : 9325
+18556567640407: FIXED
+Generation : 9326
+18556567640407: FIXED
+Generation : 9327
+18556567640407: FIXED
+Generation : 9328
+18556567640407: FIXED
+Generation : 9329
+18556567640407: FIXED
+Generation : 9330
+18556567640407: FIXED
+Generation : 9331
+18556567640407: FIXED
+Generation : 9332
+18556567640407: FIXED
+Generation : 9333
+18556567640407: FIXED
+Generation : 9334
+18556567640407: FIXED
+Generation : 9335
+18556567640407: FIXED
+Generation : 9336
+18556567640407: FIXED
+Generation : 9337
+18556567640407: FIXED
+Generation : 9338
+18556567640407: FIXED
+Generation : 9339
+18556567640407: FIXED
+Generation : 9340
+18556567640407: FIXED
+Generation : 9341
+18556567640407: FIXED
+Generation : 9342
+18556567640407: FIXED
+Generation : 9343
+18556567640407: FIXED
+Generation : 9344
+18556567640407: FIXED
+Generation : 9345
+18556567640407: FIXED
+Generation : 9346
+18556567640407: FIXED
+Generation : 9347
+18556567640407: FIXED
+Generation : 9348
+18556567640407: FIXED
+Generation : 9349
+18556567640407: FIXED
+Generation : 9350
+18556567640407: FIXED
+Generation : 9351
+18556567640407: FIXED
+Generation : 9352
+18556567640407: FIXED
+Generation : 9353
+18556567640407: FIXED
+Generation : 9354
+18556567640407: FIXED
+Generation : 9355
+18556567640407: FIXED
+Generation : 9356
+18556567640407: FIXED
+Generation : 9357
+18556567640407: FIXED
+Generation : 9358
+18556567640407: FIXED
+Generation : 9359
+18556567640407: FIXED
+Generation : 9360
+18556567640407: FIXED
+Generation : 9361
+18556567640407: FIXED
+Generation : 9362
+18556567640407: FIXED
+Generation : 9363
+18556567640407: FIXED
+Generation : 9364
+18556567640407: FIXED
+Generation : 9365
+18556567640407: FIXED
+Generation : 9366
+18556567640407: FIXED
+Generation : 9367
+18556567640407: FIXED
+Generation : 9368
+18556567640407: FIXED
+Generation : 9369
+18556567640407: FIXED
+Generation : 9370
+18556567640407: FIXED
+Generation : 9371
+18556567640407: FIXED
+Generation : 9372
+18556567640407: FIXED
+Generation : 9373
+18556567640407: FIXED
+Generation : 9374
+18556567640407: FIXED
+Generation : 9375
+18556567640407: FIXED
+Generation : 9376
+18556567640407: FIXED
+Generation : 9377
+18556567640407: FIXED
+Generation : 9378
+18556567640407: FIXED
+Generation : 9379
+18556567640407: FIXED
+Generation : 9380
+18556567640407: FIXED
+Generation : 9381
+18556567640407: FIXED
+Generation : 9382
+18556567640407: FIXED
+Generation : 9383
+18556567640407: FIXED
+Generation : 9384
+18556567640407: FIXED
+Generation : 9385
+18556567640407: FIXED
+Generation : 9386
+18556567640407: FIXED
+Generation : 9387
+18556567640407: FIXED
+Generation : 9388
+18556567640407: FIXED
+Generation : 9389
+18556567640407: FIXED
+Generation : 9390
+18556567640407: FIXED
+Generation : 9391
+18556567640407: FIXED
+Generation : 9392
+18556567640407: FIXED
+Generation : 9393
+18556567640407: FIXED
+Generation : 9394
+18556567640407: FIXED
+Generation : 9395
+18556567640407: FIXED
+Generation : 9396
+18556567640407: FIXED
+Generation : 9397
+18556567640407: FIXED
+Generation : 9398
+18556567640407: FIXED
+Generation : 9399
+18556567640407: FIXED
+Generation : 9400
+18556567640407: FIXED
+Generation : 9401
+18556567640407: FIXED
+Generation : 9402
+18556567640407: FIXED
+Generation : 9403
+18556567640407: FIXED
+Generation : 9404
+18556567640407: FIXED
+Generation : 9405
+18556567640407: FIXED
+Generation : 9406
+18556567640407: FIXED
+Generation : 9407
+18556567640407: FIXED
+Generation : 9408
+18556567640407: FIXED
+Generation : 9409
+18556567640407: FIXED
+Generation : 9410
+18556567640407: FIXED
+Generation : 9411
+18556567640407: FIXED
+Generation : 9412
+18556567640407: FIXED
+Generation : 9413
+18556567640407: FIXED
+Generation : 9414
+18556567640407: FIXED
+Generation : 9415
+18556567640407: FIXED
+Generation : 9416
+18556567640407: FIXED
+Generation : 9417
+18556567640407: FIXED
+Generation : 9418
+18556567640407: FIXED
+Generation : 9419
+18556567640407: FIXED
+Generation : 9420
+18556567640407: FIXED
+Generation : 9421
+18556567640407: FIXED
+Generation : 9422
+18556567640407: FIXED
+Generation : 9423
+18556567640407: FIXED
+Generation : 9424
+18556567640407: FIXED
+Generation : 9425
+18556567640407: FIXED
+Generation : 9426
+18556567640407: FIXED
+Generation : 9427
+18556567640407: FIXED
+Generation : 9428
+18556567640407: FIXED
+Generation : 9429
+18556567640407: FIXED
+Generation : 9430
+18556567640407: FIXED
+Generation : 9431
+18556567640407: FIXED
+Generation : 9432
+18556567640407: FIXED
+Generation : 9433
+18556567640407: FIXED
+Generation : 9434
+18556567640407: FIXED
+Generation : 9435
+18556567640407: FIXED
+Generation : 9436
+18556567640407: FIXED
+Generation : 9437
+18556567640407: FIXED
+Generation : 9438
+18556567640407: FIXED
+Generation : 9439
+18556567640407: FIXED
+Generation : 9440
+18556567640407: FIXED
+Generation : 9441
+18556567640407: FIXED
+Generation : 9442
+18556567640407: FIXED
+Generation : 9443
+18556567640407: FIXED
+Generation : 9444
+18556567640407: FIXED
+Generation : 9445
+18556567640407: FIXED
+Generation : 9446
+18556567640407: FIXED
+Generation : 9447
+18556567640407: FIXED
+Generation : 9448
+18556567640407: FIXED
+Generation : 9449
+18556567640407: FIXED
+Generation : 9450
+18556567640407: FIXED
+Generation : 9451
+18556567640407: FIXED
+Generation : 9452
+18556567640407: FIXED
+Generation : 9453
+18556567640407: FIXED
+Generation : 9454
+18556567640407: FIXED
+Generation : 9455
+18556567640407: FIXED
+Generation : 9456
+18556567640407: FIXED
+Generation : 9457
+18556567640407: FIXED
+Generation : 9458
+18556567640407: FIXED
+Generation : 9459
+18556567640407: FIXED
+Generation : 9460
+18556567640407: FIXED
+Generation : 9461
+18556567640407: FIXED
+Generation : 9462
+18556567640407: FIXED
+Generation : 9463
+18556567640407: FIXED
+Generation : 9464
+18556567640407: FIXED
+Generation : 9465
+18556567640407: FIXED
+Generation : 9466
+18556567640407: FIXED
+Generation : 9467
+18556567640407: FIXED
+Generation : 9468
+18556567640407: FIXED
+Generation : 9469
+18556567640407: FIXED
+Generation : 9470
+18556567640407: FIXED
+Generation : 9471
+18556567640407: FIXED
+Generation : 9472
+18556567640407: FIXED
+Generation : 9473
+18556567640407: FIXED
+Generation : 9474
+18556567640407: FIXED
+Generation : 9475
+18556567640407: FIXED
+Generation : 9476
+18556567640407: FIXED
+Generation : 9477
+18556567640407: FIXED
+Generation : 9478
+18556567640407: FIXED
+Generation : 9479
+18556567640407: FIXED
+Generation : 9480
+18556567640407: FIXED
+Generation : 9481
+18556567640407: FIXED
+Generation : 9482
+18556567640407: FIXED
+Generation : 9483
+18556567640407: FIXED
+Generation : 9484
+18556567640407: FIXED
+Generation : 9485
+18556567640407: FIXED
+Generation : 9486
+18556567640407: FIXED
+Generation : 9487
+18556567640407: FIXED
+Generation : 9488
+18556567640407: FIXED
+Generation : 9489
+18556567640407: FIXED
+Generation : 9490
+18556567640407: FIXED
+Generation : 9491
+18556567640407: FIXED
+Generation : 9492
+18556567640407: FIXED
+Generation : 9493
+18556567640407: FIXED
+Generation : 9494
+18556567640407: FIXED
+Generation : 9495
+18556567640407: FIXED
+Generation : 9496
+18556567640407: FIXED
+Generation : 9497
+18556567640407: FIXED
+Generation : 9498
+18556567640407: FIXED
+Generation : 9499
+18556567640407: FIXED
+Generation : 9500
+18556567640407: FIXED
+Generation : 9501
+18556567640407: FIXED
+Generation : 9502
+18556567640407: FIXED
+Generation : 9503
+18556567640407: FIXED
+Generation : 9504
+18556567640407: FIXED
+Generation : 9505
+18556567640407: FIXED
+Generation : 9506
+18556567640407: FIXED
+Generation : 9507
+18556567640407: FIXED
+Generation : 9508
+18556567640407: FIXED
+Generation : 9509
+18556567640407: FIXED
+Generation : 9510
+18556567640407: FIXED
+Generation : 9511
+18556567640407: FIXED
+Generation : 9512
+18556567640407: FIXED
+Generation : 9513
+18556567640407: FIXED
+Generation : 9514
+18556567640407: FIXED
+Generation : 9515
+18556567640407: FIXED
+Generation : 9516
+18556567640407: FIXED
+Generation : 9517
+18556567640407: FIXED
+Generation : 9518
+18556567640407: FIXED
+Generation : 9519
+18556567640407: FIXED
+Generation : 9520
+18556567640407: FIXED
+Generation : 9521
+18556567640407: FIXED
+Generation : 9522
+18556567640407: FIXED
+Generation : 9523
+18556567640407: FIXED
+Generation : 9524
+18556567640407: FIXED
+Generation : 9525
+18556567640407: FIXED
+Generation : 9526
+18556567640407: FIXED
+Generation : 9527
+18556567640407: FIXED
+Generation : 9528
+18556567640407: FIXED
+Generation : 9529
+18556567640407: FIXED
+Generation : 9530
+18556567640407: FIXED
+Generation : 9531
+18556567640407: FIXED
+Generation : 9532
+18556567640407: FIXED
+Generation : 9533
+18556567640407: FIXED
+Generation : 9534
+18556567640407: FIXED
+Generation : 9535
+18556567640407: FIXED
+Generation : 9536
+18556567640407: FIXED
+Generation : 9537
+18556567640407: FIXED
+Generation : 9538
+18556567640407: FIXED
+Generation : 9539
+18556567640407: FIXED
+Generation : 9540
+18556567640407: FIXED
+Generation : 9541
+18556567640407: FIXED
+Generation : 9542
+18556567640407: FIXED
+Generation : 9543
+18556567640407: FIXED
+Generation : 9544
+18556567640407: FIXED
+Generation : 9545
+18556567640407: FIXED
+Generation : 9546
+18556567640407: FIXED
+Generation : 9547
+18556567640407: FIXED
+Generation : 9548
+18556567640407: FIXED
+Generation : 9549
+18556567640407: FIXED
+Generation : 9550
+18556567640407: FIXED
+Generation : 9551
+18556567640407: FIXED
+Generation : 9552
+18556567640407: FIXED
+Generation : 9553
+18556567640407: FIXED
+Generation : 9554
+18556567640407: FIXED
+Generation : 9555
+18556567640407: FIXED
+Generation : 9556
+18556567640407: FIXED
+Generation : 9557
+18556567640407: FIXED
+Generation : 9558
+18556567640407: FIXED
+Generation : 9559
+18556567640407: FIXED
+Generation : 9560
+18556567640407: FIXED
+Generation : 9561
+18556567640407: FIXED
+Generation : 9562
+18556567640407: FIXED
+Generation : 9563
+18556567640407: FIXED
+Generation : 9564
+18556567640407: FIXED
+Generation : 9565
+18556567640407: FIXED
+Generation : 9566
+18556567640407: FIXED
+Generation : 9567
+18556567640407: FIXED
+Generation : 9568
+18556567640407: FIXED
+Generation : 9569
+18556567640407: FIXED
+Generation : 9570
+18556567640407: FIXED
+Generation : 9571
+18556567640407: FIXED
+Generation : 9572
+18556567640407: FIXED
+Generation : 9573
+18556567640407: FIXED
+Generation : 9574
+18556567640407: FIXED
+Generation : 9575
+18556567640407: FIXED
+Generation : 9576
+18556567640407: FIXED
+Generation : 9577
+18556567640407: FIXED
+Generation : 9578
+18556567640407: FIXED
+Generation : 9579
+18556567640407: FIXED
+Generation : 9580
+18556567640407: FIXED
+Generation : 9581
+18556567640407: FIXED
+Generation : 9582
+18556567640407: FIXED
+Generation : 9583
+18556567640407: FIXED
+Generation : 9584
+18556567640407: FIXED
+Generation : 9585
+18556567640407: FIXED
+Generation : 9586
+18556567640407: FIXED
+Generation : 9587
+18556567640407: FIXED
+Generation : 9588
+18556567640407: FIXED
+Generation : 9589
+18556567640407: FIXED
+Generation : 9590
+18556567640407: FIXED
+Generation : 9591
+18556567640407: FIXED
+Generation : 9592
+18556567640407: FIXED
+Generation : 9593
+18556567640407: FIXED
+Generation : 9594
+18556567640407: FIXED
+Generation : 9595
+18556567640407: FIXED
+Generation : 9596
+18556567640407: FIXED
+Generation : 9597
+18556567640407: FIXED
+Generation : 9598
+18556567640407: FIXED
+Generation : 9599
+18556567640407: FIXED
+Generation : 9600
+18556567640407: FIXED
+Generation : 9601
+18556567640407: FIXED
+Generation : 9602
+18556567640407: FIXED
+Generation : 9603
+18556567640407: FIXED
+Generation : 9604
+18556567640407: FIXED
+Generation : 9605
+18556567640407: FIXED
+Generation : 9606
+18556567640407: FIXED
+Generation : 9607
+18556567640407: FIXED
+Generation : 9608
+18556567640407: FIXED
+Generation : 9609
+18556567640407: FIXED
+Generation : 9610
+18556567640407: FIXED
+Generation : 9611
+18556567640407: FIXED
+Generation : 9612
+18556567640407: FIXED
+Generation : 9613
+18556567640407: FIXED
+Generation : 9614
+18556567640407: FIXED
+Generation : 9615
+18556567640407: FIXED
+Generation : 9616
+18556567640407: FIXED
+Generation : 9617
+18556567640407: FIXED
+Generation : 9618
+18556567640407: FIXED
+Generation : 9619
+18556567640407: FIXED
+Generation : 9620
+18556567640407: FIXED
+Generation : 9621
+18556567640407: FIXED
+Generation : 9622
+18556567640407: FIXED
+Generation : 9623
+18556567640407: FIXED
+Generation : 9624
+18556567640407: FIXED
+Generation : 9625
+18556567640407: FIXED
+Generation : 9626
+18556567640407: FIXED
+Generation : 9627
+18556567640407: FIXED
+Generation : 9628
+18556567640407: FIXED
+Generation : 9629
+18556567640407: FIXED
+Generation : 9630
+18556567640407: FIXED
+Generation : 9631
+18556567640407: FIXED
+Generation : 9632
+18556567640407: FIXED
+Generation : 9633
+18556567640407: FIXED
+Generation : 9634
+18556567640407: FIXED
+Generation : 9635
+18556567640407: FIXED
+Generation : 9636
+18556567640407: FIXED
+Generation : 9637
+18556567640407: FIXED
+Generation : 9638
+18556567640407: FIXED
+Generation : 9639
+18556567640407: FIXED
+Generation : 9640
+18556567640407: FIXED
+Generation : 9641
+18556567640407: FIXED
+Generation : 9642
+18556567640407: FIXED
+Generation : 9643
+18556567640407: FIXED
+Generation : 9644
+18556567640407: FIXED
+Generation : 9645
+18556567640407: FIXED
+Generation : 9646
+18556567640407: FIXED
+Generation : 9647
+18556567640407: FIXED
+Generation : 9648
+18556567640407: FIXED
+Generation : 9649
+18556567640407: FIXED
+Generation : 9650
+18556567640407: FIXED
+Generation : 9651
+18556567640407: FIXED
+Generation : 9652
+18556567640407: FIXED
+Generation : 9653
+18556567640407: FIXED
+Generation : 9654
+18556567640407: FIXED
+Generation : 9655
+18556567640407: FIXED
+Generation : 9656
+18556567640407: FIXED
+Generation : 9657
+18556567640407: FIXED
+Generation : 9658
+18556567640407: FIXED
+Generation : 9659
+18556567640407: FIXED
+Generation : 9660
+18556567640407: FIXED
+Generation : 9661
+18556567640407: FIXED
+Generation : 9662
+18556567640407: FIXED
+Generation : 9663
+18556567640407: FIXED
+Generation : 9664
+18556567640407: FIXED
+Generation : 9665
+18556567640407: FIXED
+Generation : 9666
+18556567640407: FIXED
+Generation : 9667
+18556567640407: FIXED
+Generation : 9668
+18556567640407: FIXED
+Generation : 9669
+18556567640407: FIXED
+Generation : 9670
+18556567640407: FIXED
+Generation : 9671
+18556567640407: FIXED
+Generation : 9672
+18556567640407: FIXED
+Generation : 9673
+18556567640407: FIXED
+Generation : 9674
+18556567640407: FIXED
+Generation : 9675
+18556567640407: FIXED
+Generation : 9676
+18556567640407: FIXED
+Generation : 9677
+18556567640407: FIXED
+Generation : 9678
+18556567640407: FIXED
+Generation : 9679
+18556567640407: FIXED
+Generation : 9680
+18556567640407: FIXED
+Generation : 9681
+18556567640407: FIXED
+Generation : 9682
+18556567640407: FIXED
+Generation : 9683
+18556567640407: FIXED
+Generation : 9684
+18556567640407: FIXED
+Generation : 9685
+18556567640407: FIXED
+Generation : 9686
+18556567640407: FIXED
+Generation : 9687
+18556567640407: FIXED
+Generation : 9688
+18556567640407: FIXED
+Generation : 9689
+18556567640407: FIXED
+Generation : 9690
+18556567640407: FIXED
+Generation : 9691
+18556567640407: FIXED
+Generation : 9692
+18556567640407: FIXED
+Generation : 9693
+18556567640407: FIXED
+Generation : 9694
+18556567640407: FIXED
+Generation : 9695
+18556567640407: FIXED
+Generation : 9696
+18556567640407: FIXED
+Generation : 9697
+18556567640407: FIXED
+Generation : 9698
+18556567640407: FIXED
+Generation : 9699
+18556567640407: FIXED
+Generation : 9700
+18556567640407: FIXED
+Generation : 9701
+18556567640407: FIXED
+Generation : 9702
+18556567640407: FIXED
+Generation : 9703
+18556567640407: FIXED
+Generation : 9704
+18556567640407: FIXED
+Generation : 9705
+18556567640407: FIXED
+Generation : 9706
+18556567640407: FIXED
+Generation : 9707
+18556567640407: FIXED
+Generation : 9708
+18556567640407: FIXED
+Generation : 9709
+18556567640407: FIXED
+Generation : 9710
+18556567640407: FIXED
+Generation : 9711
+18556567640407: FIXED
+Generation : 9712
+18556567640407: FIXED
+Generation : 9713
+18556567640407: FIXED
+Generation : 9714
+18556567640407: FIXED
+Generation : 9715
+18556567640407: FIXED
+Generation : 9716
+18556567640407: FIXED
+Generation : 9717
+18556567640407: FIXED
+Generation : 9718
+18556567640407: FIXED
+Generation : 9719
+18556567640407: FIXED
+Generation : 9720
+18556567640407: FIXED
+Generation : 9721
+18556567640407: FIXED
+Generation : 9722
+18556567640407: FIXED
+Generation : 9723
+18556567640407: FIXED
+Generation : 9724
+18556567640407: FIXED
+Generation : 9725
+18556567640407: FIXED
+Generation : 9726
+18556567640407: FIXED
+Generation : 9727
+18556567640407: FIXED
+Generation : 9728
+18556567640407: FIXED
+Generation : 9729
+18556567640407: FIXED
+Generation : 9730
+18556567640407: FIXED
+Generation : 9731
+18556567640407: FIXED
+Generation : 9732
+18556567640407: FIXED
+Generation : 9733
+18556567640407: FIXED
+Generation : 9734
+18556567640407: FIXED
+Generation : 9735
+18556567640407: FIXED
+Generation : 9736
+18556567640407: FIXED
+Generation : 9737
+18556567640407: FIXED
+Generation : 9738
+18556567640407: FIXED
+Generation : 9739
+18556567640407: FIXED
+Generation : 9740
+18556567640407: FIXED
+Generation : 9741
+18556567640407: FIXED
+Generation : 9742
+18556567640407: FIXED
+Generation : 9743
+18556567640407: FIXED
+Generation : 9744
+18556567640407: FIXED
+Generation : 9745
+18556567640407: FIXED
+Generation : 9746
+18556567640407: FIXED
+Generation : 9747
+18556567640407: FIXED
+Generation : 9748
+18556567640407: FIXED
+Generation : 9749
+18556567640407: FIXED
+Generation : 9750
+18556567640407: FIXED
+Generation : 9751
+18556567640407: FIXED
+Generation : 9752
+18556567640407: FIXED
+Generation : 9753
+18556567640407: FIXED
+Generation : 9754
+18556567640407: FIXED
+Generation : 9755
+18556567640407: FIXED
+Generation : 9756
+18556567640407: FIXED
+Generation : 9757
+18556567640407: FIXED
+Generation : 9758
+18556567640407: FIXED
+Generation : 9759
+18556567640407: FIXED
+Generation : 9760
+18556567640407: FIXED
+Generation : 9761
+18556567640407: FIXED
+Generation : 9762
+18556567640407: FIXED
+Generation : 9763
+18556567640407: FIXED
+Generation : 9764
+18556567640407: FIXED
+Generation : 9765
+18556567640407: FIXED
+Generation : 9766
+18556567640407: FIXED
+Generation : 9767
+18556567640407: FIXED
+Generation : 9768
+18556567640407: FIXED
+Generation : 9769
+18556567640407: FIXED
+Generation : 9770
+18556567640407: FIXED
+Generation : 9771
+18556567640407: FIXED
+Generation : 9772
+18556567640407: FIXED
+Generation : 9773
+18556567640407: FIXED
+Generation : 9774
+18556567640407: FIXED
+Generation : 9775
+18556567640407: FIXED
+Generation : 9776
+18556567640407: FIXED
+Generation : 9777
+18556567640407: FIXED
+Generation : 9778
+18556567640407: FIXED
+Generation : 9779
+18556567640407: FIXED
+Generation : 9780
+18556567640407: FIXED
+Generation : 9781
+18556567640407: FIXED
+Generation : 9782
+18556567640407: FIXED
+Generation : 9783
+18556567640407: FIXED
+Generation : 9784
+18556567640407: FIXED
+Generation : 9785
+18556567640407: FIXED
+Generation : 9786
+18556567640407: FIXED
+Generation : 9787
+18556567640407: FIXED
+Generation : 9788
+18556567640407: FIXED
+Generation : 9789
+18556567640407: FIXED
+Generation : 9790
+18556567640407: FIXED
+Generation : 9791
+18556567640407: FIXED
+Generation : 9792
+18556567640407: FIXED
+Generation : 9793
+18556567640407: FIXED
+Generation : 9794
+18556567640407: FIXED
+Generation : 9795
+18556567640407: FIXED
+Generation : 9796
+18556567640407: FIXED
+Generation : 9797
+18556567640407: FIXED
+Generation : 9798
+18556567640407: FIXED
+Generation : 9799
+18556567640407: FIXED
+Generation : 9800
+18556567640407: FIXED
+Generation : 9801
+18556567640407: FIXED
+Generation : 9802
+18556567640407: FIXED
+Generation : 9803
+18556567640407: FIXED
+Generation : 9804
+18556567640407: FIXED
+Generation : 9805
+18556567640407: FIXED
+Generation : 9806
+18556567640407: FIXED
+Generation : 9807
+18556567640407: FIXED
+Generation : 9808
+18556567640407: FIXED
+Generation : 9809
+18556567640407: FIXED
+Generation : 9810
+18556567640407: FIXED
+Generation : 9811
+18556567640407: FIXED
+Generation : 9812
+18556567640407: FIXED
+Generation : 9813
+18556567640407: FIXED
+Generation : 9814
+18556567640407: FIXED
+Generation : 9815
+18556567640407: FIXED
+Generation : 9816
+18556567640407: FIXED
+Generation : 9817
+18556567640407: FIXED
+Generation : 9818
+18556567640407: FIXED
+Generation : 9819
+18556567640407: FIXED
+Generation : 9820
+18556567640407: FIXED
+Generation : 9821
+18556567640407: FIXED
+Generation : 9822
+18556567640407: FIXED
+Generation : 9823
+18556567640407: FIXED
+Generation : 9824
+18556567640407: FIXED
+Generation : 9825
+18556567640407: FIXED
+Generation : 9826
+18556567640407: FIXED
+Generation : 9827
+18556567640407: FIXED
+Generation : 9828
+18556567640407: FIXED
+Generation : 9829
+18556567640407: FIXED
+Generation : 9830
+18556567640407: FIXED
+Generation : 9831
+18556567640407: FIXED
+Generation : 9832
+18556567640407: FIXED
+Generation : 9833
+18556567640407: FIXED
+Generation : 9834
+18556567640407: FIXED
+Generation : 9835
+18556567640407: FIXED
+Generation : 9836
+18556567640407: FIXED
+Generation : 9837
+18556567640407: FIXED
+Generation : 9838
+18556567640407: FIXED
+Generation : 9839
+18556567640407: FIXED
+Generation : 9840
+18556567640407: FIXED
+Generation : 9841
+18556567640407: FIXED
+Generation : 9842
+18556567640407: FIXED
+Generation : 9843
+18556567640407: FIXED
+Generation : 9844
+18556567640407: FIXED
+Generation : 9845
+18556567640407: FIXED
+Generation : 9846
+18556567640407: FIXED
+Generation : 9847
+18556567640407: FIXED
+Generation : 9848
+18556567640407: FIXED
+Generation : 9849
+18556567640407: FIXED
+Generation : 9850
+18556567640407: FIXED
+Generation : 9851
+18556567640407: FIXED
+Generation : 9852
+18556567640407: FIXED
+Generation : 9853
+18556567640407: FIXED
+Generation : 9854
+18556567640407: FIXED
+Generation : 9855
+18556567640407: FIXED
+Generation : 9856
+18556567640407: FIXED
+Generation : 9857
+18556567640407: FIXED
+Generation : 9858
+18556567640407: FIXED
+Generation : 9859
+18556567640407: FIXED
+Generation : 9860
+18556567640407: FIXED
+Generation : 9861
+18556567640407: FIXED
+Generation : 9862
+18556567640407: FIXED
+Generation : 9863
+18556567640407: FIXED
+Generation : 9864
+18556567640407: FIXED
+Generation : 9865
+18556567640407: FIXED
+Generation : 9866
+18556567640407: FIXED
+Generation : 9867
+18556567640407: FIXED
+Generation : 9868
+18556567640407: FIXED
+Generation : 9869
+18556567640407: FIXED
+Generation : 9870
+18556567640407: FIXED
+Generation : 9871
+18556567640407: FIXED
+Generation : 9872
+18556567640407: FIXED
+Generation : 9873
+18556567640407: FIXED
+Generation : 9874
+18556567640407: FIXED
+Generation : 9875
+18556567640407: FIXED
+Generation : 9876
+18556567640407: FIXED
+Generation : 9877
+18556567640407: FIXED
+Generation : 9878
+18556567640407: FIXED
+Generation : 9879
+18556567640407: FIXED
+Generation : 9880
+18556567640407: FIXED
+Generation : 9881
+18556567640407: FIXED
+Generation : 9882
+18556567640407: FIXED
+Generation : 9883
+18556567640407: FIXED
+Generation : 9884
+18556567640407: FIXED
+Generation : 9885
+18556567640407: FIXED
+Generation : 9886
+18556567640407: FIXED
+Generation : 9887
+18556567640407: FIXED
+Generation : 9888
+18556567640407: FIXED
+Generation : 9889
+18556567640407: FIXED
+Generation : 9890
+18556567640407: FIXED
+Generation : 9891
+18556567640407: FIXED
+Generation : 9892
+18556567640407: FIXED
+Generation : 9893
+18556567640407: FIXED
+Generation : 9894
+18556567640407: FIXED
+Generation : 9895
+18556567640407: FIXED
+Generation : 9896
+18556567640407: FIXED
+Generation : 9897
+18556567640407: FIXED
+Generation : 9898
+18556567640407: FIXED
+Generation : 9899
+18556567640407: FIXED
+Generation : 9900
+18556567640407: FIXED
+Generation : 9901
+18556567640407: FIXED
+Generation : 9902
+18556567640407: FIXED
+Generation : 9903
+18556567640407: FIXED
+Generation : 9904
+18556567640407: FIXED
+Generation : 9905
+18556567640407: FIXED
+Generation : 9906
+18556567640407: FIXED
+Generation : 9907
+18556567640407: FIXED
+Generation : 9908
+18556567640407: FIXED
+Generation : 9909
+18556567640407: FIXED
+Generation : 9910
+18556567640407: FIXED
+Generation : 9911
+18556567640407: FIXED
+Generation : 9912
+18556567640407: FIXED
+Generation : 9913
+18556567640407: FIXED
+Generation : 9914
+18556567640407: FIXED
+Generation : 9915
+18556567640407: FIXED
+Generation : 9916
+18556567640407: FIXED
+Generation : 9917
+18556567640407: FIXED
+Generation : 9918
+18556567640407: FIXED
+Generation : 9919
+18556567640407: FIXED
+Generation : 9920
+18556567640407: FIXED
+Generation : 9921
+18556567640407: FIXED
+Generation : 9922
+18556567640407: FIXED
+Generation : 9923
+18556567640407: FIXED
+Generation : 9924
+18556567640407: FIXED
+Generation : 9925
+18556567640407: FIXED
+Generation : 9926
+18556567640407: FIXED
+Generation : 9927
+18556567640407: FIXED
+Generation : 9928
+18556567640407: FIXED
+Generation : 9929
+18556567640407: FIXED
+Generation : 9930
+18556567640407: FIXED
+Generation : 9931
+18556567640407: FIXED
+Generation : 9932
+18556567640407: FIXED
+Generation : 9933
+18556567640407: FIXED
+Generation : 9934
+18556567640407: FIXED
+Generation : 9935
+18556567640407: FIXED
+Generation : 9936
+18556567640407: FIXED
+Generation : 9937
+18556567640407: FIXED
+Generation : 9938
+18556567640407: FIXED
+Generation : 9939
+18556567640407: FIXED
+Generation : 9940
+18556567640407: FIXED
+Generation : 9941
+18556567640407: FIXED
+Generation : 9942
+18556567640407: FIXED
+Generation : 9943
+18556567640407: FIXED
+Generation : 9944
+18556567640407: FIXED
+Generation : 9945
+18556567640407: FIXED
+Generation : 9946
+18556567640407: FIXED
+Generation : 9947
+18556567640407: FIXED
+Generation : 9948
+18556567640407: FIXED
+Generation : 9949
+18556567640407: FIXED
+Generation : 9950
+18556567640407: FIXED
+Generation : 9951
+18556567640407: FIXED
+Generation : 9952
+18556567640407: FIXED
+Generation : 9953
+18556567640407: FIXED
+Generation : 9954
+18556567640407: FIXED
+Generation : 9955
+18556567640407: FIXED
+Generation : 9956
+18556567640407: FIXED
+Generation : 9957
+18556567640407: FIXED
+Generation : 9958
+18556567640407: FIXED
+Generation : 9959
+18556567640407: FIXED
+Generation : 9960
+18556567640407: FIXED
+Generation : 9961
+18556567640407: FIXED
+Generation : 9962
+18556567640407: FIXED
+Generation : 9963
+18556567640407: FIXED
+Generation : 9964
+18556567640407: FIXED
+Generation : 9965
+18556567640407: FIXED
+Generation : 9966
+18556567640407: FIXED
+Generation : 9967
+18556567640407: FIXED
+Generation : 9968
+18556567640407: FIXED
+Generation : 9969
+18556567640407: FIXED
+Generation : 9970
+18556567640407: FIXED
+Generation : 9971
+18556567640407: FIXED
+Generation : 9972
+18556567640407: FIXED
+Generation : 9973
+18556567640407: FIXED
+Generation : 9974
+18556567640407: FIXED
+Generation : 9975
+18556567640407: FIXED
+Generation : 9976
+18556567640407: FIXED
+Generation : 9977
+18556567640407: FIXED
+Generation : 9978
+18556567640407: FIXED
+Generation : 9979
+18556567640407: FIXED
+Generation : 9980
+18556567640407: FIXED
+Generation : 9981
+18556567640407: FIXED
+Generation : 9982
+18556567640407: FIXED
+Generation : 9983
+18556567640407: FIXED
+Generation : 9984
+18556567640407: FIXED
+Generation : 9985
+18556567640407: FIXED
+Generation : 9986
+18556567640407: FIXED
+Generation : 9987
+18556567640407: FIXED
+Generation : 9988
+18556567640407: FIXED
+Generation : 9989
+18556567640407: FIXED
+Generation : 9990
+18556567640407: FIXED
+Generation : 9991
+18556567640407: FIXED
+Generation : 9992
+18556567640407: FIXED
+Generation : 9993
+18556567640407: FIXED
+Generation : 9994
+18556567640407: FIXED
+Generation : 9995
+18556567640407: FIXED
+Generation : 9996
+18556567640407: FIXED
+Generation : 9997
+18556567640407: FIXED
+Generation : 9998
+18556567640407: FIXED
+Generation : 9999
+18556567640407: FIXED
+Generation : 10000
+18556567640407: FIXED
+#OUT: 10000 10000 F
+Mutations:
+0 63 m2 500000 0.05 0.5 p1 8000 8451

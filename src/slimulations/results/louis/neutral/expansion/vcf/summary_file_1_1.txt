@@ -1,0 +1,8 @@
+Pop size initiale : 2000
+Pop size finale : 32011
+Number of samples kept : 100
+Mutation rate : 1.67e-08
+Recombination rate : 5e-08
+Generation mitoses (1/alpha, GR) : 1
+Type : Expansion (lasts 2000 epochs, start at 2000 epochs), ratio : 16
+Selection : None

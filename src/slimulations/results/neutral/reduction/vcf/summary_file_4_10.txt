@@ -1,0 +1,10 @@
+Pop size initiale : 1000
+Pop size finale : 100
+Number of samples kept : 100
+Mutation rate : 1e-07
+Number of sites mutated pre added neutral mutations : 0
+Number of sites mutated post added neutral mutations : 2377
+Recombination rate : 1e-07
+Generation mitoses (1/alpha, GR) : 10
+Type : Reduction (lasts 2000 epochs, start at 8000 epochs), ratio : 1/10
+Selection : None
