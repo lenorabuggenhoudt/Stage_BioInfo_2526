@@ -88,9 +88,11 @@ for t in time_gen :  # for every generation
 	else : # if it is after the event, the population size has changed depending on the simulation type
 		if 'reduction' in type_simu :
 			data_dadi.append([float(t) / (2*Popsize_init), Popsize_init * mean_Nu_dadi])
-		else : # 'expansion'
-			data_dadi.append([float(t) / (2*Popsize_init) , Popsize_init * np.exp(np.log(mean_Nu_dadi)/mean_T_dadi*(mean_T_dadi - (t / (2*Popsize_init)) ) )])
-
+		else : 
+			if 'expansion' in type_simu :# 'expansion'
+				data_dadi.append([float(t) / (2*Popsize_init) , Popsize_init * np.exp(np.log(mean_Nu_dadi)/mean_T_dadi*(mean_T_dadi - (t / (2*Popsize_init)) ) )])
+			else : # constant
+				data_dadi([float(t) / (2*Popsize_init), Popsize_init])
 # -------------------------------------------------------
 # ------------------ CSV FILE CREATION ------------------
 # -------------------------------------------------------

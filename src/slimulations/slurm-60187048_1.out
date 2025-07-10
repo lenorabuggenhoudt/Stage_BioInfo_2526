@@ -1,0 +1,11 @@
+TYPE = constant
+SWEEP = 
+REP = 5
+Traceback (most recent call last):
+  File "/shared/ifbstor1/projects/inferscerevol/lenora/Stage_BioInfo_2526/src/slimulations/sfs_representation.py", line 44, in <module>
+    data_neutral, snps_neutral = load_data(out_dirs[1], replicatenumber, GR)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/shared/ifbstor1/projects/inferscerevol/lenora/Stage_BioInfo_2526/src/slimulations/sfs_representation.py", line 32, in load_data
+    with open(file, newline='') as csv_file:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './results/neutral/constant/sfs_1_1.csv'

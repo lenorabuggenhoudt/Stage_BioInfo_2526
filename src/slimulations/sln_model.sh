@@ -165,9 +165,16 @@ if [[ $SWEEP == "false" ]]; then
 		slim_file="reduction_neutral.slim"
 		out_dir="results/neutral/reduction"
 	else
-		echo "expansion"
-		slim_file="expansion_neutral.slim"
-		out_dir="results/neutral/expansion"
+		if [ $TYPE == "expansion" ]; then
+			echo "expansion"
+			slim_file="expansion_neutral.slim"
+			out_dir="results/neutral/expansion"
+		else
+			echo "constant"
+			slim_file="cst_neutral.slim"
+			out_dir="results/neutral/constant"
+		fi
+		
 	fi
 else
 	echo "sweep"
@@ -176,9 +183,15 @@ else
 		slim_file="reduction_sweep.slim"
 		out_dir="results/sweep/reduction"
 	else
-		echo "expansion"
-		slim_file="expansion_sweep.slim"
-		out_dir="results/sweep/expansion"
+		if [ $TYPE == "expansion" ]; then
+			echo "expansion"
+			slim_file="expansion_sweep.slim"
+			out_dir="results/sweep/expansion"
+		else
+			echo "constant"
+			slim_file="cst_sweep.slim"
+			out_dir="results/sweep/constant"
+		fi
 	fi
 fi # to end the if statement
 

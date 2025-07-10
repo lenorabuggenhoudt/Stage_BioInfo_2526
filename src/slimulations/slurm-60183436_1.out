@@ -1,0 +1,17 @@
+TYPE = constant
+SWEEP = true
+POPSIZE = 100
+NB_SAMPLES = 10
+REP = 1
+sweep
+constant
+fin : 1
+r : 1
+Total number of variant sites pre adding neutral mutations : 1
+Total number of variant sites post adding neutral mutations : 2315
+Total number of variant sites pre adding neutral mutations : 1
+Total number of variant sites post adding neutral mutations : 2285
+Total number of variant sites pre adding neutral mutations : 1
+Total number of variant sites post adding neutral mutations : 2256
+Total number of variant sites pre adding neutral mutations : 1
+Total number of variant sites post adding neutral mutations : 2227

@@ -195,3 +195,28 @@ plt.plot([], c="lightcoral", label="Sweep")
 plt.legend()
 
 plt.savefig(f"snps_{typ}.pdf", dpi=300)
+
+
+
+# ---------------------
+# Plot w/o ratio
+# ---------------------
+
+plt.figure(figsize=(10, 6))
+plt.plot(x, GR1_neutral, label="GR=1 (neutral)", color="blue")
+plt.plot(x, GR10_neutral, label="GR=10 (neutral)", color="green")
+plt.plot(x, GR50_neutral, label="GR=50 (neutral)", color="orange")
+plt.plot(x, GR100_neutral, label="GR=100 (neutral)", color="purple")
+plt.plot(x, GR1_sweep, label="GR=1 (sweep)", linestyle="-.", color="blue")
+plt.plot(x, GR10_sweep, label="GR=10 (sweep)", linestyle="-.", color="green")
+plt.plot(x, GR50_sweep, label="GR=50 (sweep)", linestyle="-.", color="orange")
+plt.plot(x, GR100_sweep, label="GR=100 (sweep)", linestyle="-.", color="purple")
+plt.xlabel("Number of sites in common")
+plt.ylabel("SFS (normalized by GR=1 neutral)")
+plt.title("SFS per Generation Rate (Neutral vs Sweep)")
+plt.legend()
+plt.grid(True)
+plt.tight_layout()
+plt.savefig(f"sfs_{typ}.pdf", dpi=300)
+
+

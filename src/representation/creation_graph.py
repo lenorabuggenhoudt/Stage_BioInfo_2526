@@ -70,13 +70,20 @@ def attendu_reduc(generations, Ne, T, nu) :
     
     return np.array(res)
 
+def attendu_cst(generations, Ne) :
+    res = [Ne for i in range(len(generations))]
+    return np.array(res)
+
 
 
 def attendu(type_simu, generations, Ne, T, nu) :
     if 'reduction' in type_simu :
         return attendu_reduc(generations, Ne, T, nu)
     else :
-        return attendu_expo(generations, Ne, T, nu)
+        if 'expansion' in type_simu :
+            return attendu_expo(generations, Ne, T, nu)
+        else :
+            return attendu_cst(generations, Ne)
 
 
 # ----------------------------------------------------------------------------
