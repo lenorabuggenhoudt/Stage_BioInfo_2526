@@ -1,7 +1,0 @@
-TYPE = constant
-SWEEP = 
-REP = 5
-/shared/ifbstor1/projects/inferscerevol/lenora/Stage_BioInfo_2526/src/slimulations/sfs_representation.py:179: MatplotlibDeprecationWarning: The 'labels' parameter of boxplot() has been renamed 'tick_labels' since Matplotlib 3.9; support for the old name will be dropped in 3.11.
-  plt.boxplot(neutral_data, positions=positions_neutral, widths=0.6, patch_artist=True,
-/shared/ifbstor1/projects/inferscerevol/lenora/Stage_BioInfo_2526/src/slimulations/sfs_representation.py:183: MatplotlibDeprecationWarning: The 'labels' parameter of boxplot() has been renamed 'tick_labels' since Matplotlib 3.9; support for the old name will be dropped in 3.11.
-  plt.boxplot(sweep_data, positions=positions_sweep, widths=0.6, patch_artist=True,
