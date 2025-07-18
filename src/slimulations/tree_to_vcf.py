@@ -85,7 +85,12 @@ print(f"Total number of variant sites post adding neutral mutations : {nbr_sites
 
 
 # Site frequency spectrum
-results = osrts.allele_frequency_spectrum(sample_sets=None, windows=None, mode='site', span_normalise=False, polarised=False)
+#results = osrts.allele_frequency_spectrum(sample_sets=None, windows=None, mode='site', span_normalise=False, polarised=False)
+results = osrts.allele_frequency_spectrum(sample_sets=None, windows=None, mode='site', polarised=False)
+normalized_results = results / results.sum()
+print(normalized_results.sum())  # ça donnera bien 1.0
+results = normalized_results
+# polarised False --> folded SFS
 results[0] = nbr_sites_post # the first element is not interesting for us (it does not correspond to the singleton, so we replace it by the number of sites
 results.tofile(f"./{out_dir}/sfs_{replicatenumber}_{generationmitoses}.csv", sep=',')  
 # Get vcf from tree

@@ -65,9 +65,9 @@ echo "SWEEP = $SWEEP"
 
 if [ -v REP ]; then
 	echo "REP = $REP"
-	replicatenumber=$REP # indicates the expansion ratio (expansionratio = taille population finale / taille population initiale)    
+	replicatenumber=$REP  
 else 
-	replicatenumber=1 # By default this ratio is 15
+	replicatenumber=1 
 fi
 
 python3 sfs_representation.py --replicatenumber $replicatenumber --type $TYPE

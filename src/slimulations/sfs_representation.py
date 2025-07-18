@@ -3,6 +3,8 @@ import argparse
 import matplotlib.pyplot as plt
 import numpy as np
 import warnings
+import pandas as pd
+import seaborn as sns
 
 # ----------------------
 # Argument Parsing
@@ -21,202 +23,292 @@ GR = [1, 10, 50, 100]
 # ----------------------
 # Data Loading Functions
 # ----------------------
+
+# Recup the generation when the simulation was fixed
+
+def gen_fixed(file) :
+    with open(file, "r") as f:
+        lines = f.readlines()
+    gen = 0
+    for i, line in enumerate(lines):
+        if "FIXED" in line:
+            # Find previous generation line
+            j = i - 1
+            gen_line = lines[j].strip()
+            gen = int(gen_line.split(":")[1].strip())
+            break
+    return gen
+
+
+#########################
+# LOAD ------------------
+#########################
+
+data = {
+    'GR1': [],
+    'GR10': [],
+    'GR50': [],
+    'GR100': []
+}
+
+df_neutral = pd.DataFrame(data)
+df_sweep = pd.DataFrame(data)
+
 def load_data(path_prefix, replicatenumber, GR):
-    data_all = []
-    snps_all = []
+    # Temporary structure to accumulate data
+    data = {f'GR{i}': [] for i in GR}
+    snps = {f'GR{i}': [] for i in GR}
     for r in range(1, replicatenumber + 1):
-        data_r = []
-        snps_r = []
-        for i, gr in enumerate(GR):
-            file = f"{path_prefix}/sfs_{r}_{gr}.csv"
-            with open(file, newline='') as csv_file:
-                csv_content = csv.reader(csv_file, delimiter=",")
-                for ligne in csv_content:
-                    data_add = [float(x) for x in ligne[1:]]
-                    snps_add = float(ligne[0])
-                    data_r.append(data_add)
-                    snps_r.append(snps_add)
-        data_all.append(data_r)
-        snps_all.append(snps_r)
-    return data_all, snps_all
-
-data_sweep, snps_sweep = load_data(out_dirs[0], replicatenumber, GR)
-data_neutral, snps_neutral = load_data(out_dirs[1], replicatenumber, GR)
-
-# ----------------------
-# Mean Frequency
-# ----------------------
-def get_mean_freq(data, snps, GR_index):
-    n_classes = len(data[0][GR_index])
-    mean_data = [0.0] * n_classes
-    for i in range(len(data)):
-        if snps[i][GR_index] == 0:
-            continue
-        for j in range(n_classes):
-            mean_data[j] += data[i][GR_index][j] / snps[i][GR_index]
-    mean_data = [x / len(data) for x in mean_data]
-    return mean_data
-
-# --------------------
-# Get the snps
-# --------------------
-def get_snps(snps, GR) :
-    res = []
-    for i in range(len(snps)): # rep
-        res.append(snps[i][GR])
-    return res
+        for i in GR:
+            gr_name = f'GR{i}'
+            file = f"{path_prefix}/sfs_{r}_{i}.csv"
+            try:
+                with open(file, newline='') as csv_file:
+                    csv_content = csv.reader(csv_file, delimiter=",")
+                    for row in csv_content:
+                        # Convert to floats (skip the first element)
+                        data_add = [float(x) for x in row[1:]]
+                        snp_add = float(row[0])
+                        if snp_add < 10 or sum(data_add) > 1.000001 :
+                            print("Nbr of snps/sites : ", snp_add)
+                            print("Somme data_add : ", sum(data_add))
+                            print("R : ", r)
+                            print("GR : ", i)
+                            print("Path prefix : ", path_prefix)
+                        else :
+                            snps[gr_name].append(snp_add)
+                            data[gr_name].append(data_add)
+            except FileNotFoundError:
+                print(f"File not found: {file}")
+    
+    # Create DataFrame from list of lists
+    df = pd.DataFrame({k: pd.Series(v) for k, v in data.items()})
+    snps = pd.DataFrame({k: pd.Series(v) for k, v in snps.items()})
+    return df, snps
 
 
-# ----------------------
-#Division Function
-# ----------------------
-def safe_divide(numerator, denominator):
-    numerator = np.array(numerator)
-    denominator = np.array(denominator)
-    with np.errstate(divide='ignore', invalid='ignore'):
-        result = np.true_divide(numerator, denominator)
-        result[~np.isfinite(result)] = 0.0  # replace inf, -inf, nan with 0
-    return result
-
-# ----------------------
-# Compute Frequencies and Ratios
-# ----------------------
-with np.errstate(invalid='ignore'):
-    GR1_neutral = get_mean_freq(data_neutral, snps_neutral, 0)
-    GR1_sweep = get_mean_freq(data_sweep, snps_sweep, 0)
-    GR1_neutral_ratio = safe_divide(GR1_neutral, GR1_neutral)
-    GR1_sweep_ratio = safe_divide(GR1_sweep, GR1_neutral)
-    neutral_gr1_snps = get_snps(snps_neutral, 0)
-    sweep_gr1_snps = get_snps(snps_sweep, 0)
-
-    GR10_neutral = get_mean_freq(data_neutral, snps_neutral, 1)
-    GR10_sweep = get_mean_freq(data_sweep, snps_sweep, 1)
-    GR10_neutral_ratio = safe_divide(GR10_neutral, GR1_neutral)
-    GR10_sweep_ratio = safe_divide(GR10_sweep, GR1_neutral)
-    neutral_gr10_snps = get_snps(snps_neutral, 1)
-    sweep_gr10_snps = get_snps(snps_sweep, 1)
-
-    GR50_neutral = get_mean_freq(data_neutral, snps_neutral, 2)
-    GR50_sweep = get_mean_freq(data_sweep, snps_sweep, 2)
-    GR50_neutral_ratio = safe_divide(GR50_neutral, GR1_neutral)
-    GR50_sweep_ratio = safe_divide(GR50_sweep, GR1_neutral)
-    neutral_gr50_snps = get_snps(snps_neutral, 2)
-    sweep_gr50_snps = get_snps(snps_sweep, 2)
-
-    GR100_neutral = get_mean_freq(data_neutral, snps_neutral, 3)
-    GR100_sweep = get_mean_freq(data_sweep, snps_sweep, 3)
-    GR100_neutral_ratio = safe_divide(GR100_neutral, GR1_neutral)
-    GR100_sweep_ratio = safe_divide(GR100_sweep, GR1_neutral)
-    neutral_gr100_snps = get_snps(snps_neutral, 3)
-    sweep_gr100_snps = get_snps(snps_sweep, 3)
-
-# ----------------------
-# Plotting
-# ----------------------
-x = list(range(1, len(GR1_neutral_ratio) + 1))
-
-# --- Combined plot ---
-plt.figure(figsize=(10, 6))
-plt.plot(x, GR1_neutral_ratio, label="GR=1 (neutral)", color="blue")
-plt.plot(x, GR10_neutral_ratio, label="GR=10 (neutral)", color="green")
-plt.plot(x, GR50_neutral_ratio, label="GR=50 (neutral)", color="orange")
-plt.plot(x, GR100_neutral_ratio, label="GR=100 (neutral)", color="purple")
-plt.plot(x, GR1_sweep_ratio, label="GR=1 (sweep)", linestyle="-.", color="blue")
-plt.plot(x, GR10_sweep_ratio, label="GR=10 (sweep)", linestyle="-.", color="green")
-plt.plot(x, GR50_sweep_ratio, label="GR=50 (sweep)", linestyle="-.", color="orange")
-plt.plot(x, GR100_sweep_ratio, label="GR=100 (sweep)", linestyle="-.", color="purple")
-plt.xlabel("Number of sites in common")
-plt.ylabel("Relative SFS (normalized by GR=1 neutral)")
-plt.title("SFS Ratio per Generation Rate (Neutral vs Sweep)")
-plt.legend()
-plt.grid(True)
-plt.tight_layout()
-plt.savefig(f"sfs_comparison_{typ}.pdf", dpi=300)
-
-# --- Sweep-only plot ---
-plt.figure(figsize=(10, 6))
-plt.plot(x, GR1_neutral_ratio, label="GR=1 (neutral)", color="blue")
-plt.plot(x, GR1_sweep_ratio, label="GR=1 (sweep)", linestyle="-.", color="blue")
-plt.plot(x, GR10_sweep_ratio, label="GR=10 (sweep)", linestyle="-.", color="green")
-plt.plot(x, GR50_sweep_ratio, label="GR=50 (sweep)", linestyle="-.", color="orange")
-plt.plot(x, GR100_sweep_ratio, label="GR=100 (sweep)", linestyle="-.", color="purple")
-plt.xlabel("Number of sites in common")
-plt.ylabel("Relative SFS (normalized by GR=1 neutral)")
-plt.title("SFS Ratio per Generation Rate (Sweep)")
-plt.legend()
-plt.grid(True)
-plt.tight_layout()
-plt.savefig(f"sfs_comparison_{typ}_sweep.pdf", dpi=300)
-
-# --- Neutral-only plot ---
-plt.figure(figsize=(10, 6))
-plt.plot(x, GR1_neutral_ratio, label="GR=1 (neutral)", color="blue")
-plt.plot(x, GR10_neutral_ratio, label="GR=10 (neutral)", color="green")
-plt.plot(x, GR50_neutral_ratio, label="GR=50 (neutral)", color="orange")
-plt.plot(x, GR100_neutral_ratio, label="GR=100 (neutral)", color="purple")
-plt.xlabel("Number of sites in common")
-plt.ylabel("Relative SFS (normalized by GR=1 neutral)")
-plt.title("SFS Ratio per Generation Rate (Neutral)")
-plt.legend()
-plt.grid(True)
-plt.tight_layout()
-plt.savefig(f"sfs_comparison_{typ}_neutral.pdf", dpi=300)
+df_sweep, snps_sweep = load_data(out_dirs[0], replicatenumber, GR)
 
 
-# --- SNPS  ---
-groups = ['GR1', 'GR10', 'GR50', 'GR100']
+# Mean --------------------------------------
+def average_sfs_by_gr(df):
+    """
+    Prend un DataFrame contenant des listes de listes (une par GR)
+    et retourne un dictionnaire contenant la moyenne élément par élément
+    pour chaque GR.
+    """
+    averaged_data = {}
+    
+    for gr_name in df.columns:
+        # Récupérer les listes (une par réplica) pour ce GR
+        list_of_lists = df[gr_name].dropna().tolist()  # enlever les valeurs manquantes éventuelles
 
-neutral_data = [neutral_gr1_snps, neutral_gr10_snps, neutral_gr50_snps, neutral_gr100_snps]
-sweep_data = [sweep_gr1_snps, sweep_gr10_snps, sweep_gr50_snps, sweep_gr100_snps]
+        if list_of_lists:
+            # Moyenne élément par élément
+            array_data = np.array(list_of_lists)
+            averaged_list = np.mean(array_data, axis=0).tolist()
+            averaged_data[gr_name] = averaged_list
+        else:
+            averaged_data[gr_name] = []
 
-# Position des boxplots sur l'axe x
-positions_neutral = [i*2 for i in range(len(groups))]      # 0, 2, 4, 6
-positions_sweep = [i*2 + 1 for i in range(len(groups))]    # 1, 3, 5, 7
+    return averaged_data
+# ----------------------------------------------------------
 
+averaged_results = average_sfs_by_gr(df_sweep)
+
+
+
+# Median -----------------------------------------------------------
+def median_sfs_by_gr(df):
+    """
+    Prend un DataFrame contenant des listes de listes (une par GR)
+    et retourne un dictionnaire contenant la médiane élément par élément
+    pour chaque GR.
+    """
+    median_data = {}
+
+    for gr_name in df.columns:
+        # Récupérer les listes (une par réplica) pour ce GR
+        list_of_lists = df[gr_name].dropna().tolist()
+
+        if list_of_lists:
+            # Calcul de la médiane élément par élément
+            array_data = np.array(list_of_lists)
+            median_list = np.median(array_data, axis=0).tolist()
+            median_data[gr_name] = median_list
+        else:
+            median_data[gr_name] = []
+
+    return median_data
+
+# ------------------------------------------------
+median_results = median_sfs_by_gr(df_sweep)
+
+# GR1 neutral ratio -------------------------------------------
+# -------------------------------------------------------------
+
+
+def ratio_gr1_by_gr(df_sweep, df_neutral) :
+
+    average_sfs_sweep = average_sfs_by_gr(df_sweep)
+    average_sfs_neutral = average_sfs_by_gr(df_neutral)
+    gr1_neutral = average_sfs_neutral['GR1']
+    ratios_neutral = {}
+    ratios_sweep = {}
+    for gr_name, avg in average_sfs_neutral.items():
+        if len(avg) == len(gr1_neutral):
+            with np.errstate(divide='ignore', invalid='ignore'):
+                ratio = np.divide(avg, gr1_neutral)
+                ratio = np.nan_to_num(ratio, nan=0.0, posinf=0.0, neginf=0.0)
+            ratios_neutral[gr_name] = ratio.tolist()
+        else:
+            ratios_neutral[gr_name] = []
+
+    for gr_name, avg in average_sfs_sweep.items():
+        if len(avg) == len(gr1_neutral):
+            with np.errstate(divide='ignore', invalid='ignore'):
+                ratio = np.divide(avg, gr1_neutral)
+                ratio = np.nan_to_num(ratio, nan=0.0, posinf=0.0, neginf=0.0)
+            ratios_sweep[gr_name] = ratio.tolist()
+        else:
+            ratios_sweep[gr_name] = []
+
+    return ratios_neutral, ratios_sweep
+
+
+
+df_sweep, snps_sweep = load_data(out_dirs[0], replicatenumber, GR)
+df_neutral, snps_neutral = load_data(out_dirs[1], replicatenumber, GR)
+
+ratios_neutral, ratios_sweep = ratio_gr1_by_gr(df_sweep, df_neutral)
+
+
+# -------------------------------------------------------------
+# -------------------------------------------------------------
+# PLOTS 
+# -------------------------------------------------------------
+# -------------------------------------------------------------
+
+def plot_average_sfs(average_sfs_sweep, average_sfs_neutral, sweep=True, neutral=True):
+    """
+    Plot average SFS for each GR with same color for sweep and neutral,
+    solid line for sweep and dashed line for neutral. No markers.
+    """
+    gr_names = sorted(average_sfs_sweep.keys())  # to keep order consistent
+    num_bins = len(next(iter(average_sfs_sweep.values())))
+    half_length = num_bins // 2
+    x = list(range(1, half_length + 1))
+
+    
+    # Get a color map
+    cmap = plt.get_cmap("tab10")
+    
+    plt.figure(figsize=(12, 6))
+
+    for idx, gr in enumerate(gr_names):
+        y_sweep = average_sfs_sweep[gr][:half_length]
+        y_neutral = average_sfs_neutral.get(gr, [0]*num_bins)[:half_length]
+
+
+        color = cmap(idx % 10)  # cycle colors if more than 10 GRs
+        if sweep :
+            plt.plot(x, y_sweep, label=f'{gr} Sweep', linestyle='--', color=color)
+        if neutral :
+            plt.plot(x, y_neutral, label=f'{gr} Neutral', linestyle='-', color=color)
+
+    plt.xlabel("Number of individuals with the common mutation")
+    plt.ylabel("Percentage of the mutations Having affecting x individuals")
+    plt.title("Average Site Frequency Spectrum")
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+    if not sweep :
+        plt.savefig(f"sfs_average_neutral_{typ}.pdf", dpi=300)
+    else :
+        if not neutral :
+            plt.savefig(f"sfs_average_sweep_{typ}.pdf", dpi=300)
+        else :
+            plt.savefig(f"sfs_average_{typ}.pdf", dpi=300)
+
+# Calculate average SFS for both sweep and neutral
+average_sfs_sweep = average_sfs_by_gr(df_sweep)
+average_sfs_neutral = average_sfs_by_gr(df_neutral)
+
+plot_average_sfs(average_sfs_sweep, average_sfs_neutral)
+plot_average_sfs(average_sfs_sweep, average_sfs_neutral, sweep=False)
+plot_average_sfs(average_sfs_sweep, average_sfs_neutral, neutral=False)
+
+
+
+# Ratios --------------------------------
+
+def plot_sfs_ratios(ratios_sweep, ratios_neutral, sweep=True, neutral=True):
+    """
+    Plot only the first half of SFS ratios for each GR with same color.
+    Solid line = sweep ratio, dashed line = neutral ratio.
+    """
+    gr_names = sorted(ratios_sweep.keys())
+    full_length = len(next(iter(ratios_sweep.values())))
+    half_length = full_length // 2
+    x = list(range(1, half_length + 1))
+
+    cmap = plt.get_cmap("tab10")
+
+    plt.figure(figsize=(12, 6))
+
+    for idx, gr in enumerate(gr_names):
+        y_sweep = ratios_sweep.get(gr, [0]*full_length)[:half_length]
+        y_neutral = ratios_neutral.get(gr, [0]*full_length)[:half_length]
+        color = cmap(idx % 10)
+        if sweep :
+            plt.plot(x, y_sweep, label=f'{gr} Sweep Ratio', linestyle='--', color=color)
+        if neutral :
+            plt.plot(x, y_neutral, label=f'{gr} Neutral Ratio', linestyle='-', color=color)
+    plt.xlabel("Number of individuals with the common mutation")
+    plt.ylabel("Ratio (to GR1 Neutral)")
+    plt.title("SFS Ratios to GR1 Neutral")
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+    if not sweep :
+        plt.savefig(f"sfs_ratios_neutral_{typ}.pdf", dpi=300)
+    else :
+        if not neutral :
+            plt.savefig(f"sfs_ratios_sweep_{typ}.pdf", dpi=300)
+        else :
+            plt.savefig(f"sfs_ratios_{typ}.pdf", dpi=300)
+
+ratios_neutral, ratios_sweep = ratio_gr1_by_gr(df_sweep, df_neutral)
+plot_sfs_ratios(ratios_sweep, ratios_neutral)
+plot_sfs_ratios(ratios_sweep, ratios_neutral, sweep=False)
+plot_sfs_ratios(ratios_sweep, ratios_neutral, neutral=False)
+
+#################################
+###### BOXPLOT SNPS #############
+################################
+
+
+
+def prepare_snps_for_boxplot(snps_sweep, snps_neutral):
+    data = []
+    for gr in snps_sweep.columns:
+        # sweep
+        vals_sweep = snps_sweep[gr].dropna().tolist()
+        data.extend([(gr, 'Sweep', v) for v in vals_sweep])
+        # neutral
+        vals_neutral = snps_neutral[gr].dropna().tolist()
+        data.extend([(gr, 'Neutral', v) for v in vals_neutral])
+
+    df_long = pd.DataFrame(data, columns=['GR', 'Condition', 'SNP'])
+    return df_long
+
+# Prépare les données
+df_snps_long = prepare_snps_for_boxplot(snps_sweep, snps_neutral)
+
+# Plot
 plt.figure(figsize=(10,6))
-
-# Boxplots neutral (gauche)
-plt.boxplot(neutral_data, positions=positions_neutral, widths=0.6, patch_artist=True,
-            boxprops=dict(facecolor="lightblue"), medianprops=dict(color="blue"), labels=None)
-
-# Boxplots sweep (droite)
-plt.boxplot(sweep_data, positions=positions_sweep, widths=0.6, patch_artist=True,
-            boxprops=dict(facecolor="lightcoral"), medianprops=dict(color="red"), labels=None)
-
-# X axis ticks au centre des groupes
-xticks_positions = [(n + s)/2 for n, s in zip(positions_neutral, positions_sweep)]
-plt.xticks(xticks_positions, groups)
-
-plt.xlabel("Groupes GR")
-plt.ylabel("Nombre de SNPs")
-plt.title("Comparaison du nombre des SNPs par groupe et condition")
-plt.plot([], c="lightblue", label="Neutral")
-plt.plot([], c="lightcoral", label="Sweep")
-plt.legend()
-
-plt.savefig(f"snps_{typ}.pdf", dpi=300)
-
-
-
-# ---------------------
-# Plot w/o ratio
-# ---------------------
-
-plt.figure(figsize=(10, 6))
-plt.plot(x, GR1_neutral, label="GR=1 (neutral)", color="blue")
-plt.plot(x, GR10_neutral, label="GR=10 (neutral)", color="green")
-plt.plot(x, GR50_neutral, label="GR=50 (neutral)", color="orange")
-plt.plot(x, GR100_neutral, label="GR=100 (neutral)", color="purple")
-plt.plot(x, GR1_sweep, label="GR=1 (sweep)", linestyle="-.", color="blue")
-plt.plot(x, GR10_sweep, label="GR=10 (sweep)", linestyle="-.", color="green")
-plt.plot(x, GR50_sweep, label="GR=50 (sweep)", linestyle="-.", color="orange")
-plt.plot(x, GR100_sweep, label="GR=100 (sweep)", linestyle="-.", color="purple")
-plt.xlabel("Number of sites in common")
-plt.ylabel("SFS (normalized by GR=1 neutral)")
-plt.title("SFS per Generation Rate (Neutral vs Sweep)")
-plt.legend()
+sns.boxplot(x='GR', y='SNP', hue='Condition', data=df_snps_long, palette='Set2')
+plt.title('Distribution of SNPs by GR and Condition')
 plt.grid(True)
 plt.tight_layout()
-plt.savefig(f"sfs_{typ}.pdf", dpi=300)
-
-
+plt.savefig(f'boxplots_snps_{typ}.pdf', dpi=300)
